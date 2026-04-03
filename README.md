@@ -1,16 +1,18 @@
 # Algeria Wilayas & Communes 2026 🇩🇿
 
-A developer-friendly and structured dataset containing all **69 wilayas (provinces)** and **1,541 communes (municipalities)** of Algeria, including **geographic coordinates (longitude/latitude)** for each wilaya capital.
+A developer-friendly and structured dataset containing all **69 wilayas (provinces)** and **1,541 communes (municipalities)** of Algeria, including **geographic coordinates (longitude/latitude)**.
+
+---
 
 ## 📦 Dataset Overview
 
-| Item                | Count              |
-| ------------------- | ------------------ |
-| Wilayas             | 69                 |
-| Communes            | 1,541              |
-| Capital Coordinates | Included           |
-| Formats             | CSV (JSON planned) |
-| Country             | Algeria 🇩🇿         |
+| Item        | Count                               |
+| ----------- | ----------------------------------- |
+| Wilayas     | 69                                  |
+| Communes    | 1,541                               |
+| Coordinates | Included                            |
+| Formats     | CSV, JSON, GeoJSON, Excel, SQL, PHP |
+| Country     | Algeria 🇩🇿                          |
 
 ---
 
@@ -18,12 +20,30 @@ A developer-friendly and structured dataset containing all **69 wilayas (provinc
 
 - Complete list of **69 Algerian wilayas**
 - Full coverage of **1,541 communes**
-- Accurate **longitude and latitude** for the commune
-- Clean and structured **CSV format**
+- Accurate **latitude and longitude**
+- Multilingual data (**Arabic / French**)
+- Available in multiple formats for easy integration
+- Ready to use for **GIS, geoportals, and backend systems**
 
 ---
 
-### Data Structure
+## 📁 Repository Structure
+
+```
+algeria-cities/
+│
+├── csv/       # CSV format
+├── excel/     # Excel files (.xlsx)
+├── geojson/   # GeoJSON format (for GIS / maps)
+├── json/      # JSON format
+├── php/       # PHP arrays
+├── sql/       # SQL dump / inserts
+└── README.md
+```
+
+---
+
+## 📄 Data Structure
 
 | Column          | Type    | Description                          |
 | --------------- | ------- | ------------------------------------ |
@@ -36,8 +56,10 @@ A developer-friendly and structured dataset containing all **69 wilayas (provinc
 | wilaya_name     | string  | Wilaya name in Arabic                |
 | wilaya_name_fr  | string  | Wilaya name in French                |
 | code_commune    | string  | Official commune administrative code |
-| Lat             | float   | Latitude of the wilaya capital       |
-| Long            | float   | Longitude of the wilaya capital      |
+| Lat             | float   | Latitude                             |
+| Long            | float   | Longitude                            |
+
+---
 
 ## 🤝 Contributing
 
@@ -48,8 +70,8 @@ You can help by:
 - Fixing incorrect coordinates
 - Adding missing communes
 - Improving data accuracy
-- Adding new formats (JSON, GeoJSON)
-- Enhancing documentation
+- Enhancing formats or structure
+- Improving documentation
 
 ### Steps
 
@@ -62,12 +84,12 @@ You can help by:
 
 ## 🐞 Issues
 
-If you find any error in the dataset or want to request a feature, please open an issue:
+If you find any error or want to request a feature, please open an issue:
 
 **Issues:**
 `../../issues`
 
-Provide:
+Please include:
 
 - Wilaya name
 - Commune name
