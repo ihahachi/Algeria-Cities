@@ -1,0 +1,1542 @@
+﻿﻿id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name;wilaya_name_fr;code_commune;Lat;Long
+1;تيمقتن;Timekten;أولف;Aoulef;1;أدرار;Adrar;113;27.021666;1.015
+2;بودة;Bouda;أدرار;Adrar;1;أدرار;Adrar;122;28.0142;-0.50254
+3;أولاد أحمد تيمي;Ouled Ahmed Timmi;أدرار;Adrar;1;أدرار;Adrar;121;27.851111;0.2863
+4;أدرار;Adrar;أدرار;Adrar;1;أدرار;Adrar;101;27.87429;-0.297222
+5;فنوغيل;Fenoughil;فنوغيل;Fenoughil;1;أدرار;Adrar;115;27.602777;0.3
+6;عين زغمير;Ain Zghmir;زاوية كنتة;Zaouiat Kounta;1;أدرار;Adrar;105;27.09388889;-0.121
+7;رقان;Reggane;رقان;Reggane;1;أدرار;Adrar;104;26.71576;0.1714
+8;سالي;Sali;رقان;Reggane;1;أدرار;Adrar;118;26.983333;-0.0275
+9;السبع;Sebaa;تسابيت;Tsabit;1;أدرار;Adrar;126;28.21194;-0.175
+10;تسابيت;Tsabit;تسابيت;Tsabit;1;أدرار;Adrar;108;28.35049;-0.216111
+11;تامست;Tamest;فنوغيل;Fenoughil;1;أدرار;Adrar;102;27.416666;0.2667
+12;تامنطيط;Tamantit;فنوغيل;Fenoughil;1;أدرار;Adrar;114;27.7605;-0.266699
+13;تيت;Tit;أولف;Aoulef;1;أدرار;Adrar;106;26.95083333;1.015
+14;زاوية كنتة;Zaouiet Kounta;زاوية كنتة;Zaouiat Kounta;1;أدرار;Adrar;111;27.22269;-0.19781
+15;اقبلي;Akabli;أولف;Aoulef;1;أدرار;Adrar;119;26.70828;0.2833
+16;أولف;Aoulef;أولف;Aoulef;1;أدرار;Adrar;112;26.96667;1.08333
+17;تلعصة;Talassa;أبو الحسن;Abou El Hassane;2;الشلف;Chlef;214;36.4288223;1.05
+18;الزبوجة;Zeboudja;الزبوجة;Zeboudja;2;الشلف;Chlef;220;36.350527;1.430283
+19;الحجاج;El Hadjadj;أولاد بن عبد القادر;Ouled Ben Abdelkader;2;الشلف;Chlef;227;36.0158333;1.3783333
+20;أولاد بن عبد القادر;Ouled Ben Abdelkader;أولاد بن عبد القادر;Ouled Ben Abdelkader;2;الشلف;Chlef;228;36.0258;1.28
+21;عين مران;Ain Merane;عين مران;Ain Merane;2;الشلف;Chlef;206;36.16277;0.97037
+22;بريرة;Breira;بني حواء;Beni Haoua;2;الشلف;Chlef;234;36.4488017;1.6482
+23;أولاد عباس;Ouled Abbes;وادي الفضة;Oued Fodda;2;الشلف;Chlef;218;36.21909;1.483333333
+24;وادي الفضة;Oued Fodda;وادي الفضة;Oued Fodda;2;الشلف;Chlef;219;36.183333;1.5499211
+25;بني راشد;Beni Rached;وادي الفضة;Oued Fodda;2;الشلف;Chlef;233;36.280556;1.516111
+26;الهرانفة;Herenfa;عين مران;Ain Merane;2;الشلف;Chlef;215;36.245277;0.970516
+27;تاجنة;Tadjena;أبو الحسن;Abou El Hassane;2;الشلف;Chlef;205;36.3167;1.335167
+28;المرسى;El Marsa;المرسى;El Marsa;2;الشلف;Chlef;223;36.401579;0.9161822
+29;الشلف;Chlef;الشلف;Chlef;2;الشلف;Chlef;201;36.1647;1.3317
+30;أم الدروع;Oum Drou;الشلف;Chlef;2;الشلف;Chlef;222;36.2;1.3833
+31;سنجاس;Sendjas;الشلف;Chlef;2;الشلف;Chlef;221;36.0696;1.309028
+32;سيدي عبد الرحمن;Sidi Abderrahmane;تنس;Tenes;2;الشلف;Chlef;225;36.4922766;1.0957418
+33;سيدي عكاشة;Sidi Akkacha;تنس;Tenes;2;الشلف;Chlef;211;36.46472;1.303
+34;تنس;Tenes;تنس;Tenes;2;الشلف;Chlef;202;36.509722;1.30809
+35;بني بوعتاب;Beni Bouattab;الكريمية;El Karimia;2;الشلف;Chlef;235;36.0019469;1.6469253
+36;الكريمية;El Karimia;الكريمية;El Karimia;2;الشلف;Chlef;213;36.116111;1.55
+37;حرشون;Harchoun;الكريمية;El Karimia;2;الشلف;Chlef;230;36.11354;1.506
+38;بوزغاية;Bouzeghaia;الزبوجة;Zeboudja;2;الشلف;Chlef;231;36.338889;1.0503
+39;تاوقريت;Taougrit;تاوقريت;Taougrit;2;الشلف;Chlef;207;36.244723;0.922852
+40;بني حواء;Beni Haoua;بني حواء;Beni Haoua;2;الشلف;Chlef;207;36.5311;1.56891
+41;أبو الحسن;Abou El Hassane;أبو الحسن;Abou El Hassane;2;الشلف;Chlef;218;36.4;1.1929114
+42;وادي قوسين;Oued Goussine;بني حواء;Beni Haoua;2;الشلف;Chlef;216;36.525556;1.4967
+43;الشطية;Chettia;أولاد فارس;Ouled Fares;2;الشلف;Chlef;224;36.1589988;1.2409799
+44;مصدق;Moussadek;المرسى;El Marsa;2;الشلف;Chlef;226;36.3333333;0.7303
+45;أولاد فارس;Ouled Fares;أولاد فارس;Ouled Fares;2;الشلف;Chlef;210;36.2316052;1.236999
+46;بوقادير;Boukadir;بوقادير;Boukadir;2;الشلف;Chlef;212;36.066944;1.126
+47;وادي سلي;Oued Sly;بوقادير;Boukadir;2;الشلف;Chlef;221;36.1;1.2
+48;الصبحة;Sobha;بوقادير;Boukadir;2;الشلف;Chlef;258;36.1100346;1.110123
+49;بنايرية;Benairia;الزبوجة;Zeboudja;2;الشلف;Chlef;203;36.3539;1.37403
+50;الأبيض مجاجة;Labiod Medjadja;أولاد فارس;Ouled Fares;2;الشلف;Chlef;228;36.2767832;1.3855161
+51;الظهرة;Dahra;تاوقريت;Taougrit;2;الشلف;Chlef;217;36.255278;0.85174
+52;البيضاء;El Beidha;قتلة سيدي سعيد;Gueltat Sidi Saad;3;الأغواط;Laghouat;312;34.47475;2.17408
+53;قلتة سيدي سعد;Gueltat Sidi Saad;قتلة سيدي سعيد;Gueltat Sidi Saad;3;الأغواط;Laghouat;310;34.2961;1.94667
+54;عين سيدي علي;Ain Sidi Ali;قتلة سيدي سعيد;Gueltat Sidi Saad;3;الأغواط;Laghouat;311;34.184318;1.54179
+55;تاجموت;Tadjemout;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;308;33.87729;2.52113
+56;تاجرونة;Tadjrouna;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;318;33.503632;2.101217
+57;الأغواط;Laghouat;الأغواط;Laghouat;3;الأغواط;Laghouat;301;33.8;2.875
+58;قصر الحيران;Ksar El Hirane;قصر الحيران;Ksar El Hirane;3;الأغواط;Laghouat;302;33.788564;3.140717
+59;العسافية;El Assafia;سيدي مخلوف;Sidi Makhlouf;3;الأغواط;Laghouat;320;33.8264;2.9899
+60;سيدي مخلوف;Sidi Makhlouf;سيدي مخلوف;Sidi Makhlouf;3;الأغواط;Laghouat;304;34.12942;3.01436
+61;حاسي الدلاعة;Hassi Delaa;حاسي الرمل;Hassi R'mel;3;الأغواط;Laghouat;305;33.41742;3.55021
+62;حاسي الرمل;Hassi R'mel;حاسي الرمل;Hassi R'mel;3;الأغواط;Laghouat;306;32.928;3.271
+63;عين ماضي;Ain Madhi;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;307;33.7956;2.3052
+64;الحويطة;El Haouaita;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;545;33.7225;3.19306
+65;الخنق;Kheneg;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;309;33.744444;2.794
+66;بن ناصر بن شهرة;Benacer Benchohra;قصر الحيران;Ksar El Hirane;3;الأغواط;Laghouat;303;33.75;3.44722
+67;فكيرينة;Fkirina;فكيرينة;F'kirina;4;أم البواقي;Oum El Bouaghi;416;35.663889;7.2989
+68;الفجوج بوغرارة سعودي;El Fedjoudj Boughrara Sa;عين فكرون;Ain Fekroun;4;أم البواقي;Oum El Bouaghi;419;35.70805;6.816944
+69;عين فكرون;Ain Fekroun;عين فكرون;Ain Fekroun;4;أم البواقي;Oum El Bouaghi;425;35.9711;6.8737
+70;الرحية;Rahia;مسكيانة;Meskiana;4;أم البواقي;Oum El Bouaghi;417;35.716667;6.933333
+71;مسكيانة;Meskiana;مسكيانة;Meskiana;4;أم البواقي;Oum El Bouaghi;404;35.631;7.6669
+72;البلالة;El Belala;مسكيانة;Meskiana;4;أم البواقي;Oum El Bouaghi;413;35.665278;7.788333
+73;بحير الشرقي;Behir Chergui;مسكيانة;Meskiana;4;أم البواقي;Oum El Bouaghi;404;35.790804;7.6833
+74;قصر الصباحي;Ksar Sbahi;قصر الصباحي;Ksar Sbahi;4;أم البواقي;Oum El Bouaghi;422;36.0833;7.25
+75;سوق نعمان;Souk Naamane;سوق نعمان;Souk Naamane;4;أم البواقي;Oum El Bouaghi;417;35.895833;6.389444
+76;أولاد زواي;Ouled Zouai;سوق نعمان;Souk Naamane;4;أم البواقي;Oum El Bouaghi;420;35.836111;6.506667
+77;أم البواقي;Oum El Bouaghi;أم البواقي;Oum El Bouaghi;4;أم البواقي;Oum El Bouaghi;401;35.8706;7.117
+78;عين ببوش;Ain Babouche;عين ببوش;Ain Babouche;4;أم البواقي;Oum El Bouaghi;422;35.941111;7.1875
+79;عين الزيتون;Ain Zitoun;أم البواقي;Oum El Bouaghi;4;أم البواقي;Oum El Bouaghi;406;35.684444;6.9403
+80;بئر الشهداء;Bir Chouhada;سوق نعمان;Souk Naamane;4;أم البواقي;Oum El Bouaghi;421;35.894444;6.29
+81;عين البيضاء;Ain Beida;عين البيضاء;Ain Beida;4;أم البواقي;Oum El Bouaghi;405;35.7981327;7.3921734
+82;بريش;Berriche;عين البيضاء;Ain Beida;4;أم البواقي;Oum El Bouaghi;409;35.795833;7.37667
+83;الزرق;Zorg;عين البيضاء;Ain Beida;4;أم البواقي;Oum El Bouaghi;418;35.78777778;7.468055
+84;عين مليلة;Ain M'lila;عين مليلة;Ain M'lila;4;أم البواقي;Oum El Bouaghi;403;36.03823;6.57318
+85;أولاد قاسم;Ouled Gacem;عين مليلة;Ain M'lila;4;أم البواقي;Oum El Bouaghi;428;36.034166;6.6658
+86;أولاد حملة;Ouled Hamla;عين مليلة;Ain M'lila;4;أم البواقي;Oum El Bouaghi;410;36.09042;6.46483
+87;العامرية;El Amiria;سيقوس;Sigus;4;أم البواقي;Oum El Bouaghi;424;36.111944;6.8822
+88;سيقوس;Sigus;سيقوس;Sigus;4;أم البواقي;Oum El Bouaghi;406;36.12361;6.7708138
+89;وادي نيني;Oued Nini;فكيرينة;F'kirina;4;أم البواقي;Oum El Bouaghi;423;35.5722;7.298855
+90;عين الديس;Ain Diss;عين ببوش;Ain Babouche;4;أم البواقي;Oum El Bouaghi;415;36.03;7.8
+91;الضلعة;Dhalaa;الضلعة;Dhalaa;4;أم البواقي;Oum El Bouaghi;411;35.461111;7.547222
+92;الجازية;El Djazia;الضلعة;Dhalaa;4;أم البواقي;Oum El Bouaghi;414;35.663154;7.5071271
+93;عين كرشة;Ain Kercha;عين كرشة;Ain Kercha;4;أم البواقي;Oum El Bouaghi;412;35.916667;6.68333
+94;الحرملية;El Harmilia;عين كرشة;Ain Kercha;4;أم البواقي;Oum El Bouaghi;424;35.923532;6.619263
+95;هنشير تومغني;Hanchir Toumghani;عين كرشة;Ain Kercha;4;أم البواقي;Oum El Bouaghi;413;35.934722;6.7808
+96;معافة;Maafa;عين التوتة;Ain Touta;5;باتنة;Batna;503;35.266667;5.9198387
+97;القصبات;Gosbat;رأس العيون;Ras El Aioun;5;باتنة;Batna;539;35.6667;5.517
+98;تيمقاد;Timgad;تيمقاد;Timgad;5;باتنة;Batna;521;35.485165;6.4686
+99;تاكسلانت;Taxlent;أولاد سي سليمان;Ouled Si Slimane;5;باتنة;Batna;538;35.5333;5.81667
+100;أولاد سي سليمان;Ouled Si Slimane;أولاد سي سليمان;Ouled Si Slimane;5;باتنة;Batna;553;35.610833;5.632777
+101;لمسان;Lemcene;أولاد سي سليمان;Ouled Si Slimane;5;باتنة;Batna;527;35.7981327;5.8679
+102;تالخمت;Talkhamt;رأس العيون;Ras El Aioun;5;باتنة;Batna;534;35.665278;5.8667
+103;رأس العيون;Ras El Aioun;رأس العيون;Ras El Aioun;5;باتنة;Batna;536;35.675;5.65
+104;الرحبات;Rahbat;رأس العيون;Ras El Aioun;5;باتنة;Batna;525;35.5333;5.65
+105;أولاد سلام;Ouled Sellem;رأس العيون;Ras El Aioun;5;باتنة;Batna;520;35.8411857;5.8822
+106;القيقبة;Guigba;رأس العيون;Ras El Aioun;5;باتنة;Batna;510;35.807778;6
+107;ثنية العابد;Teniet El Abed;ثنية العابد;Theniet El Abed;5;باتنة;Batna;547;35.24695;6.19062
+108;باتنة;Batna;باتنة;Batna;5;باتنة;Batna;501;35.55597;6.1741447
+109;فسديس;Fesdis;باتنة;Batna;5;باتنة;Batna;523;35.62;6.27476
+110;وادي الشعبة;Oued Chaaba;باتنة;Batna;5;باتنة;Batna;537;35.504722;6.07784
+111;حيدوسة;Hidoussa;مروانة;Merouana;5;باتنة;Batna;546;35.6375;5.9375
+112;قصر بلزمة;Ksar Bellezma;مروانة;Merouana;5;باتنة;Batna;528;35.67649;5.9033
+113;مروانة;Merouana;مروانة;Merouana;5;باتنة;Batna;504;35.63106;5.91186
+114;وادي الماء;Oued El Ma;مروانة;Merouana;5;باتنة;Batna;524;35.64527778;5.994722222
+115;لازرو;Lazrou;سريانة;Seriana;5;باتنة;Batna;524;35.7;6.2167
+116;سريانة;Seriana;سريانة;Seriana;5;باتنة;Batna;505;35.691666;6.18639
+117;زانة البيضاء;Zanet El Beida;سريانة;Seriana;5;باتنة;Batna;554;35.809722;6.08512
+118;منعة;Menaa;منعة;Menaa;5;باتنة;Batna;506;35.1777;6.006775
+119;تغرغار;Tigharghar;منعة;Menaa;5;باتنة;Batna;5521;35.160278;6.0347
+120;عين ياقوت;Ain Yagout;المعذر;El Madher;5;باتنة;Batna;522;35.7746;6.41644
+121;بومية;Boumia;المعذر;El Madher;5;باتنة;Batna;559;35.677222;6.480833
+122;جرمة;Djerma;المعذر;El Madher;5;باتنة;Batna;513;35.6851412;6.3013432
+123;المعذر;El Madher;المعذر;El Madher;5;باتنة;Batna;507;35.63121;6.369152
+124;عيون العصافير;Ouyoun El Assafir;تازولت;Tazoult;5;باتنة;Batna;512;35.552203;6.3438785
+125;تازولت;Tazoult;تازولت;Tazoult;5;باتنة;Batna;519;35.489188;6.254311
+126;بومقر;Boumagueur;نقاوس;N'gaous;5;باتنة;Batna;541;35.5052;5.5525
+127;نقاوس;N Gaous;نقاوس;N'gaous;5;باتنة;Batna;509;35.561836;5.610924
+128;سفيان;Sefiane;نقاوس;N'gaous;5;باتنة;Batna;524;35.4414;5.5581
+129;أريس;Arris;أريس;Arris;5;باتنة;Batna;516;35.25881;6.34706
+130;تيغانمين;Tighanimine;أريس;Arris;5;باتنة;Batna;551;35.1955527;6.25
+131;عين جاسر;Ain Djasser;عين جاسر;Ain Djasser;5;باتنة;Batna;507;35.8308281;6.0044121
+132;الحاسي;El Hassi;عين جاسر;Ain Djasser;5;باتنة;Batna;5382;35.7227778;5.906111
+133;فم الطوب;Foum Toub;إشمول;Ichemoul;5;باتنة;Batna;550;35.405;6.549721
+134;إشمول;Ichemoul;إشمول;Ichemoul;5;باتنة;Batna;530;35.310694;6.50382
+135;إينوغيسن;Inoughissen;إشمول;Ichemoul;5;باتنة;Batna;511;35.286388;6.55
+136;بوزينة;Bouzina;بوزينة;Bouzina;5;باتنة;Batna;535;35.2698953;6.0996978
+137;لارباع;Larbaa;بوزينة;Bouzina;5;باتنة;Batna;537;35.403889;6.11124
+138;بولهيلات;Boulhilat;الشمرة;Chemora;5;باتنة;Batna;560;35.6752;6.6625
+139;الشمرة;Chemora;الشمرة;Chemora;5;باتنة;Batna;536;35.66528;6.5011
+140;غسيرة;Ghassira;تكوت;Tkout;5;باتنة;Batna;502;35.2576;6.20608
+141;كيمل;Kimmel;تكوت;Tkout;5;باتنة;Batna;517;35.3442;6.471658
+142;تكوت;T Kout;تكوت;Tkout;5;باتنة;Batna;544;35.3339;6.30861
+143;عين التوتة;Ain Touta;عين التوتة;Ain Touta;5;باتنة;Batna;545;35.3991089;5.9198387
+144;بني فضالة الحقانية;Beni Foudhala El Hakania;عين التوتة;Ain Touta;5;باتنة;Batna;532;35.3525;5.8667
+145;أولاد فاضل;Ouled Fadel;تيمقاد;Timgad;5;باتنة;Batna;517;35.4843;6.6247
+146;أولاد عوف;Ouled Aouf;عين التوتة;Ain Touta;5;باتنة;Batna;540;35.45555556;5.756944
+147;شير;Chir;ثنية العابد;Theniet El Abed;5;باتنة;Batna;516;35.2135627;6
+148;وادي الطاقة;Oued Taga;ثنية العابد;Theniet El Abed;5;باتنة;Batna;548;35.4205;6.23
+149;سيدي عياد;Sidi Ayad;سيدي عيش;Sidi Aich;6;بجاية;Béjaïa;638;36.61667;4.75
+150;برباشة;Barbacha;برباشة;Barbacha;6;بجاية;Béjaïa;634;36.5667;4.96667
+151;الفلاي;Leflaye;سيدي عيش;Sidi Aich;6;بجاية;Béjaïa;643;36.60916667;4.8814
+152;كنديرة;Kendira;برباشة;Barbacha;6;بجاية;Béjaïa;652;36.653;5.0173
+153;سيدي عيش;Sidi-Aich;سيدي عيش;Sidi Aich;6;بجاية;Béjaïa;614;36.612944;4.688298
+154;تيفرة;Tifra;سيدي عيش;Sidi Aich;6;بجاية;Béjaïa;614;36.6667365;4.6963496
+155;تينبدار;Tinebdar;سيدي عيش;Sidi Aich;6;بجاية;Béjaïa;627;36.6253;4.681
+156;القصر;El Kseur;القصر;El Kseur;6;بجاية;Béjaïa;631;36.684389;4.852222
+157;فناية الماثن;Fenaia Il Maten;القصر;El Kseur;6;بجاية;Béjaïa;642;36.671667;4.790555
+158;توجة;Toudja;القصر;El Kseur;6;بجاية;Béjaïa;619;36.75;4.8922277
+159;ذراع القايد;Dra El Caid;خراطة;Kherrata;6;بجاية;Béjaïa;620;36.4295337;5.2475518
+160;خراطة;Kherrata;خراطة;Kherrata;6;بجاية;Béjaïa;626;36.492724;5.278
+161;بجاية;Bejaia;بجاية;Bejaia;6;بجاية;Béjaïa;601;36.7508896;5.0567333
+162;وادي غير;Oued Ghir;بجاية;Bejaia;6;بجاية;Béjaïa;651;36.710277;4.983333
+163;بني معوش;Benimaouche;بني معوش;Beni Maouche;6;بجاية;Béjaïa;650;36.478051;4.638441
+164;بني جليل;Beni Djellil;أميزور;Amizour;6;بجاية;Béjaïa;623;36.5729271;4.8108
+165;فرعون;Feraoun;أميزور;Amizour;6;بجاية;Béjaïa;603;36.5569444;4.85454
+166;سمعون;Smaoun;أميزور;Amizour;6;بجاية;Béjaïa;639;36.6389;4.8
+167;تيمزريت;Timezrit;تيمزريت;Timezrit;6;بجاية;Béjaïa;645;36.615556;4.7667
+168;مالبو;Melbou;سوق الإثنين;Souk El Tenine;6;بجاية;Béjaïa;608;36.671389;5.360759
+169;سوق لإثنين;Souk El Tenine;سوق الإثنين;Souk El Tenine;6;بجاية;Béjaïa;623;36.6256524;5.3360215
+170;تامريجت;Tamridjet;سوق الإثنين;Souk El Tenine;6;بجاية;Béjaïa;635;36.5833119;5.4253757
+171;بوخليفة;Boukhelifa;تيشي;Tichy;6;بجاية;Béjaïa;648;36.5831;4.9667
+172;تالة حمزة;Tala Hamza;تيشي;Tichy;6;بجاية;Béjaïa;633;36.6876795;5.0078451
+173;تيشي;Tichy;تيشي;Tichy;6;بجاية;Béjaïa;611;36.6961;5.1550882
+174;أيت رزين;Ait R'zine;إغيل علي;Ighil Ali;6;بجاية;Béjaïa;628;36.37034683;4.4868
+175;إغيل علي;Ighil-Ali;إغيل علي;Ighil Ali;6;بجاية;Béjaïa;617;36.3379865;4.4702131
+176;أيت إسماعيل;Ait-Smail;درقينة;Darguina;6;بجاية;Béjaïa;647;36.7333;4.85
+177;درقينة;Darguina;درقينة;Darguina;6;بجاية;Béjaïa;620;36.6344;5.375595
+178;تاسكريوت;Taskriout;درقينة;Darguina;6;بجاية;Béjaïa;627;36.56667;5.2733
+179;أوقاس;Aokas;أوقاس;Aokas;6;بجاية;Béjaïa;622;36.6333;5.25
+180;تيزي نبربر;Tizi-N'berber;أوقاس;Aokas;6;بجاية;Béjaïa;647;36.6134619;5.2176317
+181;أدكار;Adekar;أدكار;Adekar;6;بجاية;Béjaïa;601;36.683333;4.6667
+182;بني كسيلة;Beni K'sila;أدكار;Adekar;6;بجاية;Béjaïa;635;36.839681;4.7070616
+183;تاوريرت إغيل;Taourit Ighil;أدكار;Adekar;6;بجاية;Béjaïa;604;36.7202155;4.7381
+184;أقبو;Akbou;أقبو;Akbou;6;بجاية;Béjaïa;625;36.4575;4.53494
+185;شلاطة;Chellata;أقبو;Akbou;6;بجاية;Béjaïa;605;36.5135502;4.5108862
+186;اغرم;Ighram;أقبو;Akbou;6;بجاية;Béjaïa;615;36.46295;4.505
+187;تامقرة;Tamokra;أقبو;Akbou;6;بجاية;Béjaïa;606;36.3932;4.6645
+188;أمالو;Amalou;صدوق;Seddouk;6;بجاية;Béjaïa;620;36.477777;4.633333
+189;بوحمزة;Bouhamza;صدوق;Seddouk;6;بجاية;Béjaïa;637;36.489722;4.6064
+190;مسيسنة;M'cisna;صدوق;Seddouk;6;بجاية;Béjaïa;628;36.563407;4.710368
+191;صدوق;Seddouk;صدوق;Seddouk;6;بجاية;Béjaïa;626;36.547;4.70778
+192;بني مليكش;Beni-Mallikeche;تازملت;Tazmalt;6;بجاية;Béjaïa;638;36.43333333;4.671389
+193;بو جليل;Boudjellil;تازملت;Tazmalt;6;بجاية;Béjaïa;652;36.334;4.414167
+194;تازمالت;Tazmalt;تازملت;Tazmalt;6;بجاية;Béjaïa;630;36.3878041;4.4079213
+195;أكفادو;Akfadou;شميني;Chemini;6;بجاية;Béjaïa;642;36.6333333;4.5895
+196;شميني;Chemini;شميني;Chemini;6;بجاية;Béjaïa;636;36.5944017;4.6210411
+197;سوق اوفلا;Souk Oufella;شميني;Chemini;6;بجاية;Béjaïa;630;36.606111;4.6389
+198;طيبان;Tibane;شميني;Chemini;6;بجاية;Béjaïa;632;36.613585;4.651185
+199;أوزلاقن;Ouzellaguen;إفري أوزلاقن;Ifri Ouzellaguene;6;بجاية;Béjaïa;636;36.54203;4.6127777
+200;أميزور;Amizour;أميزور;Amizour;6;بجاية;Béjaïa;602;36.64022;4.9013
+201;الفيض;El Feidh;زريبة الوادي;Zeribet El Oued;7;بسكرة;Biskra;716;34.4668996;6.5356449
+202;ليشانة;Lichana;طولقة;Tolga;7;بسكرة;Biskra;702;34.71753;5.4289853
+203;بوشقرون;Bouchakroun;طولقة;Tolga;7;بسكرة;Biskra;702;34.8091667;5.341111
+204;مخادمة;Mekhadma;أورلال;Ourlal;7;بسكرة;Biskra;730;34.64779;5.867778
+205;خنقة سيدي ناجي;Khenguet Sidi Nadji;زريبة الوادي;Zeribet El Oued;7;بسكرة;Biskra;733;34.821721;6.6958939
+206;زريبة الوادي;Zeribet El Oued;زريبة الوادي;Zeribet El Oued;7;بسكرة;Biskra;715;34.683;6.511
+207;المزيرعة;Meziraa;زريبة الوادي;Zeribet El Oued;7;بسكرة;Biskra;728;34.6953;5.6667
+208;بسكرة;Biskra;بسكرة;Biskra;7;بسكرة;Biskra;701;34.8;5.7510475
+209;الحاجب;El Hadjab;بسكرة;Biskra;7;بسكرة;Biskra;732;34.79027;5.596944
+210;مليلي;M'lili;أورلال;Ourlal;7;بسكرة;Biskra;725;34.805833;5.554247
+211;فوغالة;Foughala;فوغالة;Foughala;7;بسكرة;Biskra;726;34.7326063;5.31666667
+212;الغروس;El Ghrous;فوغالة;Foughala;7;بسكرة;Biskra;731;34.7233926;5.285277
+213;برج بن عزوز;Bordj Ben Azzouz;طولقة;Tolga;7;بسكرة;Biskra;727;34.697222;5.362777
+214;أورلال;Ourlal;أورلال;Ourlal;7;بسكرة;Biskra;724;34.655556;5.525895
+215;أوماش;Oumache;أورلال;Ourlal;7;بسكرة;Biskra;702;34.69292;5.6883
+216;عين الناقة;Ain Naga;سيدي عقبة;Sidi Okba;7;بسكرة;Biskra;714;34.68762;6.09419
+217;شتمة;Chetma;سيدي عقبة;Sidi Okba;7;بسكرة;Biskra;704;34.801667;5.6597222
+218;الحوش;El Haouch;سيدي عقبة;Sidi Okba;7;بسكرة;Biskra;713;34.8667;6.0255738
+219;سيدي عقبة;Sidi Okba;سيدي عقبة;Sidi Okba;7;بسكرة;Biskra;711;34.74512;5.9
+220;مشونش;M'chouneche;مشونش;Mechouneche;7;بسكرة;Biskra;712;34.9497;6.0039
+221;ليوة;Lioua;أورلال;Ourlal;7;بسكرة;Biskra;722;34.63099;5.4
+222;طولقة;Tolga;طولقة;Tolga;7;بسكرة;Biskra;705;34.7214;5.3802134
+223;بشار;Bechar;بشار;Bechar;8;بشار;Béchar;801;31.61667;-2.21667
+224;بوكايس;Boukais;لحمر;Lahmar;8;بشار;Béchar;815;31.923333;-2.46361
+225;لحمر;Lahmar;لحمر;Lahmar;8;بشار;Béchar;806;31.931388;-2.2597
+226;موغل;Mogheul;لحمر;Lahmar;8;بشار;Béchar;816;32.0225;-2.2227252
+227;المريجة;Meridja;القنادسة;Kenadsa;8;بشار;Béchar;804;31.55;-2.95
+228;تاغيت;Taghit;تاغيت;Taghit;8;بشار;Béchar;813;30.9201058;-2.0322172
+229;العبادلة;Abadla;العبادلة;Abadla;8;بشار;Béchar;817;31.019;-2.72387
+230;عرق فراج;Erg-Ferradj;العبادلة;Abadla;8;بشار;Béchar;802;31.0347;-2.791389
+231;مشرع هواري بومدين;Machraa-Houari-Boumediene;العبادلة;Abadla;8;بشار;Béchar;810;30.9322468;-2.7375454
+232;بني ونيف;Beni-Ounif;بني ونيف;Beni Ounif;8;بشار;Béchar;821;32.0492426;-1.2514
+233;تبلبالة;Tabelbala;تبلبالة;Tabelbala;8;بشار;Béchar;812;29.41005;-3.25261
+234;القنادسة;Kenadsa;القنادسة;Kenadsa;8;بشار;Béchar;810;31.5544;-2.4327
+235;بني مراد;Beni Mered;أولاد يعيش;Ouled Yaich;9;البليدة;Blida;925;36.52389;2.86131
+236;اولاد سلامة;Ouled Slama;بوقرة;Bougara;9;البليدة;Blida;922;36.548333;3.11
+237;موزاية;Mouzaia;موزاية;Mouzaia;9;البليدة;Blida;916;36.4669;2.6899
+238;حمام ملوان;Hammam Elouane;بوقرة;Bougara;9;البليدة;Blida;912;36.486667;3.045
+239;بوقرة;Bougara;بوقرة;Bougara;9;البليدة;Blida;926;36.54;3.081
+240;صوحان;Souhane;الأربعاء;Larbaa;9;البليدة;Blida;917;36.5329164;3.2483058
+241;الأربعاء;Larbaa;الأربعاء;Larbaa;9;البليدة;Blida;921;36.56527778;3.153933
+242;الصومعة;Soumaa;بوفاريك;Boufarik;9;البليدة;Blida;907;36.51833;2.905278
+243;قرواو;Guerrouaou;بوفاريك;Boufarik;9;البليدة;Blida;927;36.516667;2.8844
+244;بوفاريك;Boufarik;بوفاريك;Boufarik;9;البليدة;Blida;920;36.57413;2.9108333
+245;مفتاح;Meftah;مفتاح;Meftah;9;البليدة;Blida;918;36.6204;3.22248
+246;الشفة;Chiffa;موزاية;Mouzaia;9;البليدة;Blida;908;36.4669;2.75
+247;عين الرمانة;Ain Romana;موزاية;Mouzaia;9;البليدة;Blida;928;36.3963569;2.6487087
+248;وادي جر;Oued Djer;العفرون;El Affroun;9;البليدة;Blida;920;36.4201457;2.5495112
+249;العفرون;El-Affroun;العفرون;El Affroun;9;البليدة;Blida;971;36.4701;2.625
+250;أولاد يعيش;Ouled Yaich;أولاد يعيش;Ouled Yaich;9;البليدة;Blida;972;36.50393;2.8619
+251;الشريعة;Chrea;أولاد يعيش;Ouled Yaich;9;البليدة;Blida;906;36.425556;2.876667
+252;جبابرة;Djebabra;مفتاح;Meftah;9;البليدة;Blida;925;36.58416667;3.268903
+253;وادي العلايق;Oued El Alleug;وادي العلايق;Oued El Alleug;9;البليدة;Blida;904;36.55528;2.79028
+254;بن خليل;Benkhelil;وادي العلايق;Oued El Alleug;9;البليدة;Blida;913;36.6202778;2.876389
+255;بني تامو;Beni-Tamou;وادي العلايق;Oued El Alleug;9;البليدة;Blida;923;36.536389;2.8161
+256;الشبلي;Chebli;بوعينان;Bouinan;9;البليدة;Blida;902;36.567222;3.0085182
+257;بوعينان;Bouinan;بوعينان;Bouinan;9;البليدة;Blida;903;36.53167;2.99194
+258;بوعرفة;Bouarfa;البليدة;Blida;9;البليدة;Blida;924;36.466944;2.816389
+259;البليدة;Blida;البليدة;Blida;9;البليدة;Blida;9001;36.47004;2.8319
+260;عين العلوي;Ain Laloui;عين بسام;Ain Bessem;10;البويرة;Bouira;1041;36.316667;3.75
+261;الحجرة الزرقاء;Hadjera Zerga;برج أوخريص;Bordj Okhriss;10;البويرة;Bouira;1042;35.957778;3.849444
+262;مزدور;Mezdour;برج أوخريص;Bordj Okhriss;10;البويرة;Bouira;1011;36.376111;4.07056
+263;تاقديت;Taguedite;برج أوخريص;Bordj Okhriss;10;البويرة;Bouira;1028;36.0175;3.99472221
+264;ريدان;Ridane;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1032;36.073888;3.46166
+265;المعمورة;Maamora;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1039;36.033056;3.62017
+266;الحاكمية;El-Hakimia;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1020;36.0914921;3.7806
+267;أهل القصر;Ahl El Ksar;بشلول;Bechloul;10;البويرة;Bouira;1007;36.2549;4.03944
+268;ديرة;Dirah;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1007;36.0003;3.65992
+269;الدشمية;Dechmia;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1031;36.13;3.5767
+270;بشلول;Bechloul;بشلول;Bechloul;10;البويرة;Bouira;1033;36.316667;4.075
+271;آث منصور;Ath Mansour;مشد الله;M'chedallah;10;البويرة;Bouira;1043;36.330823;4.301147
+272;سحاريج;Saharidj;مشد الله;M'chedallah;10;البويرة;Bouira;1030;36.396944;3.8619
+273;العجيبة;El Adjiba;بشلول;Bechloul;10;البويرة;Bouira;1019;36.3749965;4.1616143
+274;الأسنام;El Asnam;بشلول;Bechloul;10;البويرة;Bouira;1002;36.3206;4.013889
+275;أمشدالة;M Chedallah;مشد الله;M'chedallah;10;البويرة;Bouira;1037;36.3713916;4.264103
+276;برج أوخريص;Bordj Okhriss;برج أوخريص;Bordj Okhriss;10;البويرة;Bouira;1018;36.083333;3.974444
+277;سور الغزلان;Sour El Ghozlane;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1038;36.14766;3.69123
+278;حنيف;Hanif;مشد الله;M'chedallah;10;البويرة;Bouira;1006;36.335801;4.34149
+279;شرفة;Chorfa;مشد الله;M'chedallah;10;البويرة;Bouira;1017;36.36505;4.323611
+280;أولاد راشد;Ouled Rached;بشلول;Bechloul;10;البويرة;Bouira;1025;36.21525;4.1106
+281;عين الحجر;Ain El Hadjar;عين بسام;Ain Bessem;10;البويرة;Bouira;1025;36.33889;3.806389
+282;أغبالو;Aghbalou;مشد الله;M'chedallah;10;البويرة;Bouira;1039;36.3713916;4.225
+283;روراوة;Raouraoua;بئر غبالو;Bir Ghbalou;10;البويرة;Bouira;1010;36.55528;3.7375
+284;الخبوزية;El Khabouzia;بئر غبالو;Bir Ghbalou;10;البويرة;Bouira;1021;36.3159;3.6008333
+285;بئر غبالو;Bir Ghbalou;بئر غبالو;Bir Ghbalou;10;البويرة;Bouira;1036;36.26416667;3.7224
+286;البويرة;Bouira;البويرة;Bouira;10;البويرة;Bouira;1001;36.37763;3.8962348
+287;عين الترك;Ain Turk;البويرة;Bouira;10;البويرة;Bouira;1029;36.3932;3.8246
+288;أيت لعزيز;Ait Laaziz;البويرة;Bouira;10;البويرة;Bouira;1003;36.4428933;3.90864
+289;عين بسام;Ain-Bessem;عين بسام;Ain Bessem;10;البويرة;Bouira;1002;36.296667;3.67
+290;المقراني;El-Mokrani;سوق الخميس;Souk El Khemis;10;البويرة;Bouira;1024;36.42889;3.60375
+291;سوق الخميس;Souk El Khemis;سوق الخميس;Souk El Khemis;10;البويرة;Bouira;1004;36.388056;3.635
+292;أعمر;Aomar;القادرية;Kadiria;10;البويرة;Bouira;1016;36.4925;3.794
+293;جباحية;Djebahia;القادرية;Kadiria;10;البويرة;Bouira;1013;36.4764;3.7588
+294;الهاشمية;El Hachimia;الهاشمية;El Hachimia;10;البويرة;Bouira;1034;36.24071;3.8161
+295;حيزر;Haizer;الحيزر;Haizer;10;البويرة;Bouira;1012;36.39702;3.99917
+296;تاغزوت;Taghzout;الحيزر;Haizer;10;البويرة;Bouira;1009;36.3167;3.9667
+297;بودربالة;Bouderbala;الأخضرية;Lakhdaria;10;البويرة;Bouira;1023;36.58;3.5089
+298;بوكرم;Boukram;الأخضرية;Lakhdaria;10;البويرة;Bouira;1034;36.5261;3.36604
+299;قرومة;Guerrouma;الأخضرية;Lakhdaria;10;البويرة;Bouira;1003;36.4630499;3.4296446
+300;الأخضرية;Lakhdaria;الأخضرية;Lakhdaria;10;البويرة;Bouira;1013;36.56448;3.59675
+301;معلة;Maala;الأخضرية;Lakhdaria;10;البويرة;Bouira;1014;36.492778;3.573611
+302;قادرية;Kadiria;القادرية;Kadiria;10;البويرة;Bouira;1005;36.5200245;3.6927531
+303;زبربر;Z'barbar (El Isseri );الأخضرية;Lakhdaria;10;البويرة;Bouira;1024;36.567222;3.863333
+304;وادي البردي;Oued El Berdi;الهاشمية;El Hachimia;10;البويرة;Bouira;1045;36.2638925;3.9266502
+305;تاظروك;Tazrouk;تاظروك;Tazrouk;11;تمنراست;Tamanrasset;1106;23.4133;6.265556
+306;ابلسة;Abelsa;سيلت;Silet;11;تمنراست;Tamanrasset;1102;22.6589167;4.85
+307;تمنراست;Tamanrasset;تمنراست;Tamanrasset;11;تمنراست;Tamanrasset;1101;22.7888209;5.52278
+308;عين امقل;Ain Amguel;تمنراست;Tamanrasset;11;تمنراست;Tamanrasset;1109;23.6987;5.1619
+309;أدلس;Idles;تاظروك;Tazrouk;11;تمنراست;Tamanrasset;1105;23.8173973;5.9343664
+310;الحويجبات;El-Houidjbet;الماء الابيض;El Malabiod;12;تبسة;Tébessa;1206;35.29331683;8.278941075
+311;العوينات;El-Aouinet;العوينات;El Aouinet;12;تبسة;Tébessa;1205;35.867;7.887778
+312;بئر مقدم;Bir Mokkadem;بئر مقدم;Bir Mokadem;12;تبسة;Tébessa;1210;35.3725;7.8096037
+313;بئر الذهب;Bir Dheheb;مرسط;Morsott;12;تبسة;Tébessa;1214;34.908056;7.938333
+314;صفصاف الوسرى;Saf Saf El Ouesra;أم علي;Oum Ali;12;تبسة;Tébessa;1207;34.9565856;8.2076282
+315;قريقر;Guorriguer;بئر مقدم;Bir Mokadem;12;تبسة;Tébessa;1216;35.422777;7.593333
+316;بكارية;Bekkaria;الكويف;El Kouif;12;تبسة;Tébessa;1205;35.366667;8.2422222
+317;بولحاف الدير;Boulhaf Dyr;الكويف;El Kouif;12;تبسة;Tébessa;1225;35.52052;8.10581
+318;أم علي;Oum Ali;أم علي;Oum Ali;12;تبسة;Tébessa;1205;35.3333;8.3009
+319;بوخضرة;Boukhadra;العوينات;El Aouinet;12;تبسة;Tébessa;1218;35.744444;8.0325
+320;الماء الابيض;El Malabiod;الماء الابيض;El Malabiod;12;تبسة;Tébessa;1218;35.2056;8.170556
+321;الونزة;Ouenza;الونزة;Ouenza;12;تبسة;Tébessa;1215;35.9533;8.12917
+322;المريج;El Meridj;الونزة;Ouenza;12;تبسة;Tébessa;1224;35.79308;8.22951
+323;عين الزرقاء;Ain Zerga;الونزة;Ouenza;12;تبسة;Tébessa;1210;35.648611;8.261111
+324;سطح قنطيس;Stah Guentis;العقلة;El Ogla;12;تبسة;Tébessa;1214;34.9984;7.30829
+325;العقلة;El Ogla;العقلة;El Ogla;12;تبسة;Tébessa;1213;35.183333;7.46762
+326;المزرعة;El Mezeraa;العقلة;El Ogla;12;تبسة;Tébessa;1227;35.266667;7.58
+327;بجن;Bedjene;العقلة;El Ogla;12;تبسة;Tébessa;1226;35.40417;7.4746519
+328;مرسط;Morsott;مرسط;Morsott;12;تبسة;Tébessa;1212;35.66944;8.01667
+329;ثليجان;Telidjen;الشريعة;Cheria;12;تبسة;Tébessa;1222;35.21525;7.767222
+330;الشريعة;Cheria;الشريعة;Cheria;12;تبسة;Tébessa;1203;35.2684831;7.7471025
+331;تبسة;Tebessa;تبسة;Tebessa;12;تبسة;Tébessa;1201;35.405556;8.12417
+332;الحمامات;Hammamet;بئر مقدم;Bir Mokadem;12;تبسة;Tébessa;1208;35.590833;7.953
+333;الكويف;El Kouif;الكويف;El Kouif;12;تبسة;Tébessa;1211;35.498333;8.321944
+334;باب العسة;Bab El Assa;باب العسة;Bab El Assa;13;تلمسان;Tlemcen;1302;34.960317;-2.0318
+335;تيرني بني هديل;Terny Beni Hediel;منصورة;Mansourah;13;تلمسان;Tlemcen;1323;34.79583;-1.35812
+336;منصورة;Mansourah;منصورة;Mansourah;13;تلمسان;Tlemcen;1351;34.871111;-1.3379985
+337;بني مستر;Beni Mester;منصورة;Mansourah;13;تلمسان;Tlemcen;1304;34.87045;-1.42319
+338;عين غرابة;Ain Ghoraba;منصورة;Mansourah;13;تلمسان;Tlemcen;1349;34.713889;-1.389167
+339;شتوان;Chetouane;شتوان;Chetouane;13;تلمسان;Tlemcen;1350;34.9203342;-1.2975309
+340;عمير;Amieur;شتوان;Chetouane;13;تلمسان;Tlemcen;1314;35.035277;-1.24
+341;عين فزة;Ain Fezza;شتوان;Chetouane;13;تلمسان;Tlemcen;1312;34.87;-1.1868
+342;هنين;Honnaine;هنين;Honnaine;13;تلمسان;Tlemcen;1309;35.1789336;-1.6493532
+343;بني خلاد;Beni Khellad;هنين;Honnaine;13;تلمسان;Tlemcen;1348;35.1725;-1.5572
+344;ندرومة;Nedroma;ندرومة;Nedroma;13;تلمسان;Tlemcen;1340;35.01361;-1.748
+345;مسيردة الفواقة;M'sirda Fouaga;مرسى بن مهيدي;Marsa Ben Mehdi;13;تلمسان;Tlemcen;1330;35.019722;-2.065
+346;مرسى بن مهيدي;Marsa Ben M'hidi;مرسى بن مهيدي;Marsa Ben Mehdi;13;تلمسان;Tlemcen;1339;35.08669;-2.19771
+347;سيدي مجاهد;Sidi Medjahed;بني بوسعيد;Beni Boussaid;13;تلمسان;Tlemcen;1337;34.775277;-1.6367
+348;بني بوسعيد;Beni Boussaid;بني بوسعيد;Beni Boussaid;13;تلمسان;Tlemcen;1341;34.65;-1.75306
+349;بوحلو;Bouhlou;صبرة;Sabra;13;تلمسان;Tlemcen;1347;34.773889;-1.5731
+350;مغنية;Maghnia;مغنية;Maghnia;13;تلمسان;Tlemcen;1327;34.8534497;-1.730556
+351;حمام بوغرارة;Hammam Boughrara;مغنية;Maghnia;13;تلمسان;Tlemcen;1328;34.8935;-1.6386
+352;زناتة;Zenata;الحناية;Hennaya;13;تلمسان;Tlemcen;1316;35.0167;-1.4583
+353;أولاد رياح;Ouled Riyah;الحناية;Hennaya;13;تلمسان;Tlemcen;1346;34.9625;-1.49722221
+354;الحناية;Hennaya;الحناية;Hennaya;13;تلمسان;Tlemcen;1326;34.9513889;-1.3710402
+355;سيدي العبدلي;Sidi Abdelli;بن سكران;Bensekrane;13;تلمسان;Tlemcen;1334;35.069;-1.1371
+356;سوق الثلاثاء;Souk Tleta;باب العسة;Bab El Assa;13;تلمسان;Tlemcen;1333;35.023889;-1.927222
+357;بن سكران;Bensekrane;بن سكران;Bensekrane;13;تلمسان;Tlemcen;1324;35.0739077;-1.22747
+358;فلاوسن;Fellaoucene;فلاوسن;Fellaoucene;13;تلمسان;Tlemcen;1320;35.035;-1.605833
+359;عين الكبيرة;Ain Kebira;فلاوسن;Fellaoucene;13;تلمسان;Tlemcen;1353;35.032777;-1.665278
+360;عين فتاح;Ain Fetah;فلاوسن;Fellaoucene;13;تلمسان;Tlemcen;1331;34.965556;-1.638611
+361;تلمسان;Tlemcen;تلمسان;Tlemcen;13;تلمسان;Tlemcen;1301;34.882777;-1.316667
+362;عين النحالة;Ain Nehala;عين تالوت;Ain Tellout;13;تلمسان;Tlemcen;1325;35.027326;-0.932222
+363;عين تالوت;Ain Tellout;عين تالوت;Ain Tellout;13;تلمسان;Tlemcen;1303;34.805556;-0.9544444
+364;عين يوسف;Ain Youcef;الرمشي;Remchi;13;تلمسان;Tlemcen;1315;35.047222;-1.3739
+365;بني وارسوس;Beni Ouarsous;الرمشي;Remchi;13;تلمسان;Tlemcen;1336;35.083333;-1.55731
+366;الفحول;El Fehoul;الرمشي;Remchi;13;تلمسان;Tlemcen;1305;35.12;-1.294444
+367;الرمشي;Remchi;الرمشي;Remchi;13;تلمسان;Tlemcen;1304;35.06196;-1.43362
+368;سبعة شيوخ;Sebbaa Chioukh;الرمشي;Remchi;13;تلمسان;Tlemcen;1322;35.156111;-1.3558333
+369;السواني;Souani;باب العسة;Bab El Assa;13;تلمسان;Tlemcen;1308;34.9218192;-1.9172519
+370;صبرة;Sabra;صبرة;Sabra;13;تلمسان;Tlemcen;1306;34.8280257;-1.5283
+371;دار يغمراسن;Dar Yaghmoracen;الغزوات;Ghazaouet;13;تلمسان;Tlemcen;1319;35.10055556;-1.800833
+372;الغزوات;Ghazaouet;الغزوات;Ghazaouet;13;تلمسان;Tlemcen;1307;35.093858;-1.86038
+373;السواحلية;Souahlia;الغزوات;Ghazaouet;13;تلمسان;Tlemcen;1329;35.033333;-1.8881
+374;تيانت;Tianet;الغزوات;Ghazaouet;13;تلمسان;Tlemcen;1345;35.090833;-1.8389
+375;بني صميل;Beni Smiel;أولاد ميمون;Ouled Mimoun;13;تلمسان;Tlemcen;1352;34.816666;-1.0267
+376;وادي الخضر;Oued Lakhdar;أولاد ميمون;Ouled Mimoun;13;تلمسان;Tlemcen;1311;34.8749625;-1.1341144
+377;أولاد ميمون;Ouled Mimoun;أولاد ميمون;Ouled Mimoun;13;تلمسان;Tlemcen;1313;34.90472;-1.0347
+378;جبالة;Djebala;ندرومة;Nedroma;13;تلمسان;Tlemcen;1309;34.976388;-1.7248
+379;مهدية;Mahdia;مهدية;Mahdia;14;تيارت;Tiaret;1415;35.4270876;1.755
+380;عين دزاريت;Ain Dzarit;مهدية;Mahdia;14;تيارت;Tiaret;1405;35.35339;1.66699
+381;السبعين;Sebaine;مهدية;Mahdia;14;تيارت;Tiaret;1425;34.63797;1.603611
+382;الفايجة;Faidja;السوقر;Sougueur;14;تيارت;Tiaret;1441;34.87;1.705556
+383;سي عبد الغني;Si Abdelghani;السوقر;Sougueur;14;تيارت;Tiaret;1417;35.2194;1.638611
+384;السوقر;Sougueur;السوقر;Sougueur;14;تيارت;Tiaret;1401;35.18568;1.49612
+385;توسنينة;Tousnina;السوقر;Sougueur;14;تيارت;Tiaret;1426;34.02;1.276389
+386;مغيلة;Meghila;مغيلة;Meghila;14;تيارت;Tiaret;1421;35.5964786;1.4136
+387;السبت;Sebt;مغيلة;Meghila;14;تيارت;Tiaret;1411;35.656111;1.3728
+388;سيدي حسني;Sidi Hosni;مغيلة;Meghila;14;تيارت;Tiaret;1423;35.4711;1.521582
+389;عين الحديد;Ain El Hadid;فرندة;Frenda;14;تيارت;Tiaret;1405;35.05783;0.88479
+390;فرندة;Frenda;فرندة;Frenda;14;تيارت;Tiaret;1427;35.05;1.0538252
+391;تخمرت;Takhemaret;فرندة;Frenda;14;تيارت;Tiaret;1437;35.035;0.683333333
+392;عين كرمس;Ain Kermes;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1419;34.908176;1.10807
+393;جبيلات الرصفاء;Djebilet Rosfa;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1402;34.86375;1.015
+394;مادنة;Madna;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1404;34.753055;0.98278
+395;مدريسة;Medrissa;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1408;34.8959;1.2407
+396;سيدي عبد الرحمن;Sidi Abderrahmane;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1438;34.79861;1.130278
+397;قرطوفة;Guertoufa;رحوية;Rahouia;14;تيارت;Tiaret;1422;35.393056;1.25
+398;وادي ليلي;Oued Lilli;وادي ليلي;Oued Lili;14;تيارت;Tiaret;1440;35.5107;1.2713
+399;سيدي علي ملال;Sidi Ali Mellal;وادي ليلي;Oued Lili;14;تيارت;Tiaret;1404;35.563333;1.2256
+400;جيلالي بن عمار;Djillali Ben Amar;مشرع الصفا;Mechraa Sfa;14;تيارت;Tiaret;1424;35.44444;0.84972221
+401;مشرع الصفا;Mechraa Safa;مشرع الصفا;Mechraa Sfa;14;تيارت;Tiaret;1434;35.38388889;1.03803
+402;تاقدمت;Tagdempt;مشرع الصفا;Mechraa Sfa;14;تيارت;Tiaret;1432;35.335556;1.5450766
+403;تيدة;Tidda;وادي ليلي;Oued Lili;14;تيارت;Tiaret;1442;35.5825;1.266238
+404;الناظورة;Nadorah;مهدية;Mahdia;14;تيارت;Tiaret;1431;35.069;1.890556
+405;تيارت;Tiaret;تيارت;Tiaret;14;تيارت;Tiaret;1401;35.3667;1.3167
+406;مدروسة;Medroussa;مدروسة;Medroussa;14;تيارت;Tiaret;1402;35.17721;1.203611
+407;ملاكو;Mellakou;مدروسة;Medroussa;14;تيارت;Tiaret;1412;35.2497888;1.2337661
+408;سيدي بختي;Sidi Bakhti;مدروسة;Medroussa;14;تيارت;Tiaret;1407;35.156111;0.9783
+409;عين الذهب;Ain Deheb;عين الذهب;Ain Deheb;14;تيارت;Tiaret;1406;34.8422;1.5450766
+410;شحيمة;Chehaima;عين الذهب;Ain Deheb;14;تيارت;Tiaret;1421;34.8959;1.3047556
+411;النعيمة;Naima;عين الذهب;Ain Deheb;14;تيارت;Tiaret;1420;34.639444;1.4775
+412;عين بوشقيف;Ain Bouchekif;دحموني;Dahmouni;14;تيارت;Tiaret;1403;35.355833;1.51056
+413;دحموني;Dahmouni;دحموني;Dahmouni;14;تيارت;Tiaret;1413;35.4157148;1.483333
+414;الرحوية;Rahouia;رحوية;Rahouia;14;تيارت;Tiaret;1414;35.530278;1.6
+415;ميزرانـــة;Mizrana;تيقزيرت;Tigzirt;15;تيزي وزو;Tizi Ouzou;1562;36.89623;4.096111
+416;إيجــار;Idjeur;بوزقن;Bouzeguene;15;تيزي وزو;Tizi Ouzou;1549;36.6664;4.5186
+417;بني دوالة;Beni-Douala;بني دوالة;Beni Douala;15;تيزي وزو;Tizi Ouzou;1532;36.61954;4.08282
+418;بني زيكــي;Beni-Zikki;بوزقن;Bouzeguene;15;تيزي وزو;Tizi Ouzou;1546;36.55308;4.301147
+419;إيلولة أومـــالو;Illoula Oumalou;بوزقن;Bouzeguene;15;تيزي وزو;Tizi Ouzou;1519;36.5667;4.59611
+420;أقني قغران;Agouni-Gueghrane;واضية;Ouadhias;15;تيزي وزو;Tizi Ouzou;1561;36.5152247;4.1137957
+421;أيت بــوادو;Ait Bouaddou;واضية;Ouadhias;15;تيزي وزو;Tizi Ouzou;1565;36.50833333;4.058333
+422;واضية;Ouadhias;واضية;Ouadhias;15;تيزي وزو;Tizi Ouzou;1536;36.55611;4.0897
+423;تيزي نثلاثة;Tizi N'tleta;واضية;Ouadhias;15;تيزي وزو;Tizi Ouzou;1551;36.5457;4.057
+424;أغريب;Aghribs;أزفون;Azeffoun;15;تيزي وزو;Tizi Ouzou;1553;36.802222;4.3227777
+425;أيت شافع;Ait-Chafaa;أزفون;Azeffoun;15;تيزي وزو;Tizi Ouzou;1513;36.81702;4.53358
+426;أقرو;Akerrou;أزفون;Azeffoun;15;تيزي وزو;Tizi Ouzou;1550;36.7992;4.4206
+427;أزفون;Azeffoun;أزفون;Azeffoun;15;تيزي وزو;Tizi Ouzou;1502;36.8895311;4.4240151
+428;إفليـــسن;Iflissen;تيقزيرت;Tigzirt;15;تيزي وزو;Tizi Ouzou;1554;36.89623;4.2230836
+429;تيقـزيرت;Tigzirt;تيقزيرت;Tigzirt;15;تيزي وزو;Tizi Ouzou;1538;36.89623;4.12142
+430;أسي يوسف;Assi-Youcef;بوغني;Boghni;15;تيزي وزو;Tizi Ouzou;1530;36.5071;4
+431;بوغني;Boghni;بوغني;Boghni;15;تيزي وزو;Tizi Ouzou;1540;36.54222;3.95306
+432;بونوح;Bounouh;بوغني;Boghni;15;تيزي وزو;Tizi Ouzou;1512;36.49935;4.07056
+433;مشطراس;Mechtras;بوغني;Boghni;15;تيزي وزو;Tizi Ouzou;1506;36.53117;3.9981
+434;ذراع بن خدة;Draa-Ben-Khedda;ذراع بن خدة;Draa Ben Khedda;15;تيزي وزو;Tizi Ouzou;1547;36.7309604;3.9652509
+435;سيدي نعمان;Sidi Namane;ذراع بن خدة;Draa Ben Khedda;15;تيزي وزو;Tizi Ouzou;1559;36.7169;3.9839
+436;تادمايت;Tadmait;ذراع بن خدة;Draa Ben Khedda;15;تيزي وزو;Tizi Ouzou;1523;36.74413;3.90045
+437;تيرمتين;Tirmitine;ذراع بن خدة;Draa Ben Khedda;15;تيزي وزو;Tizi Ouzou;1543;36.66180861;3.984722
+438;أيت بومهدي;Ait Boumahdi;واسيف;Ouacif;15;تيزي وزو;Tizi Ouzou;1530;36.4883;4.1820961
+439;أيت تودرت;Ait-Toudert;واسيف;Ouacif;15;تيزي وزو;Tizi Ouzou;1567;36.6914;4.1615
+440;بني عيسي;Beni-Aissi;بني دوالة;Beni Douala;15;تيزي وزو;Tizi Ouzou;1515;36.6636279;4.0938
+441;واسيف;Ouacif;واسيف;Ouacif;15;تيزي وزو;Tizi Ouzou;1548;36.5245;4.20556
+442;أيت خليلي;Ait Khellili;مقلع;Mekla;15;تيزي وزو;Tizi Ouzou;1558;36.6664742;4.3134
+443;مقــلع;Mekla;مقلع;Mekla;15;تيزي وزو;Tizi Ouzou;1550;36.68178;4.264103
+444;صوامـــع;Souama;مقلع;Mekla;15;تيزي وزو;Tizi Ouzou;1505;36.6718;4.341667
+445;بني يني;Beni-Yenni;بني يني;Benni Yenni;15;تيزي وزو;Tizi Ouzou;1552;36.5752;4.20764
+446;إبودرارن;Iboudrarene;بني يني;Benni Yenni;15;تيزي وزو;Tizi Ouzou;1560;36.529;4.298611
+447;تيزي وزو;Tizi-Ouzou;تيزي وزو;Tizi Ouzou;15;تيزي وزو;Tizi Ouzou;1501;36.733333;4.05
+448;أبي يوسف;Abi-Youcef;عين الحمام;Ain El Hammam;15;تيزي وزو;Tizi Ouzou;1531;36.538333;4.343889
+449;عين الحمام;Ain-El-Hammam;عين الحمام;Ain El Hammam;15;تيزي وزو;Tizi Ouzou;1502;36.57056;4.31111
+450;أيت يحيى;Ait-Yahia;عين الحمام;Ain El Hammam;15;تيزي وزو;Tizi Ouzou;1515;36.6066637;4.330278
+451;اقبيل;Akbil;عين الحمام;Ain El Hammam;15;تيزي وزو;Tizi Ouzou;1503;36.4995515;4.3051542
+452;بوجيمة;Boudjima;ماكودة;Makouda;15;تيزي وزو;Tizi Ouzou;1555;36.802;4.1481
+453;ماكودة;Makouda;ماكودة;Makouda;15;تيزي وزو;Tizi Ouzou;1509;36.791944;4.063
+454;عين الزاوية;Ain-Zaouia;ذراع الميزان;Draa El Mizan;15;تيزي وزو;Tizi Ouzou;1502;36.5504491;3.89416
+455;أيت يحي موسى;Ait Yahia Moussa;ذراع الميزان;Draa El Mizan;15;تيزي وزو;Tizi Ouzou;1556;36.64111111;3.89
+456;ذراع الميزان;Draa-El-Mizan;ذراع الميزان;Draa El Mizan;15;تيزي وزو;Tizi Ouzou;1527;36.536;3.833
+457;فريقات;Frikat;ذراع الميزان;Draa El Mizan;15;تيزي وزو;Tizi Ouzou;1514;36.4926443;3.99472221
+458;مكيرة;M'kira;تيزي غنيف;Tizi-Ghenif;15;تيزي وزو;Tizi Ouzou;1526;36.6253;3.993611
+459;تيزي غنيف;Tizi-Gheniff;تيزي غنيف;Tizi-Ghenif;15;تيزي وزو;Tizi Ouzou;1511;36.58839;3.77445
+460;يطــافن;Yatafene;بني يني;Benni Yenni;15;تيزي وزو;Tizi Ouzou;1545;36.575278;4.2989
+461;إيلـيــلتـن;Illilten;إفرحونان;Iferhounene;15;تيزي وزو;Tizi Ouzou;1533;36.5167;4.0497
+462;إمســوحال;Imsouhal;إفرحونان;Iferhounene;15;تيزي وزو;Tizi Ouzou;1563;36.574444;4.39
+463;عزازقة;Azazga;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1518;36.74472;4.37222
+464;فريحة;Freha;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1506;36.76124;4.3194
+465;إيفيغاء;Ifigha;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1541;36.671389;4.469722
+466;إعــكورن;Yakourene;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1525;36.7305;4.438611
+467;زكري;Zekri;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1533;36.78027778;4.5531
+468;أيت عقـواشة;Ait Aggouacha;الأربعاء ناث إيراثن;Larbaa Nath Iraten;15;تيزي وزو;Tizi Ouzou;1535;36.617777;4.23
+469;إيرجـــن;Irdjen;الأربعاء ناث إيراثن;Larbaa Nath Iraten;15;تيزي وزو;Tizi Ouzou;1507;36.6562;4.140165
+470;الأربعــاء ناث إيراثن;Larbaa Nath Irathen;الأربعاء ناث إيراثن;Larbaa Nath Iraten;15;تيزي وزو;Tizi Ouzou;1521;36.63667;4.206709
+471;أيت أومالو;Ait-Oumalou;تيزي راشد;Tizi Rached;15;تيزي وزو;Tizi Ouzou;1542;36.6586389;4.2282093
+472;تيزي راشد;Tizi-Rached;تيزي راشد;Tizi Rached;15;تيزي وزو;Tizi Ouzou;1522;36.6799518;4.2087286
+473;أيت عيسى ميمون;Ait-Aissa-Mimoun;واقنون;Ouaguenoun;15;تيزي وزو;Tizi Ouzou;1539;36.7486964;4.1156
+474;واقنون;Ouaguenoun;واقنون;Ouaguenoun;15;تيزي وزو;Tizi Ouzou;1528;36.758895;4.174722
+475;تيمـيزار;Timizart;واقنون;Ouaguenoun;15;تيزي وزو;Tizi Ouzou;1508;36.8;4.2667
+476;معـــاتقة;Maatkas;معاتقة;Maatkas;15;تيزي وزو;Tizi Ouzou;1540;36.6194358;3.9572374
+477;سوق الإثنين;Souk-El-Tenine;معاتقة;Maatkas;15;تيزي وزو;Tizi Ouzou;1557;36.6194358;5.3360215
+478;أيت محمود;Ait-Mahmoud;بني دوالة;Beni Douala;15;تيزي وزو;Tizi Ouzou;1528;36.508394;3.993187
+479;بنــــي زمنزار;Beni Zmenzer;بني دوالة;Beni Douala;15;تيزي وزو;Tizi Ouzou;1516;36.64775;4.04202
+480;إفــرحــونان;Iferhounene;إفرحونان;Iferhounene;15;تيزي وزو;Tizi Ouzou;1517;36.51667;4.38333
+481;بوزقــن;Bouzeguene;بوزقن;Bouzeguene;15;تيزي وزو;Tizi Ouzou;1509;36.6167048;4.4798498
+482;حسين داي;Hussein Dey;حسين داي;Hussein Dey;16;الجزائر;Alger;1617;36.744147;3.092008
+483;الكاليتوس;Les Eucalyptus;براقي;Baraki;16;الجزائر;Alger;1633;36.6664;3.1679257
+484;سيدي موسى;Sidi Moussa;براقي;Baraki;16;الجزائر;Alger;1637;36.605556;3.088
+485;القبة;Kouba;حسين داي;Hussein Dey;16;الجزائر;Alger;1618;36.74413;3.086474
+486;محمد بلوزداد;Mohamed Belouzdad;حسين داي;Hussein Dey;16;الجزائر;Alger;1604;36.7505682;3.070142
+487;عين طاية;Ain Taya;الدار البيضاء;Dar El Beida;16;الجزائر;Alger;1638;36.7852529;3.2869
+488;باب الزوار;Bab Ezzouar;الدار البيضاء;Dar El Beida;16;الجزائر;Alger;1631;36.7206251;3.1853
+489;برج الكيفان;Bordj El Kiffan;الدار البيضاء;Dar El Beida;16;الجزائر;Alger;1630;36.74871;3.19249
+490;الدار البيضاء;Dar El Beida;الدار البيضاء;Dar El Beida;16;الجزائر;Alger;1620;36.7133;3.2125
+491;المرسى;El Marsa;الدار البيضاء;Dar El Beida;16;الجزائر;Alger;1640;36.8111249;3.254722
+492;المحمدية;Mohammadia;الدار البيضاء;Dar El Beida;16;الجزائر;Alger;1629;36.7349528;3.1528692
+493;بئر توتة;Bir Touta;بئر توتة;Birtouta;16;الجزائر;Alger;1618;36.62815;2.99889
+494;اولاد شبل;Ouled Chebel;بئر توتة;Birtouta;16;الجزائر;Alger;1636;36.6044691;2.9875565
+495;تسالة المرجة;Tessala El Merdja;بئر توتة;Birtouta;16;الجزائر;Alger;1635;36.6222556;2.9225893
+496;هراوة;Herraoua;الرويبة;Rouiba;16;الجزائر;Alger;1641;36.77278;3.253056
+497;رغاية;Reghaia;الرويبة;Rouiba;16;الجزائر;Alger;1643;36.7359;3.3402
+498;الرويبة;Rouiba;الرويبة;Rouiba;16;الجزائر;Alger;1642;36.7259091;3.28079
+499;المعالمة;Maalma;زرالدة;Zeralda;16;الجزائر;Alger;1647;36.6194358;3.030556
+500;الرحمانية;Rahmania;زرالدة;Zeralda;16;الجزائر;Alger;1648;36.680833;2.906
+501;سويدانية;Souidania;زرالدة;Zeralda;16;الجزائر;Alger;1649;36.7089832;2.9026172
+502;سطاوالي;Staoueli;زرالدة;Zeralda;16;الجزائر;Alger;1645;36.753333;2.894444
+503;زرالدة;Zeralda;زرالدة;Zeralda;16;الجزائر;Alger;1646;36.6946148;2.8277963
+504;بابا حسن;Baba Hassen;الدرارية;Draria;16;الجزائر;Alger;1655;36.694697;2.972
+505;الدويرة;Douira;الدرارية;Draria;16;الجزائر;Alger;1654;36.67;2.9275836
+506;الدرارية;Draria;الدرارية;Draria;16;الجزائر;Alger;1653;36.7172858;3.0025615
+507;العاشور;El Achour;الدرارية;Draria;16;الجزائر;Alger;1652;36.7285583;2.9825559
+508;الخرايسية;Khraissia;الدرارية;Draria;16;الجزائر;Alger;1656;36.683333;2.9821
+509;عين بنيان;Ain Benian;الشراقة;Cheraga;16;الجزائر;Alger;1644;36.791944;2.9337917
+510;الشراقة;Cheraga;الشراقة;Cheraga;16;الجزائر;Alger;1650;36.7677;2.95924
+511;دالي ابراهيم;Dely Ibrahim;الشراقة;Cheraga;16;الجزائر;Alger;1623;36.7528506;2.9800558
+512;الحمامات;Hammamet;الشراقة;Cheraga;16;الجزائر;Alger;1624;36.8041635;3.0034
+513;اولاد فايت;Ouled Fayet;الشراقة;Cheraga;16;الجزائر;Alger;1651;36.7365;2.949444
+514;الجزائر الوسطى;Alger Centre;سيدي امحمد;Sidi M'hamed;16;الجزائر;Alger;1601;36.76846;3.0909
+515;المدنية;El Madania;سيدي امحمد;Sidi M'hamed;16;الجزائر;Alger;1603;36.7411788;3.0688896
+516;المرادية;El Mouradia;سيدي امحمد;Sidi M'hamed;16;الجزائر;Alger;1627;36.7497677;3.0488564
+517;سيدي امحمد;Sidi M'hamed;سيدي امحمد;Sidi M'hamed;16;الجزائر;Alger;1602;36.7563368;3.0551159
+518;السحاولة;Sehaoula;بئر مراد رايس;Bir Mourad Rais;16;الجزائر;Alger;1657;36.7046;3.0085182
+519;بولوغين بن زيري;Bologhine Ibnou Ziri;باب الوادي;Bab El Oued;16;الجزائر;Alger;1605;36.80443;3.04
+520;القصبة;Casbah;باب الوادي;Bab El Oued;16;الجزائر;Alger;1607;36.7844961;3.058872
+521;وادي قريش;Oued Koriche;باب الوادي;Bab El Oued;16;الجزائر;Alger;1618;36.7836306;3.042698
+522;الرايس حميدو;Rais Hamidou;باب الوادي;Bab El Oued;16;الجزائر;Alger;1625;36.81784;3.18
+523;بئر مراد رايس;Bir Mourad Rais;بئر مراد رايس;Bir Mourad Rais;16;الجزائر;Alger;1609;36.7323254;3.045
+524;بئر خادم;Birkhadem;بئر مراد رايس;Bir Mourad Rais;16;الجزائر;Alger;1612;36.71499;3.05002
+525;جسر قسنطينة;Djasr Kasentina;بئر مراد رايس;Bir Mourad Rais;16;الجزائر;Alger;1626;36.6969;3.058889
+526;حيدرة;Hydra;بئر مراد رايس;Bir Mourad Rais;16;الجزائر;Alger;1628;36.7409507;3.0251
+527;المغارية;El Magharia;حسين داي;Hussein Dey;16;الجزائر;Alger;1631;36.7319999;3.1114879
+528;ابن عكنون;Ben Aknoun;بوزريعة;Bouzareah;16;الجزائر;Alger;1622;36.758895;3.0100658
+529;بني مسوس;Beni Messous;بوزريعة;Bouzareah;16;الجزائر;Alger;1632;36.73962;2.974444
+530;بوزريعة;Bouzareah;بوزريعة;Bouzareah;16;الجزائر;Alger;1611;36.79;3.0177
+531;الابيار;El Biar;بوزريعة;Bouzareah;16;الجزائر;Alger;1606;36.7677;3.0297
+532;باش جراح;Bachedjerah;الحراش;El Harrach;16;الجزائر;Alger;1618;36.7006;3.0667
+533;بوروبة;Bourouba;الحراش;El Harrach;16;الجزائر;Alger;1619;36.711707;3.1165
+534;الحراش;El Harrach;الحراش;El Harrach;16;الجزائر;Alger;1613;36.7164;3.715
+535;وادي السمار;Oued Smar;الحراش;El Harrach;16;الجزائر;Alger;1615;36.74472;3.172222222
+536;براقي;Baraki;براقي;Baraki;16;الجزائر;Alger;1614;36.6667;3.0961
+537;برج البحري;Bordj El Bahri;الدار البيضاء;Dar El Beida;16;الجزائر;Alger;1639;36.779133;3.22248
+538;باب الوادي;Bab El Oued;باب الوادي;Bab El Oued;16;الجزائر;Alger;1605;36.790703;3.05
+539;حاسي العش;Hassi El Euch;حاسي بحبح;Hassi Bahbah;17;الجلفة;Djelfa;1716;35.15200699;3.248451487
+540;عين الإبل;Ain El Ibel;عين الإبل;Ain El Ibel;17;الجلفة;Djelfa;1730;34.35472;3.2239
+541;القديد;El Guedid;الشارف;Charef;17;الجلفة;Djelfa;1703;34.64650126;2.616250107
+542;الشارف;Charef;الشارف;Charef;17;الجلفة;Djelfa;1704;34.621;2.80111
+543;بن يعقوب;Benyagoub;الشارف;Charef;17;الجلفة;Djelfa;1727;34.46649223;2.784077409
+544;سيدي بايزيد;Sidi Baizid;دار الشيوخ;Dar Chioukh;17;الجلفة;Djelfa;1712;35.058055;3.430556
+545;مليليحة;M'liliha;دار الشيوخ;Dar Chioukh;17;الجلفة;Djelfa;1736;34.71228784;3.765454396
+546;دار الشيوخ;Dar Chioukh;دار الشيوخ;Dar Chioukh;17;الجلفة;Djelfa;1725;34.9;3.4833
+547;تعظميت;Taadmit;عين الإبل;Ain El Ibel;17;الجلفة;Djelfa;1736;34.286667;2.988611
+548;زكار;Zaccar;عين الإبل;Ain El Ibel;17;الجلفة;Djelfa;1705;34.430832;3.327222
+549;دويس;Douis;الادريسية;El Idrissia;17;الجلفة;Djelfa;1715;34.3683656;2.701075597
+550;الادريسية;El Idrissia;الادريسية;El Idrissia;17;الجلفة;Djelfa;1709;34.4548511;2.5247449
+551;عين الشهداء;Ain Chouhada;الادريسية;El Idrissia;17;الجلفة;Djelfa;1723;34.2413281;2.522269
+552;الجلفة;Djelfa;الجلفة;Djelfa;17;الجلفة;Djelfa;1701;34.67279;3.25
+553;زعفران;Zaafrane;حاسي بحبح;Hassi Bahbah;17;الجلفة;Djelfa;1728;34.850833;2.856944
+554;عين معبد;Ain Maabed;حاسي بحبح;Hassi Bahbah;17;الجلفة;Djelfa;1705;34.8056891;3.13333333
+555;حاسي بحبح;Hassi Bahbah;حاسي بحبح;Hassi Bahbah;17;الجلفة;Djelfa;1706;35.0782285;3.0297
+556;مجبارة;Moudjebara;عين الإبل;Ain El Ibel;17;الجلفة;Djelfa;1702;34.5040006;3.470436
+557;جيجل;Jijel;جيجل;Jijel;18;جيجل;Jijel;1801;36.82055;5.7667
+558;العوانة;El Aouana;العوانة;El Aouana;18;جيجل;Jijel;1805;36.7727264;5.61
+559;سلمى بن زيادة;Selma Benziada;العوانة;El Aouana;18;جيجل;Jijel;1818;36.627222;5.6483
+560;أراقن سويسي;Erraguene Souissi;زيامة منصورية;Ziamah Mansouriah;18;جيجل;Jijel;1802;36.5861111;5.092008
+561;بوسيف أولاد عسكر;Boussif Ouled Askeur;الطاهير;Taher;18;جيجل;Jijel;1819;36.6383;6.019167
+562;زيامة منصورية;Ziama Mansouriah;زيامة منصورية;Ziamah Mansouriah;18;جيجل;Jijel;1804;36.6737;5.48119
+563;الشحنة;Chahna;الطاهير;Taher;18;جيجل;Jijel;1808;36.6793738;5.9572034
+564;الامير عبد القادر;Emir Abdelkader;الطاهير;Taher;18;جيجل;Jijel;1806;36.751944;5.848611
+565;وجانة;Oudjana;الطاهير;Taher;18;جيجل;Jijel;1828;36.6067;5.8881542
+566;الطاهير;Taher;الطاهير;Taher;18;جيجل;Jijel;1805;36.763;5.8979
+567;الشقفة;Chekfa;الشقفة;Chekfa;18;جيجل;Jijel;1805;36.7714;5.9594
+568;القنار نشفي;El Kennar Nouchfi;الشقفة;Chekfa;18;جيجل;Jijel;1819;36.8256803;5.9627714
+569;سيدي عبد العزيز;Sidi Abdelaziz;الشقفة;Chekfa;18;جيجل;Jijel;1813;36.85;6.05
+570;الميلية;El Milia;الميلية;El Milia;18;جيجل;Jijel;1809;36.7507275;6.2725
+571;أولاد يحيى خدروش;Ouled Yahia Khadrouch;الميلية;El Milia;18;جيجل;Jijel;1817;36.717222;6.2008333
+572;أولاد رابح;Ouled Rabah;سيدي معروف;Sidi Marouf;18;جيجل;Jijel;1821;36.568;6.1677
+573;سيدي معروف;Sidi Marouf;سيدي معروف;Sidi Marouf;18;جيجل;Jijel;1810;36.6475;6.2725
+574;غبالة;Ghebala;السطارة;Settara;18;جيجل;Jijel;1815;36.6284551;6.3283
+575;السطارة;Settara;السطارة;Settara;18;جيجل;Jijel;1811;36.719444;6.335556
+576;بوراوي بلهادف;Bouraoui Belhadef;العنصر;El Ancer;18;جيجل;Jijel;1816;36.6977238;6.1043336
+577;العنصر;El Ancer;العنصر;El Ancer;18;جيجل;Jijel;1812;36.7989;6.15721
+578;خيري واد عجول;Khiri Oued Adjoul;العنصر;El Ancer;18;جيجل;Jijel;1823;36.81;6.14
+579;جيملة;Djimla;جيملة;Djimla;18;جيجل;Jijel;1817;36.58;5.884167
+580;قاوس;Kaous;تاكسنة;Texenna;18;جيجل;Jijel;1814;36.7718;5.8136168
+581;تاكسنة;Texenna;تاكسنة;Texenna;18;جيجل;Jijel;1804;36.6605556;5.791
+582;برج الطهر;Bordj T'har;الشقفة;Chekfa;18;جيجل;Jijel;1816;36.7558;6.0295425
+583;بودريعة بني ياجيس;Boudria Beniyadjis;جيملة;Djimla;18;جيجل;Jijel;1827;36.599166;4.9739
+584;الجمعة بني حبيبي;Djemaa Beni Habibi;العنصر;El Ancer;18;جيجل;Jijel;1825;36.7091;6.1294
+585;الرصفة;Rosfa;صالح باي;Salah Bey;19;سطيف;Sétif;1937;35.810277;5.265277
+586;واد البارد;Oued El Bared;عموشة;Amoucha;19;سطيف;Sétif;1957;36.472317;5.4022
+587;تيزي نبشار;Tizi N'bechar;عموشة;Amoucha;19;سطيف;Sétif;1938;36.529;5.36
+588;مزلوق;Mezloug;عين أرنات;Ain Arnat;19;سطيف;Sétif;1930;36.10778;5.4
+589;قلال;Guellal;عين ولمان;Ain Oulmene;19;سطيف;Sétif;1937;36.0353;5.328
+590;قصر الابطال;Kasr El Abtal;عين ولمان;Ain Oulmene;19;سطيف;Sétif;1952;35.974167;5.2881
+591;أولاد سي أحمد;Ouled Si Ahmed;عين ولمان;Ain Oulmene;19;سطيف;Sétif;1904;35.901111;5.1640605
+592;أيت نوال مزادة;Ait Naoual Mezada;بوعنداس;Bouandas;19;سطيف;Sétif;1957;36.54217;5.09004
+593;ايت تيزي;Ait-Tizi;بوعنداس;Bouandas;19;سطيف;Sétif;1944;36.1247;5.2967
+594;بوعنداس;Bouandas;بوعنداس;Bouandas;19;سطيف;Sétif;1930;36.494722;5.1019
+595;بوسلام;Bousselam;بوعنداس;Bouandas;19;سطيف;Sétif;1919;36.498889;5.0378
+596;حمام السخنة;Hamam Soukhna;حمام السخنة;Hammam Sokhna;19;سطيف;Sétif;1932;35.976944;5.808889
+597;الطاية;Taya;حمام السخنة;Hammam Sokhna;19;سطيف;Sétif;1958;35.96;5.9675
+598;التلة;Tella;حمام السخنة;Hammam Sokhna;19;سطيف;Sétif;1960;35.93794;5.7179
+599;عين ولمان;Ain Oulmene;عين ولمان;Ain Oulmene;19;سطيف;Sétif;1928;35.91666667;5.29604
+600;بوطالب;Boutaleb;صالح باي;Salah Bey;19;سطيف;Sétif;1905;35.66024;5.32103
+601;الحامة;Hamma;صالح باي;Salah Bey;19;سطيف;Sétif;1944;35.680556;5.37277
+602;أولاد تبان;Ouled Tebben;صالح باي;Salah Bey;19;سطيف;Sétif;1914;35.7875;5.1223608
+603;عموشة;Amoucha;عموشة;Amoucha;19;سطيف;Sétif;1927;36.38735;5.4137
+604;صالح باي;Salah Bey;صالح باي;Salah Bey;19;سطيف;Sétif;1954;35.855;5.291
+605;عين أزال;Ain Azel;عين أزال;Ain Azel;19;سطيف;Sétif;1940;35.8184752;5.5219
+606;عين الحجر;Ain Lahdjar;عين أزال;Ain Azel;19;سطيف;Sétif;1918;35.938611;5.539167
+607;بيضاء برج;Beidha Bordj;عين أزال;Ain Azel;19;سطيف;Sétif;1929;35.891667;5.66861
+608;بئر حدادة;Bir Haddada;عين أزال;Ain Azel;19;سطيف;Sétif;1934;35.962777;5.3802134
+609;قنزات;Guenzet;قنزات;Guenzet;19;سطيف;Sétif;1913;36.31667;4.833333333
+610;حربيل;Harbil;قنزات;Guenzet;19;سطيف;Sétif;1936;36.32488;4.92641
+611;عين الروى;Ain-Roua;بوقاعة;Bougaa;19;سطيف;Sétif;1906;36.3129898;5.1953554
+612;بني وسين;Beni Oussine;بوقاعة;Bougaa;19;سطيف;Sétif;1953;36.27222;5.092008
+613;أوريسيا;El Ouricia;عين أرنات;Ain Arnat;19;سطيف;Sétif;1927;36.2924521;5.4
+614;بوقاعة;Bougaa;بوقاعة;Bougaa;19;سطيف;Sétif;1943;36.33293;5.08843
+615;ذراع قبيلة;Draa-Kebila;حمام قرقور;Hammam Guergour;19;سطيف;Sétif;1907;36.4629;4.99551
+616;حمام قرقور;Hammam Guergour;حمام قرقور;Hammam Guergour;19;سطيف;Sétif;1950;36.32189;5.0535232
+617;سطيف;Setif;سطيف;Setif;19;سطيف;Sétif;1901;36.19112;5.4150871
+618;عين الكبيرة;Ain El Kebira;عين الكبيرة;Ain El Kebira;19;سطيف;Sétif;1902;36.3647;5.5019
+619;الدهامشة;Dehamcha;عين الكبيرة;Ain El Kebira;19;سطيف;Sétif;1915;36.3821;5.5953
+620;أولاد عدوان;Ouled Addouane;عين الكبيرة;Ain El Kebira;19;سطيف;Sétif;1934;36.3401;5.3360215
+621;عين السبت;Ain-Sebt;بني عزيز;Beni Aziz;19;سطيف;Sétif;1949;36.4833899;5.711
+622;بني عزيز;Beni-Aziz;بني عزيز;Beni Aziz;19;سطيف;Sétif;1903;36.4648323;5.6563119
+623;معاوية;Maaouia;بني عزيز;Beni Aziz;19;سطيف;Sétif;1948;36.38899;5.70995
+624;بلاعة;Bellaa;بئر العرش;Bir El Arch;19;سطيف;Sétif;1925;36.2025;5.8536111
+625;بئر العرش;Bir-El-Arch;بئر العرش;Bir El Arch;19;سطيف;Sétif;1908;36.1016103;5.7932008
+626;الولجة;El-Ouldja;بئر العرش;Bir El Arch;19;سطيف;Sétif;1944;36.06371;5.95369
+627;تاشودة;Tachouda;بئر العرش;Bir El Arch;19;سطيف;Sétif;1945;36.2664729;5.713055
+628;تالة إيفاسن;Tala-Ifacene;ماوكلان;Maoklane;19;سطيف;Sétif;1928;36.458333;5.088889
+629;سرج الغول;Serdj-El-Ghoul;بابور;Babor;19;سطيف;Sétif;1935;36.478;5.58
+630;قجال;Guidjel;قجال;Guidjel;19;سطيف;Sétif;1917;36.19119;5.52999
+631;أولاد صابر;Ouled Sabor;قجال;Guidjel;19;سطيف;Sétif;1947;36.16561;5.524
+632;بازر سكرة;Bazer-Sakra;العلمة;El Eulma;19;سطيف;Sétif;1944;36.11778;5.70972
+633;العلمة;El Eulma;العلمة;El Eulma;19;سطيف;Sétif;1920;36.156449;5.69016
+634;قلتة زرقاء;Guelta Zerka;العلمة;El Eulma;19;سطيف;Sétif;1956;36.2045916;5.6773512
+635;بني فودة;Beni Fouda;جميلة;Djemila;19;سطيف;Sétif;1944;36.2861111;5.60722
+636;جميلة;Djemila;جميلة;Djemila;19;سطيف;Sétif;1910;36.31351;5.73697
+637;عين لقراج;Ain-Legradj;بني ورتيلان;Beni Ourtilane;19;سطيف;Sétif;1913;36.4096669;4.891
+638;بني شبانة;Beni Chebana;بني ورتيلان;Beni Ourtilane;19;سطيف;Sétif;1909;36.468333;4.8683
+639;بني ورتيلان;Beni Ourtilane;بني ورتيلان;Beni Ourtilane;19;سطيف;Sétif;1922;36.442222;4.9
+640;بني موحلي;Beni-Mouhli;بني ورتيلان;Beni Ourtilane;19;سطيف;Sétif;1946;36.50739;4.91503
+641;عين عباسة;Ain Abessa;عين أرنات;Ain Arnat;19;سطيف;Sétif;1914;36.3;5.295
+642;عين أرنات;Ain Arnat;عين أرنات;Ain Arnat;19;سطيف;Sétif;1926;36.1868;5.31347
+643;بابور;Babor;بابور;Babor;19;سطيف;Sétif;1945;36.48994;5.5399
+644;ماوكلان;Maouaklane;ماوكلان;Maoklane;19;سطيف;Sétif;1904;36.3968;5.0752
+645;سعيدة;Saida;سعيدة;Saida;20;سعيدة;Saïda;2001;34.833333;0.15
+646;تيرسين;Tircine;أولاد ابراهيم;Ouled Brahim;20;سعيدة;Saïda;2015;34.901388;0.5547
+647;أولاد إبراهيم;Ouled Brahim;أولاد ابراهيم;Ouled Brahim;20;سعيدة;Saïda;2005;34.99;0.4772
+648;عين السلطان;Ain Soltane;أولاد ابراهيم;Ouled Brahim;20;سعيدة;Saïda;2016;34.96647;0.3075
+649;المعمورة;Maamora;الحساسنة;El Hassasna;20;سعيدة;Saïda;2011;34.681667;0.15
+650;الحساسنة;El Hassasna;الحساسنة;El Hassasna;20;سعيدة;Saïda;2010;34.824167;0.1
+651;عين السخونة;Ain Sekhouna;الحساسنة;El Hassasna;20;سعيدة;Saïda;2013;34.50446;0.84412
+652;سيدي بوبكر;Sidi Boubekeur;سيدي بوبكر;Sidi Boubekeur;20;سعيدة;Saïda;2009;35.02888889;0.0536592
+653;أولاد خالد;Ouled Khaled;سيدي بوبكر;Sidi Boubekeur;20;سعيدة;Saïda;2004;34.87666667;0.152777778
+654;هونت;Hounet;سيدي بوبكر;Sidi Boubekeur;20;سعيدة;Saïda;2007;35.1108;-0.15
+655;يوب;Youb;يوب;Youb;20;سعيدة;Saïda;2006;34.92186;-0.208133
+656;دوي ثابت;Doui Thabet;يوب;Youb;20;سعيدة;Saïda;2005;34.89306;-0.0842
+657;سيدي احمد;Sidi Ahmed;عين الحجر;Ain El Hadjar;20;سعيدة;Saïda;2012;34.55;0.259722
+658;مولاي العربي;Moulay Larbi;عين الحجر;Ain El Hadjar;20;سعيدة;Saïda;2005;34.648611;0.0167
+659;عين الحجر;Ain El Hadjar;عين الحجر;Ain El Hadjar;20;سعيدة;Saïda;2005;34.75846;0.1444
+660;سيدي عمر;Sidi Amar;سيدي بوبكر;Sidi Boubekeur;20;سعيدة;Saïda;2008;35.025278;0.1015
+661;عين بوزيان;Ain Bouziane;سيدي مزغيش;Sidi Mezghiche;21;سكيكدة;Skikda;2122;36.6024073;6.7513889
+662;صالح بو الشعور;Salah Bouchaour;الحروش;El Harrouch;21;سكيكدة;Skikda;2125;36.740543;6.87296
+663;الحدائق;El Hadaiek;الحدائق;El Hadaiek;21;سكيكدة;Skikda;2108;36.8259805;6.8873791
+664;زردازة;Zerdezas;الحروش;El Harrouch;21;سكيكدة;Skikda;2110;36.597811;6.896718
+665;أولاد حبابة;Ouled Habbaba;الحروش;El Harrouch;21;سكيكدة;Skikda;2118;36.503333;6.9575
+666;بني ولبان;Beni Oulbane;سيدي مزغيش;Sidi Mezghiche;21;سكيكدة;Skikda;2121;36.6833333;6.6389
+667;سيدي مزغيش;Sidi Mezghiche;سيدي مزغيش;Sidi Mezghiche;21;سكيكدة;Skikda;2119;36.68333333;6.7167
+668;بني بشير;Beni Bechir;رمضان جمال;Ramdane Djamel;21;سكيكدة;Skikda;2124;36.783333;6.933333
+669;رمضان جمال;Ramdane Djamel;رمضان جمال;Ramdane Djamel;21;سكيكدة;Skikda;2123;36.7552525;6.8927193
+670;بين الويدان;Bin El Ouiden;تمالوس;Tamalous;21;سكيكدة;Skikda;2119;36.8079;6.5656
+671;مجاز الدشيش;Emjez Edchich;الحروش;El Harrouch;21;سكيكدة;Skikda;2125;36.7033327;6.7458
+672;تمالوس;Tamalous;تمالوس;Tamalous;21;سكيكدة;Skikda;2126;36.8357539;6.6417
+673;عين قشرة;Ain Kechra;عين قشرة;Ain Kechra;21;سكيكدة;Skikda;2127;36.7483;6.4349765
+674;الولجة بولبلوط;Ouldja Boulbalout;عين قشرة;Ain Kechra;21;سكيكدة;Skikda;2129;36.78611111;6.373055
+675;أم الطوب;Oum Toub;أم الطوب;Oum Toub;21;سكيكدة;Skikda;2128;36.72611;6.58
+676;الغدير;El Ghedir;عزابة;Azzaba;21;سكيكدة;Skikda;2133;36.688333;6.97778
+677;الكركرة;Kerkara;تمالوس;Tamalous;21;سكيكدة;Skikda;2112;36.929;6.586
+678;الحروش;El Arrouch;الحروش;El Harrouch;21;سكيكدة;Skikda;2116;36.6531;6.64917
+679;الزيتونة;Zitouna;الزيتونة;Zitouna;21;سكيكدة;Skikda;2115;36.9880728;6.46049
+680;أولاد عطية;Ouled Attia;أولاد عطية;Ouled Attia;21;سكيكدة;Skikda;2113;36.994444;6.341389
+681;وادي الزهور;Oued Zhour;أولاد عطية;Ouled Attia;21;سكيكدة;Skikda;2114;36.9221397;6.315556
+682;القل;Collo;القل;Collo;21;سكيكدة;Skikda;2106;37.0072;6.5609
+683;الشرايع;Cheraia;القل;Collo;21;سكيكدة;Skikda;2131;37.00194;6.4972247
+684;بني زيد;Beni Zid;القل;Collo;21;سكيكدة;Skikda;2137;36.8080556;6.5056
+685;خناق مايو;Khenag Maoune;أولاد عطية;Ouled Attia;21;سكيكدة;Skikda;2108;36.7802778;6.1386
+686;المرسى;El Marsa;بن عزوز;Ben Azzouz;21;سكيكدة;Skikda;2138;37.03;7.2531
+687;بن عزوز;Ben Azzouz;بن عزوز;Ben Azzouz;21;سكيكدة;Skikda;2108;36.46;7.057
+688;بكوش لخضر;Bekkouche Lakhdar;بن عزوز;Ben Azzouz;21;سكيكدة;Skikda;2107;36.791944;7.30625
+689;السبت;Es Sebt;عزابة;Azzaba;21;سكيكدة;Skikda;2109;36.802;7.0774269
+690;عين شرشار;Ain Charchar;عزابة;Azzaba;21;سكيكدة;Skikda;2106;36.7336763;7.2234899
+691;عزابة;Azzaba;عزابة;Azzaba;21;سكيكدة;Skikda;2101;36.73944;7.10528
+692;بوشطاطة;Bouchetata;الحدائق;El Hadaiek;21;سكيكدة;Skikda;2108;36.7938;6.79722
+693;فلفلة;Filfila;سكيكدة;Skikda;21;سكيكدة;Skikda;2121;36.8828035;7.0821162
+694;حمادي كرومة;Hammadi Krouma;سكيكدة;Skikda;21;سكيكدة;Skikda;2137;36.844;6.89262
+695;سكيكدة;Skikda;سكيكدة;Skikda;21;سكيكدة;Skikda;2101;36.87617;6.9
+696;عين زويت;Ain Zouit;الحدائق;El Hadaiek;21;سكيكدة;Skikda;2102;36.89027778;6.7856
+697;جندل سعدي محمد;Djendel Saadi Mohamed;عزابة;Azzaba;21;سكيكدة;Skikda;2105;36.78;7.1709
+698;قنواع;Kanoua;الزيتونة;Zitouna;21;سكيكدة;Skikda;2113;37.0375;6.405556
+699;سيدي علي بن يوب;Sidi Ali Benyoub;سيدي علي بن يوب;Sidi Ali Ben Youb;22;سيدي بلعباس;Sidi Bel Abbès;2246;34.94555556;-0.7194
+700;مولاي سليسن;Moulay Slissen;مولاي سليسن;Moulay Slissen;22;سيدي بلعباس;Sidi Bel Abbès;2209;34.8222;-0.76041
+701;الحصيبة;El Hacaiba;مولاي سليسن;Moulay Slissen;22;سيدي بلعباس;Sidi Bel Abbès;2219;34.7;-0.7667
+702;عين تندمين;Ain Tindamine;مولاي سليسن;Moulay Slissen;22;سيدي بلعباس;Sidi Bel Abbès;2224;34.6897222;-0.720555
+703;تنيرة;Tenira;تنيرة;Tenira;22;سيدي بلعباس;Sidi Bel Abbès;2217;35.0197;-0.52897
+704;وادي سفيون;Oued Sefioun;تنيرة;Tenira;22;سيدي بلعباس;Sidi Bel Abbès;2217;34.996111;-0.0933333
+705;حاسي دحو;Hassi Dahou;تنيرة;Tenira;22;سيدي بلعباس;Sidi Bel Abbès;2252;35.071944;-0.5456
+706;وادي تاوريرة;Oued Taourira;مرين;Merine;22;سيدي بلعباس;Sidi Bel Abbès;2231;34.61972;-0.33889
+707;بن عشيبة شلية;Benachiba Chelia;تنيرة;Tenira;22;سيدي بلعباس;Sidi Bel Abbès;2251;34.9634;-0.6145
+708;سيدي يعقوب;Sidi Yacoub;سيدي لحسن;Sidi Lahcene;22;سيدي بلعباس;Sidi Bel Abbès;2240;35.13583;-0.786111
+709;سيدي لحسن;Sidi Lahcene;سيدي لحسن;Sidi Lahcene;22;سيدي بلعباس;Sidi Bel Abbès;2206;35.1632838;-0.6959152
+710;سيدي خالد;Sidi Khaled;سيدي لحسن;Sidi Lahcene;22;سيدي بلعباس;Sidi Bel Abbès;2227;35.11349;-0.71969
+711;طابية;Tabia;سيدي علي بن يوب;Sidi Ali Ben Youb;22;سيدي بلعباس;Sidi Bel Abbès;2221;35.206;-0.73389
+712;سيدي ابراهيم;Sidi Brahim;عين البرد;Ain El Berd;22;سيدي بلعباس;Sidi Bel Abbès;2229;35.26055556;-0.5675
+713;العمارنة;Amarnas;سيدي لحسن;Sidi Lahcene;22;سيدي بلعباس;Sidi Bel Abbès;2212;35.135556;-0.62278
+714;بوخنفيس;Boukhanefis;سيدي علي بن يوب;Sidi Ali Ben Youb;22;سيدي بلعباس;Sidi Bel Abbès;2207;35.066111;-0.723333
+715;حاسي زهانة;Hassi Zahana;بن باديس;Ben Badis;22;سيدي بلعباس;Sidi Bel Abbès;2220;34.9876;-0.89
+716;شيطوان البلايلة;Chetouane Belaila;بن باديس;Ben Badis;22;سيدي بلعباس;Sidi Bel Abbès;2247;34.95;-0.8364
+717;بن باديس;Ben Badis;بن باديس;Ben Badis;22;سيدي بلعباس;Sidi Bel Abbès;2245;34.95234;-0.91609
+718;بضرابين المقراني;Bedrabine El Mokrani;بن باديس;Ben Badis;22;سيدي بلعباس;Sidi Bel Abbès;2209;35.008889;-0.8503
+719;سفيزف;Sfisef;سفيزف;Sfisef;22;سيدي بلعباس;Sidi Bel Abbès;2229;35.23464;-0.24435
+720;مسيد;M'cid;سفيزف;Sfisef;22;سيدي بلعباس;Sidi Bel Abbès;2226;35.1165888;0.15
+721;بوجبهة البرج;Boudjebaa El Bordj;سفيزف;Sfisef;22;سيدي بلعباس;Sidi Bel Abbès;2238;35.34988;-0.3247
+722;عين أدن;Ain- Adden;سفيزف;Sfisef;22;سيدي بلعباس;Sidi Bel Abbès;2230;35.329444;-0.26139
+723;سيدي حمادوش;Sidi Hamadouche;عين البرد;Ain El Berd;22;سيدي بلعباس;Sidi Bel Abbès;2241;35.1375;-0.548889
+724;سيدي شعيب;Sidi Chaib;مرحوم;Marhoum;22;سيدي بلعباس;Sidi Bel Abbès;2235;34.3411;-0.54861
+725;مكدرة;Makedra;عين البرد;Ain El Berd;22;سيدي بلعباس;Sidi Bel Abbès;2216;35.440833;-0.4314
+726;عين البرد;Ain El Berd;عين البرد;Ain El Berd;22;سيدي بلعباس;Sidi Bel Abbès;2228;35.363949;-0.51278
+727;رجم دموش;Redjem Demouche;راس الماء;Ras El Ma;22;سيدي بلعباس;Sidi Bel Abbès;2250;34.427222;-0.8097222
+728;راس الماء;Ras El Ma;راس الماء;Ras El Ma;22;سيدي بلعباس;Sidi Bel Abbès;2223;34.4973612;-0.8055976
+729;وادي السبع;Oued Sebaa;راس الماء;Ras El Ma;22;سيدي بلعباس;Sidi Bel Abbès;2237;34.5866667;-0.824167
+730;مرحوم;Marhoum;مرحوم;Marhoum;22;سيدي بلعباس;Sidi Bel Abbès;2248;34.446751;-0.195025
+731;سيدي بلعباس;Sidi Bel-Abbes;سيدي بلعباس;Sidi Bel Abbes;22;سيدي بلعباس;Sidi Bel Abbès;2201;35.2022249;-0.6298922
+732;عين الثريد;Ain Thrid;تسالة;Tessala;22;سيدي بلعباس;Sidi Bel Abbès;2215;35.284722;-0.67583333
+733;السهالة الثورة;Sehala Thaoura;تسالة;Tessala;22;سيدي بلعباس;Sidi Bel Abbès;2213;35.222;-0.8317
+734;تسالة;Tessala;تسالة;Tessala;22;سيدي بلعباس;Sidi Bel Abbès;2245;35.24356;-0.773163
+735;بلعربي;Belarbi;مصطفى بن ابراهيم;Mostefa Ben Brahim;22;سيدي بلعباس;Sidi Bel Abbès;2204;35.15;0.15
+736;مصطفى بن ابراهيم;Mostefa Ben Brahim;مصطفى بن ابراهيم;Mostefa Ben Brahim;22;سيدي بلعباس;Sidi Bel Abbès;2204;35.1925;-0.358
+737;تلموني;Tilmouni;مصطفى بن ابراهيم;Mostefa Ben Brahim;22;سيدي بلعباس;Sidi Bel Abbès;2213;35.083333;-0.5905178
+738;زروالة;Zerouala;مصطفى بن ابراهيم;Mostefa Ben Brahim;22;سيدي بلعباس;Sidi Bel Abbès;2233;35.242222;-0.522
+739;الضاية;Dhaya;تلاغ;Telagh;22;سيدي بلعباس;Sidi Bel Abbès;2232;34.67585;-0.6208
+740;مزاورو;Mezaourou;تلاغ;Telagh;22;سيدي بلعباس;Sidi Bel Abbès;2223;34.8173267;-0.6233189
+741;تغاليمت;Teghalimet;تلاغ;Telagh;22;سيدي بلعباس;Sidi Bel Abbès;2244;34.882777;-0.55
+742;تلاغ;Telagh;تلاغ;Telagh;22;سيدي بلعباس;Sidi Bel Abbès;2205;34.7949589;-0.5722
+743;عين قادة;Ain Kada;سيدي علي بوسيدي;Sidi Ali Boussidi;22;سيدي بلعباس;Sidi Bel Abbès;2225;35.1369491;-0.8558715
+744;لمطار;Lamtar;سيدي علي بوسيدي;Sidi Ali Boussidi;22;سيدي بلعباس;Sidi Bel Abbès;2234;35.070555;-0.798056
+745;سيدي علي بوسيدي;Sidi Ali Boussidi;سيدي علي بوسيدي;Sidi Ali Boussidi;22;سيدي بلعباس;Sidi Bel Abbès;2213;35.1;-0.833333333
+746;سيدي دحو الزاير;Sidi Dahou Zairs;سيدي علي بوسيدي;Sidi Ali Boussidi;22;سيدي بلعباس;Sidi Bel Abbès;2236;35.11714;-0.91001
+747;بئر الحمام;Bir El Hammam;مرحوم;Marhoum;22;سيدي بلعباس;Sidi Bel Abbès;2248;34.418889;-0.49923
+748;مرين;Merine;مرين;Merine;22;سيدي بلعباس;Sidi Bel Abbès;2222;34.7805884;-0.451
+749;تفسور;Tefessour;مرين;Merine;22;سيدي بلعباس;Sidi Bel Abbès;2245;35.035;-0.1
+750;تاودموت;Taoudmout;مرين;Merine;22;سيدي بلعباس;Sidi Bel Abbès;2218;34.58777778;-0.1103
+751;عنابة;Annaba;عنابة;Annaba;23;عنابة;Annaba;2301;36.9;7.7667
+752;سرايدي;Seraidi;عنابة;Annaba;23;عنابة;Annaba;2308;36.91129;7.666667
+753;برحال;Berrahal;برحال;Berrahal;23;عنابة;Annaba;2307;36.833333;7.45
+754;واد العنب;Oued El Aneb;برحال;Berrahal;23;عنابة;Annaba;2306;36.883333;7.5030669
+755;الحجار;El Hadjar;الحجار;El Hadjar;23;عنابة;Annaba;2302;36.80377;7.737
+756;سيدي عمار;Sidi Amar;الحجار;El Hadjar;23;عنابة;Annaba;2311;36.8175;7.71641
+757;البوني;El Bouni;البوني;El Bouni;23;عنابة;Annaba;2302;36.8535764;7.663889
+758;عين الباردة;Ain El Berda;عين الباردة;Ain El Berda;23;عنابة;Annaba;2302;36.65;7.58333
+759;الشرفة;Cheurfa;عين الباردة;Ain El Berda;23;عنابة;Annaba;2307;36.7236097;7.5788975
+760;العلمة;El Eulma;عين الباردة;Ain El Berda;23;عنابة;Annaba;2304;36.738889;7.6667
+761;التريعات;Treat;برحال;Berrahal;23;عنابة;Annaba;2312;36.89747;7.683333333
+762;شطايبي;Chetaibi;شطايبي;Chetaibi;23;عنابة;Annaba;2310;36.805556;7.38028
+763;نشماية;Nechmaya;قلعة بوصبع;Guelaat Bousbaa;24;قالمة;Guelma;2402;36.611389;7.513333
+764;بوحمدان;Bou Hamdane;حمام دباغ;Hammam Debagh;24;قالمة;Guelma;2412;36.46277;7.116667
+765;حمام دباغ;Hammam Debagh;حمام دباغ;Hammam Debagh;24;قالمة;Guelma;2419;36.461111;7.266667
+766;الركنية;Roknia;حمام دباغ;Hammam Debagh;24;قالمة;Guelma;2419;36.5481;7.22861
+767;الدهوارة;Dahouara;حمام النبايل;Hammam N'bails;24;قالمة;Guelma;2409;36.351667;7.732778
+768;حمام النبايل;Hammam N'bail;حمام النبايل;Hammam N'bails;24;قالمة;Guelma;2422;36.4648323;7.6436
+769;قالمة;Guelma;قالمة;Guelma;24;قالمة;Guelma;2401;36.466;7.4206
+770;بومهرة أحمد;Boumahra Ahmed;قلعة بوصبع;Guelaat Bousbaa;24;قالمة;Guelma;2431;36.458007;7.51389
+771;عين بن بيضاء;Ain Ben Beida;بوشقوف;Bouchegouf;24;قالمة;Guelma;2414;36.61667;7.7
+772;بوشقوف;Bouchegouf;بوشقوف;Bouchegouf;24;قالمة;Guelma;2402;36.4719271;7.72972
+773;مجاز الصفاء;Medjez Sfa;بوشقوف;Bouchegouf;24;قالمة;Guelma;2430;36.43337;7.7824225
+774;وادي فراغة;Oued Ferragha;بوشقوف;Bouchegouf;24;قالمة;Guelma;2406;36.555833;7.713055
+775;بوعاتي محمود;Bouati Mahmoud;هيليوبوليس;Heliopolis;24;قالمة;Guelma;2403;36.583333;7.333333
+776;الفجوج;El Fedjoudj;هيليوبوليس;Heliopolis;24;قالمة;Guelma;2420;36.5048237;7.399722
+777;هيليوبوليس;Heliopolis;هيليوبوليس;Heliopolis;24;قالمة;Guelma;2426;36.50361;7.4447
+778;مجاز عمار;Medjez Amar;عين حساينية;Ain Hessainia;24;قالمة;Guelma;2424;36.4454;7.310556
+779;هواري بومدين;Houari Boumedienne;عين حساينية;Ain Hessainia;24;قالمة;Guelma;2419;36.4154;7.28611
+780;رأس العقبة;Ras El Agba;عين حساينية;Ain Hessainia;24;قالمة;Guelma;2425;36.372949;7.222816
+781;سلاوة عنونة;Sellaoua Announa;عين حساينية;Ain Hessainia;24;قالمة;Guelma;2429;36.386944;7.250556
+782;جبالة الخميسي;Djeballah Khemissi;قلعة بوصبع;Guelaat Bousbaa;24;قالمة;Guelma;2434;36.5667;7.633333
+783;برج صباط;Bordj Sabath;وادي الزناتي;Oued Zenati;24;قالمة;Guelma;2421;36.402899;7.0484999
+784;وادي الزناتي;Oued Zenati;وادي الزناتي;Oued Zenati;24;قالمة;Guelma;2402;36.3153;7.163889
+785;عين رقادة;Ain Regada;وادي الزناتي;Oued Zenati;24;قالمة;Guelma;2432;36.259444;7.0739
+786;عين العربي;Ain Larbi;عين مخلوف;Ain Makhlouf;24;قالمة;Guelma;2423;36.265833;7.3962
+787;عين مخلوف;Ain Makhlouf;عين مخلوف;Ain Makhlouf;24;قالمة;Guelma;2413;36.243333;7.250833
+788;تاملوكة;Tamlouka;عين مخلوف;Ain Makhlouf;24;قالمة;Guelma;2405;36.15;7.14154
+789;عين صندل;Ain Sandel;خزارة;Khezaras;24;قالمة;Guelma;2410;36.24472222;7.5125
+790;بوحشانة;Bou Hachana;خزارة;Khezaras;24;قالمة;Guelma;2411;36.306868;7.5078039
+791;لخزارة;Khezaras;خزارة;Khezaras;24;قالمة;Guelma;2431;36.369444;7.529167
+792;بلخير;Belkheir;قلعة بوصبع;Guelaat Bousbaa;24;قالمة;Guelma;2410;36.4587897;7.479
+793;بني مزلين;Beni Mezline;قلعة بوصبع;Guelaat Bousbaa;24;قالمة;Guelma;2416;36.480833;7.6031
+794;قلعة بوصبع;Guelaat Bou Sbaa;قلعة بوصبع;Guelaat Bousbaa;24;قالمة;Guelma;2418;36.54565;7.47333
+795;وادي الشحم;Oued Cheham;حمام النبايل;Hammam N'bails;24;قالمة;Guelma;2433;36.38333;7.76278
+796;بن جراح;Bendjarah;قالمة;Guelma;24;قالمة;Guelma;2411;36.43222222;7.420833
+797;ديدوش مراد;Didouche Mourad;حامة بوزيان;Hamma Bouziane;25;قسنطينة;Constantine;2509;36.4525;6.63639
+798;حامة بوزيان;Hamma Bouziane;حامة بوزيان;Hamma Bouziane;25;قسنطينة;Constantine;2502;36.41205;6.59603
+799;بني حميدان;Beni Hamidane;زيغود يوسف;Zighoud Youcef;25;قسنطينة;Constantine;2508;36.505561;6.54972221
+800;زيغود يوسف;Zighoud Youcef;زيغود يوسف;Zighoud Youcef;25;قسنطينة;Constantine;2509;36.53307;6.71238
+801;عين السمارة;Ain Smara;الخروب;El Khroub;25;قسنطينة;Constantine;2510;36.2675;6.50147
+802;الخروب;El Khroub;الخروب;El Khroub;25;قسنطينة;Constantine;2503;36.26333;6.69361
+803;أولاد رحمون;Ouled Rahmoun;الخروب;El Khroub;25;قسنطينة;Constantine;2510;36.17148;6.6933
+804;عين عبيد;Ain Abid;عين عبيد;Ain Abid;25;قسنطينة;Constantine;2507;36.2325;6.944046
+805;أبن باديس الهرية;Ben Badis;عين عبيد;Ain Abid;25;قسنطينة;Constantine;2503;36.806388;6.8319511
+806;ابن زياد;Ibn Ziad;ابن زياد;Ibn Ziad;25;قسنطينة;Constantine;2512;36.379167;6.4667
+807;بوجريو مسعود;Messaoud Boudjeriou;ابن زياد;Ibn Ziad;25;قسنطينة;Constantine;2511;36.424444;6.4725
+808;قسنطينة;Constantine;قسنطينة;Constantine;25;قسنطينة;Constantine;2501;36.365;6.642433
+809;أولاد هلال;Ouled Hellal;أولاد عنتر;Ouled Antar;26;المدية;Médéa;2622;35.9370104;2.4980197
+810;العزيزية;El Azizia;العزيزية;El Azizia;26;المدية;Médéa;2636;36.28656;3.49412
+811;مغراوة;Maghraoua;العزيزية;El Azizia;26;المدية;Médéa;2639;36.3512874;3.535277
+812;ميهوب;Mihoub;العزيزية;El Azizia;26;المدية;Médéa;2606;36.3527;3.475833
+813;حناشة;Hannacha;عوامري;Ouamri;26;المدية;Médéa;2607;36.19112;3.52556
+814;عوامري;Ouamri;عوامري;Ouamri;26;المدية;Médéa;2643;36.2333;2.566667
+815;وادي حربيل;Oued Harbil;عوامري;Ouamri;26;المدية;Médéa;2629;36.233333;2.6333
+816;بني سليمان;Beni Slimane;بني سليمان;Beni Slimane;26;المدية;Médéa;2640;36.22703;3.30596
+817;بوعيشون;Bouaichoune;سي المحجوب;Si Mahdjoub;26;المدية;Médéa;2659;36.1625;2.6487087
+818;أولاد بوعشرة;Ouled Bouachra;سي المحجوب;Si Mahdjoub;26;المدية;Médéa;2623;36.160382;2.722206
+819;سي المحجوب;Si Mahdjoub;سي المحجوب;Si Mahdjoub;26;المدية;Médéa;2608;36.160382;2.722206
+820;بوسكن;Bouskene;بني سليمان;Beni Slimane;26;المدية;Médéa;2619;36.191111;3.2361
+821;سيدي الربيع;Sidi Rabie;بني سليمان;Beni Slimane;26;المدية;Médéa;2655;36.14766;3.75
+822;البرواقية;Berrouaghia;البرواقية;Berrouaghia;26;المدية;Médéa;2647;36.13516;2.911
+823;أولاد دايد;Ouled Deid;البرواقية;Berrouaghia;26;المدية;Médéa;2606;36.112778;3.5167
+824;الربعية;Rebaia;البرواقية;Berrouaghia;26;المدية;Médéa;2620;36.02783;3.138055
+825;مجبر;Medjebar;سغوان;Seghouane;26;المدية;Médéa;2623;35.950556;3.46166
+826;ثلاث دوائر;Tletat Ed Douair;سغوان;Seghouane;26;المدية;Médéa;2645;35.9154;2.963
+827;الزبيرية;Zoubiria;سغوان;Seghouane;26;المدية;Médéa;2634;36.066667;2.9
+828;العيساوية;Aissaouia;تابلاط;Tablat;26;المدية;Médéa;2605;36.419167;3.216111
+829;الحوضان;El Haoudane;تابلاط;Tablat;26;المدية;Médéa;2614;36.273611;3.49056
+830;مزغنة;Mezerana;تابلاط;Tablat;26;المدية;Médéa;2636;36.3609993;3.3580828
+831;تابلاط;Tablat;تابلاط;Tablat;26;المدية;Médéa;2652;36.41211257;3.3101
+832;بوغار;Boghar;أولاد عنتر;Ouled Antar;26;المدية;Médéa;2625;35.911389;2.71667
+833;سغوان;Seghouane;سغوان;Seghouane;26;المدية;Médéa;2627;36.19112;2.9
+834;ذراع السمار;Draa Esmar;المدية;Medea;26;المدية;Médéa;2654;36.27354;2.71695
+835;المدية;Medea;المدية;Medea;26;المدية;Médéa;2601;36.2675;2.75
+836;تمسقيدة;Tamesguida;المدية;Medea;26;المدية;Médéa;2615;36.323889;2.6894
+837;بن شكاو;Ben Chicao;وزرة;Ouzera;26;المدية;Médéa;2630;36.1967899;2.8499
+838;الحمدانية;El Hamdania;وزرة;Ouzera;26;المدية;Médéa;2616;36.3369617;2.8776638
+839;وزرة;Ouzera;وزرة;Ouzera;26;المدية;Médéa;2602;36.25;3.0551
+840;تيزي مهدي;Tizi Mahdi;وزرة;Ouzera;26;المدية;Médéa;2613;36.20283;2.77583
+841;عين بوسيف;Ain Boucif;عين بوسيف;Ain Boucif;26;المدية;Médéa;2604;35.89123;3.1585
+842;العوينات;El Ouinet;عين بوسيف;Ain Boucif;26;المدية;Médéa;2657;35.3344;3.035556
+843;الكاف الاخضر;Kef Lakhdar;عين بوسيف;Ain Boucif;26;المدية;Médéa;2617;35.923333;3.2875
+844;أولاد امعرف;Ouled Emaaraf;عين بوسيف;Ain Boucif;26;المدية;Médéa;2603;35.872222;3.1585
+845;سيدي دامد;Sidi Demed;عين بوسيف;Ain Boucif;26;المدية;Médéa;2631;35.869443;3.254444
+846;بعطة;Baata;العمارية;El Omaria;26;المدية;Médéa;2624;36.346389;3.110277
+847;العمارية;El Omaria;العمارية;El Omaria;26;المدية;Médéa;2607;36.266667;3.03333
+848;أولاد إبراهيم;Ouled Brahim;العمارية;El Omaria;26;المدية;Médéa;2612;36.244444;2.933611
+849;بئر بن عابد;Bir Ben Laabed;القلب الكبير;Guelb El Kebir;26;المدية;Médéa;2656;36.0003;3.394722
+850;القلب الكبير;El Guelbelkebir;القلب الكبير;Guelb El Kebir;26;المدية;Médéa;2609;36.25499914;3.416579076
+851;سدراية;Sedraya;القلب الكبير;Guelb El Kebir;26;المدية;Médéa;2661;36.24294024;3.529038536
+852;عين اقصير;Ain Ouksir;شلالة العذاورة;Chellalat El Adhaoura;26;المدية;Médéa;2641;35.818653;3.470555
+853;شلالة العذاورة;Chelalet El Adhaoura;شلالة العذاورة;Chellalat El Adhaoura;26;المدية;Médéa;2618;35.94;3.4139
+854;شنيقل;Cheniguel;شلالة العذاورة;Chellalat El Adhaoura;26;المدية;Médéa;2640;35.922222;3.5667
+855;تفراوت;Tafraout;شلالة العذاورة;Chellalat El Adhaoura;26;المدية;Médéa;2623;36.0877;3.4308
+856;بوشراحيل;Bouchrahil;سيدي نعمان;Sidi Naamane;26;المدية;Médéa;2621;36.252778;3.15861
+857;خمس جوامع;Khams Djouamaa;سيدي نعمان;Sidi Naamane;26;المدية;Médéa;2663;36.1914;3.2367
+858;سيدي نعمان;Sidi Naamane;سيدي نعمان;Sidi Naamane;26;المدية;Médéa;2626;36.215056;3.123937
+859;أولاد عنتر;Ouled Antar;أولاد عنتر;Ouled Antar;26;المدية;Médéa;2658;35.9951773;2.60231
+860;فرناقة;Fornaka;عين نويسي;Ain Nouicy;27;مستغانم;Mostaganem;2703;35.75243;-0.0169
+861;وادي الخير;Oued El Kheir;عين تادلس;Ain Tedeles;27;مستغانم;Mostaganem;2709;35.950278;0.3808333
+862;الحسيان (بني ياحي;Hassiane;عين نويسي;Ain Nouicy;27;مستغانم;Mostaganem;2732;35.7513939;0.076042105
+863;حاسي ماماش;Hassi Mameche;حاسي ماماش;Hassi Mameche;27;مستغانم;Mostaganem;2706;35.8611;0.102718
+864;مزغران;Mazagran;حاسي ماماش;Hassi Mameche;27;مستغانم;Mostaganem;2727;35.901944;0.726944
+865;ستيدية;Stidia;حاسي ماماش;Hassi Mameche;27;مستغانم;Mostaganem;2704;35.8307225;0
+866;عين تادلس;Ain-Tedles;عين تادلس;Ain Tedeles;27;مستغانم;Mostaganem;2720;35.9947;0.2949
+867;سيدي بلعطار;Sidi Belaattar;عين تادلس;Ain Tedeles;27;مستغانم;Mostaganem;2710;36.026698;0.26931
+868;سور;Sour;عين تادلس;Ain Tedeles;27;مستغانم;Mostaganem;2708;35.85;0.34138888
+869;عين بودينار;Ain-Boudinar;خير الدين;Kheir Eddine;27;مستغانم;Mostaganem;2728;36.0089774;0.1881358
+870;خير الدين;Kheir-Eddine;خير الدين;Kheir Eddine;27;مستغانم;Mostaganem;2707;35.9477561;0.17315
+871;صيادة;Sayada;خير الدين;Kheir Eddine;27;مستغانم;Mostaganem;2702;35.9477561;0.12916667
+872;سيدي علي;Sidi Ali;سيدي علي;Sidi Ali;27;مستغانم;Mostaganem;2712;36.0967786;0.4148744
+873;تزقايت;Tazgait;سيدي علي;Sidi Ali;27;مستغانم;Mostaganem;2729;36.083333;0.4675
+874;بن عبد المالك رمضان;Benabdelmalek Ramdane;سيدي لخضر;Sidi Lakhdar;27;مستغانم;Mostaganem;2713;36.1026171;0.2742
+875;مستغانم;Mostaganem;مستغانم;Mostaganem;27;مستغانم;Mostaganem;2701;35.9246589;0.09
+876;حجاج;Hadjadj;سيدي لخضر;Sidi Lakhdar;27;مستغانم;Mostaganem;2714;36.0970536;0.333333
+877;سيدي لخضر;Sidi-Lakhdar;سيدي لخضر;Sidi Lakhdar;27;مستغانم;Mostaganem;2716;36.1428;0.460556
+878;عشعاشة;Achaacha;عشعاشة;Achaacha;27;مستغانم;Mostaganem;2717;36.2463;0.6355803
+879;خضرة;Khadra;عشعاشة;Achaacha;27;مستغانم;Mostaganem;2718;36.2535711;0.5833
+880;نكمارية;Nekmaria;عشعاشة;Achaacha;27;مستغانم;Mostaganem;2715;36.166667;0.616667
+881;أولاد بوغالم;Ouled Boughalem;عشعاشة;Achaacha;27;مستغانم;Mostaganem;2715;36.32027778;0.672778
+882;بوقيراط;Bouguirat;بوقيراط;Bouguirat;27;مستغانم;Mostaganem;2719;35.7502319;0.2566146
+883;صفصاف;Safsaf;بوقيراط;Bouguirat;27;مستغانم;Mostaganem;2715;36.075278;0.4283333
+884;سيرات;Sirat;بوقيراط;Bouguirat;27;مستغانم;Mostaganem;2720;35.7804;0.191667
+885;السوافلية;Souaflia;بوقيراط;Bouguirat;27;مستغانم;Mostaganem;2724;35.85;0.333333
+886;عين سيدي الشريف;Ain-Sidi Cherif;ماسرة;Mesra;27;مستغانم;Mostaganem;2721;35.833056;0.13605
+887;منصورة;Mansourah;ماسرة;Mesra;27;مستغانم;Mostaganem;2723;35.843611;0.231667
+888;ماسرة;Mesra;ماسرة;Mesra;27;مستغانم;Mostaganem;2722;35.837222;0.169722222
+889;الطواهرية;Touahria;ماسرة;Mesra;27;مستغانم;Mostaganem;2731;35.810556;0.209444
+890;عين نويسي;Ain-Nouissy;عين نويسي;Ain Nouicy;27;مستغانم;Mostaganem;2705;35.8037574;0.05
+891;أولاد مع الله;Ouled-Maalah;سيدي علي;Sidi Ali;27;مستغانم;Mostaganem;2726;36.006944;0.591944444
+892;شلال;Chellal;شلال;Chellal;28;المسيلة;M'Sila;2809;35.516667;4.383333
+893;أولاد ماضي;Ouled Madhi;شلال;Chellal;28;المسيلة;M'Sila;2810;35.576667;4.508333333
+894;خطوطي سد الجير;Khettouti Sed-El-Jir;شلال;Chellal;28;المسيلة;M'Sila;2808;35.687602;4.2538452
+895;بلعايبة;Belaiba;مقرة;Magra;28;المسيلة;M'Sila;2833;35.7;5.074167
+896;برهوم;Berhoum;مقرة;Magra;28;المسيلة;M'Sila;2812;35.654979;5.328
+897;دهاهنة;Dehahna;مقرة;Magra;28;المسيلة;M'Sila;2830;35.916667;5.00884
+898;مقرة;Magra;مقرة;Magra;28;المسيلة;M'Sila;2824;35.617778;5.1074
+899;بني يلمان;Beni Ilmane;سيدي عيسى;Sidi Aissa;28;المسيلة;M'Sila;2845;35.949167;4.11917
+900;بوطي السايح;Bouti Sayeh;سيدي عيسى;Sidi Aissa;28;المسيلة;M'Sila;2837;35.85;3.694444
+901;سيدي عيسى;Sidi Aissa;سيدي عيسى;Sidi Aissa;28;المسيلة;M'Sila;2816;35.88638889;3.77236
+902;عين الحجل;Ain El Hadjel;عين الحجل;Ain El Hadjel;28;المسيلة;M'Sila;2817;35.6746598;3.8821519
+903;سيدي هجرس;Sidi Hadjeres;عين الحجل;Ain El Hadjel;28;المسيلة;M'Sila;2836;35.6719444;4.03527778
+904;بوسعادة;Bou Saada;بوسعادة;Bousaada;28;المسيلة;M'Sila;2820;35.219167;4.17402
+905;الهامل;El Hamel;بوسعادة;Bousaada;28;المسيلة;M'Sila;2827;35.1283;4.083333
+906;ولتام;Oulteme;بوسعادة;Bousaada;28;المسيلة;M'Sila;2806;35.0350816;5.3360215
+907;عين الملح;Ain El Melh;عين الملح;Ain El Melh;28;المسيلة;M'Sila;2802;34.8470491;4.1634964
+908;عين فارس;Ain Fares;عين الملح;Ain El Melh;28;المسيلة;M'Sila;2838;35.03583333;4.428333333
+909;عين الريش;Ain Rich;عين الملح;Ain El Melh;28;المسيلة;M'Sila;2844;34.680794;4.096956
+910;بئر فضة;Bir Foda;عين الملح;Ain El Melh;28;المسيلة;M'Sila;2836;34.82;3.899444
+911;سيدي امحمد;Sidi M'hamed;عين الملح;Ain El Melh;28;المسيلة;M'Sila;2808;34.833333;3.9652509
+912;امجدل;Medjedel;امجدل;Medjedel;28;المسيلة;M'Sila;2842;34.9611111;3.6793899
+913;مناعة;Menaa;امجدل;Medjedel;28;المسيلة;M'Sila;2807;35.25;3.805278
+914;المسيلة;M'sila;المسيلة;M'sila;28;المسيلة;M'Sila;2801;35.71;4.5472
+915;حمام الضلعة;Hammam Dalaa;حمام الضلعة;Hammam Dalaa;28;المسيلة;M'Sila;2803;35.85;4.37445
+916;ونوغة;Ouanougha;حمام الضلعة;Hammam Dalaa;28;المسيلة;M'Sila;2819;35.980833;3.883
+917;أولاد منصور;Ouled Mansour;حمام الضلعة;Hammam Dalaa;28;المسيلة;M'Sila;2828;35.729444;4.3770704
+918;تارمونت;Tarmount;حمام الضلعة;Hammam Dalaa;28;المسيلة;M'Sila;2805;35.688056;4.174722
+919;المعاضيد;Maadid;أولاد دراج;Ouled Derradj;28;المسيلة;M'Sila;2831;35.8667;4.795556
+920;المطارفة;M'tarfa;أولاد دراج;Ouled Derradj;28;المسيلة;M'Sila;2808;35.704444;4.6175
+921;معاريف;Maarif;شلال;Chellal;28;المسيلة;M'Sila;2829;35.415278;4.354167
+922;أولاد دراج;Ouled Derradj;أولاد دراج;Ouled Derradj;28;المسيلة;M'Sila;2804;35.6927204;4.7833333
+923;السوامع;Souamaa;أولاد دراج;Ouled Derradj;28;المسيلة;M'Sila;2815;35.6546;4.668889
+924;عين الخضراء;Ain Khadra;مقرة;Magra;28;المسيلة;M'Sila;2813;35.5393686;4.9718744
+925;أولاد عدي لقبالة;Ouled Addi Guebala;أولاد دراج;Ouled Derradj;28;المسيلة;M'Sila;2814;35.670556;4.8728093
+926;وادي الأبطال;Oued El Abtal;وادي الأبطال;Oued El Abtal;29;معسكر;Mascara;2910;35.455952;0.688
+927;سيدي عبد المومن;Sidi Abdelmoumene;المحمدية;Mohammadia;29;معسكر;Mascara;2932;35.652778;0.013889
+928;سجرارة;Sedjerara;المحمدية;Mohammadia;29;معسكر;Mascara;2912;35.5397;0.213889
+929;المحمدية;Mohammadia;المحمدية;Mohammadia;29;معسكر;Mascara;2931;35.58839;0.0667
+930;تيغنيف;Tighennif;تيغنيف;Tighennif;29;معسكر;Mascara;2901;35.4143144;0.3292328
+931;مقطع الدوز;Mocta-Douz;المحمدية;Mohammadia;29;معسكر;Mascara;2936;35.6068031;-0.0489902
+932;فراقيق;Ferraguig;المحمدية;Mohammadia;29;معسكر;Mascara;2933;35.583333;0.0536592
+933;الغمري;El Ghomri;المحمدية;Mohammadia;29;معسكر;Mascara;2939;35.6883106;0.2069806
+934;زهانة;Zahana;زهانة;Zahana;29;معسكر;Mascara;2933;35.48333333;-0.15
+935;القعدة;El Gaada;زهانة;Zahana;29;معسكر;Mascara;2910;35.53333333;-0.183333333
+936;رأس عين عميروش;Ras El Ain Amirouche;عقاز;Oggaz;29;معسكر;Mascara;2944;35.5925;-0.2125
+937;عقاز;Oggaz;عقاز;Oggaz;29;معسكر;Mascara;2927;35.566667;-0.25967
+938;العلايمية;Alaimia;عقاز;Oggaz;29;معسكر;Mascara;2919;35.51011;-0.3225
+939;سيق;Sig;سيق;Sig;29;معسكر;Mascara;2926;35.5283;-0.192778
+940;الشرفاء;Chorfa;سيق;Sig;29;معسكر;Mascara;2943;35.431944;-0.245278
+941;بوهني;Bou Henni;سيق;Sig;29;معسكر;Mascara;2918;35.56055556;-0.084444444
+942;المأمونية;El Mamounia;عين فارس;Ain Fares;29;معسكر;Mascara;2939;35.433333;0.2449
+943;القطنة;El Gueitena;بوحنيفية;Bouhanifia;29;معسكر;Mascara;2910;35.2522718;0.0528
+944;عين فارس;Ain Fares;عين فارس;Ain Fares;29;معسكر;Mascara;2924;35.4799;0.2449
+945;غروس;Gharrous;عوف;Aouf;29;معسكر;Mascara;2915;35.19583333;0.400833333
+946;بنيان;Benian;عوف;Aouf;29;معسكر;Mascara;2919;35.21222;0.1397222
+947;عوف;Aouf;عوف;Aouf;29;معسكر;Mascara;2928;35.1;0.15
+948;قرجوم;Guerdjoum;وادي التاغية;Oued Taria;29;معسكر;Mascara;2942;35.15;0.0536592
+949;عين أفرص;Ain Frass;عين فكان;Ain Fekan;29;معسكر;Mascara;2925;35.195278;-0.1575
+950;عين فكان;Ain Fekan;عين فكان;Ain Fekan;29;معسكر;Mascara;2939;35.2153;-0.0016
+951;خلوية;Khalouia;البرج;El Bordj;29;معسكر;Mascara;2920;35.4613997;0.1505556
+952;المنور;El Menaouer;البرج;El Bordj;29;معسكر;Mascara;2919;35.394444;0.3713916
+953;البرج;El Bordj;البرج;El Bordj;29;معسكر;Mascara;2917;35.515833;0.3017
+954;سيدي بوسعيد;Sidi Boussaid;غريس;Ghriss;29;معسكر;Mascara;2942;35.250556;0.296389
+955;المطمور;Matemore;غريس;Ghriss;29;معسكر;Mascara;2914;35.36140556;0.0536592
+956;سيدي قادة;Sidi Kada;تيغنيف;Tighennif;29;معسكر;Mascara;2908;35.333333;0.343889
+957;ماقضة;Makhda;غريس;Ghriss;29;معسكر;Mascara;2919;35.15;0.15
+958;معسكر;Mascara;معسكر;Mascara;29;معسكر;Mascara;2901;35.4;0.133333
+959;بوحنيفية;Bouhanifia;بوحنيفية;Bouhanifia;29;معسكر;Mascara;2909;35.316111;-0.048333333
+960;غريس;Ghriss;غريس;Ghriss;29;معسكر;Mascara;2912;35.216944;0.1614
+961;حسين;Hacine;بوحنيفية;Bouhanifia;29;معسكر;Mascara;2906;35.33333333;0.09833
+962;القرط;El Keurt;تيزي;Tizi;29;معسكر;Mascara;2906;35.381111;0.091667
+963;فروحة;Froha;تيزي;Tizi;29;معسكر;Mascara;2913;35.3026637;0.1282536
+964;تيزي;Tizi;تيزي;Tizi;29;معسكر;Mascara;2917;35.31603;0.1542151
+965;السهايلية;Sehailia;تيغنيف;Tighennif;29;معسكر;Mascara;2947;35.316667;0.15
+966;ماوسة;Maoussa;غريس;Ghriss;29;معسكر;Mascara;2905;35.3129898;0.2025
+967;سيدي عبد الجبار;Sidi Abdeldjebar;وادي الأبطال;Oued El Abtal;29;معسكر;Mascara;2946;35.258611;0.5233311
+968;الحشم;El Hachem;الحشم;Hachem;29;معسكر;Mascara;2907;35.366667;0.15
+969;نسمط;Nesmot;الحشم;Hachem;29;معسكر;Mascara;2942;35.21222;0.245833333
+970;زلامطة;Zelamta;الحشم;Hachem;29;معسكر;Mascara;2909;35.29108;0.47622
+971;عين فراح;Ain Ferah;وادي الأبطال;Oued El Abtal;29;معسكر;Mascara;2911;35.381111;0.7853763
+972;وادي التاغية;Oued Taria;وادي التاغية;Oued Taria;29;معسكر;Mascara;2922;35.1130905;0.0910316
+973;ورقلة;Ouargla;ورقلة;Ouargla;30;ورقلة;Ouargla;3001;31.95;5.3167
+974;حاسي مسعود;Hassi Messaoud;حاسي مسعود;Hassi Messaoud;30;ورقلة;Ouargla;3004;31.7019;6.073
+975;عين البيضاء;Ain Beida;سيدي خويلد;Sidi Khouiled;30;ورقلة;Ouargla;3003;31.9377;5.39954
+976;حاسي بن عبد الله;Hassi Ben Abdellah;سيدي خويلد;Sidi Khouiled;30;ورقلة;Ouargla;3012;32.025833;5.468611
+977;سيدي خويلد;Sidi Khouiled;سيدي خويلد;Sidi Khouiled;30;ورقلة;Ouargla;3011;31.979722;5.418333
+978;البرمة;El Borma;البرمة;El Borma;30;ورقلة;Ouargla;3021;31.656389;9.179167
+979;الرويسات;Rouissat;ورقلة;Ouargla;30;ورقلة;Ouargla;3005;31.916667;5.35
+980;انقوسة;N'goussa;انقوسة;N'goussa;30;ورقلة;Ouargla;3009;32.141111;5.3096
+981;سيدي الشحمي;Sidi Chami;السانية;Es Senia;31;وهران;Oran;3113;35.62687;-0.5217
+982;حاسي مفسوخ;Hassi Mefsoukh;قديل;Gdyel;31;وهران;Oran;3121;35.7861;-0.374167
+983;بئر الجير;Bir El Djir;بئر الجير;Bir El Djir;31;وهران;Oran;3103;35.7368;-0.545
+984;حاسي بن عقبة;Hassi Ben Okba;بئر الجير;Bir El Djir;31;وهران;Oran;3118;35.72964;-0.465833
+985;قديل;Gdyel;قديل;Gdyel;31;وهران;Oran;3102;35.8052667;-0.423746
+986;حاسي بونيف;Hassi Bounif;بئر الجير;Bir El Djir;31;وهران;Oran;3104;35.6792778;-0.5
+987;الكرمة;El Kerma;السانية;Es Senia;31;وهران;Oran;3117;35.6186807;-0.578611111
+988;السانية;Es Senia;السانية;Es Senia;31;وهران;Oran;3105;35.6478;-0.6241804
+989;بن فريحة;Ben Freha;قديل;Gdyel;31;وهران;Oran;3120;35.6937209;-0.4186546
+990;أرزيو;Arzew;أرزيو;Arzew;31;وهران;Oran;3106;35.85048;-0.3167
+991;سيدي بن يبقى;Sidi Ben Yebka;أرزيو;Arzew;31;وهران;Oran;3122;35.82972;-0.394722
+992;عين البية;Ain Biya;بطيوة;Bethioua;31;وهران;Oran;3126;35.816667;-0.2816754
+993;بطيوة;Bethioua;بطيوة;Bethioua;31;وهران;Oran;3107;35.805837;-0.2596
+994;مرسى الحجاج;Marsat El Hadjadj;بطيوة;Bethioua;31;وهران;Oran;3108;35.783333;-0.166667
+995;عين الترك;Ain Turk;عين الترك;Ain Turk;31;وهران;Oran;3109;35.74494;-0.7697
+996;وهران;Oran;وهران;Oran;31;وهران;Oran;3101;35.70833333;-0.6331
+997;العنصر;El Ancor;عين الترك;Ain Turk;31;وهران;Oran;3131;35.7408;-0.866667
+998;المرسى الكبير;Mers El Kebir;عين الترك;Ain Turk;31;وهران;Oran;3102;35.728611;-0.706944
+999;بوفاتيس;Boufatis;وادي تليلات;Oued Tlelat;31;وهران;Oran;3114;35.6791;-0.481667
+1000;البراية;El Braya;وادي تليلات;Oued Tlelat;31;وهران;Oran;3118;35.612222;-0.516667
+1001;وادي تليلات;Oued Tlelat;وادي تليلات;Oued Tlelat;31;وهران;Oran;3123;35.5519239;-0.4522604
+1002;عين الكرمة;Ain Kerma;بوتليليس;Boutlelis;31;وهران;Oran;3125;35.648979;-0.975702
+1003;بوتليليس;Boutlelis;بوتليليس;Boutlelis;31;وهران;Oran;3124;35.573;-0.8342
+1004;مسرغين;Messerghin;بوتليليس;Boutlelis;31;وهران;Oran;3123;35.6455611;-0.7722974
+1005;بوسفر;Bousfer;عين الترك;Ain Turk;31;وهران;Oran;3116;35.710833;-0.810556
+1006;طفراوي;Tafraoui;وادي تليلات;Oued Tlelat;31;وهران;Oran;3112;35.483333;-0.516667
+1007;سيدي سليمان;Sidi Slimane;بوعلام;Boualem;32;البيض;El Bayadh;3221;33.833333;0.554708333
+1008;سيدي عامر;Sidi Ameur;بوعلام;Boualem;32;البيض;El Bayadh;3218;33.768333;1.413611111
+1009;بوعلام;Boualem;بوعلام;Boualem;32;البيض;El Bayadh;3206;33.72903;1.5329678
+1010;بوقطب;Bougtoub;بوقطب;Bougtoub;32;البيض;El Bayadh;3209;34.1436111;0.033333
+1011;الخيثر;El Kheiter;بوقطب;Bougtoub;32;البيض;El Bayadh;3211;34.14333333;0.073333333
+1012;توسمولين;Tousmouline;بوقطب;Bougtoub;32;البيض;El Bayadh;3220;33.651667;0.266667
+1013;سيدي طيفور;Sidi Tiffour;بوعلام;Boualem;32;البيض;El Bayadh;3222;33.717201;1.682711
+1014;ستيتن;Stitten;بوعلام;Boualem;32;البيض;El Bayadh;3203;33.75805556;1.223333333
+1015;البيض;El Bayadh;البيض;El Bayadh;32;البيض;El Bayadh;3201;33.7216667;1.020278
+1016;رقاصة;Rogassa;رقاصة;Rogassa;32;البيض;El Bayadh;3202;34.0188896;0.9271367
+1017;المحرة;El Mehara;شلالة;Chellala;32;البيض;El Bayadh;3219;33.311667;0.364444
+1018;الكاف الأحمر;Kef El Ahmar;رقاصة;Rogassa;32;البيض;El Bayadh;3212;34.15;0.5975443
+1019;الشقيق;Cheguig;رقاصة;Rogassa;32;البيض;El Bayadh;3217;34.168889;1.228056
+1020;شلالة;Chellala;شلالة;Chellala;32;البيض;El Bayadh;3214;35.216667;0.0556
+1021;برج عمر إدريس;Bordj Omar Driss;عين أمناس;Ain Amenas;33;إليزي;Illizi;3304;28.146389;6.7259091
+1022;دبداب;Debdeb;عين أمناس;Ain Amenas;33;إليزي;Illizi;3303;29.96710797;9.422727425
+1023;عين أمناس;Ain Amenas;عين أمناس;Ain Amenas;33;إليزي;Illizi;3306;28.040833;9.635
+1024;إيليزي;Illizi;إيليزي;Illizi;33;إليزي;Illizi;3301;26.483333;8.483333333
+1025;الحمادية;Elhammadia;الحمادية;El Hamadia;34;برج بوعريريج;Bordj Bou Arreridj;3411;35.976944;4.7475
+1026;أولاد سيدي ابراهيم;Ouled Sidi-Brahim;المنصورة;Mansourah;34;برج بوعريريج;Bordj Bou Arreridj;3416;36.228056;4.335556
+1027;عين تاغروت;Ain Taghrout;عين تاغروت;Ain Taghrout;34;برج بوعريريج;Bordj Bou Arreridj;3408;36.128889;5.076667
+1028;تيكستار;Tixter;عين تاغروت;Ain Taghrout;34;برج بوعريريج;Bordj Bou Arreridj;3426;36.0475;4.654722222
+1029;بليمور;Belimour;برج الغدير;Bordj Ghedir;34;برج بوعريريج;Bordj Bou Arreridj;3412;36.027222;4.833333333
+1030;العناصر;El Annasseur;برج الغدير;Bordj Ghedir;34;برج بوعريريج;Bordj Bou Arreridj;3428;36.0642129;4.833333333
+1031;غيلاسة;Ghailasa;برج الغدير;Bordj Ghedir;34;برج بوعريريج;Bordj Bou Arreridj;3422;35.981389;4.9167001
+1032;تقلعيت;Taglait;برج الغدير;Bordj Ghedir;34;برج بوعريريج;Bordj Bou Arreridj;3421;35.771667;4.999722222
+1033;برج الغدير;Bordj Ghedir;برج الغدير;Bordj Ghedir;34;برج بوعريريج;Bordj Bou Arreridj;3409;35.8991893;4.899182
+1034;العش;El Euch;الحمادية;El Hamadia;34;برج بوعريريج;Bordj Bou Arreridj;3427;35.914444;4.9225704
+1035;سيدي أمبارك;Sidi-Embarek;بئر قاصد علي;Bir Kasdali;34;برج بوعريريج;Bordj Bou Arreridj;3410;36.1039;4.91188
+1036;خليل;Khelil;بئر قاصد علي;Bir Kasdali;34;برج بوعريريج;Bordj Bou Arreridj;3420;36.175556;5.029167
+1037;بئر قاصد علي;Bir Kasdali;بئر قاصد علي;Bir Kasdali;34;برج بوعريريج;Bordj Bou Arreridj;3431;36.15;5.033333
+1038;تفرق;Tefreg;جعافرة;Djaafra;34;برج بوعريريج;Bordj Bou Arreridj;3424;36.425556;4.713889
+1039;الماين;El Main;جعافرة;Djaafra;34;برج بوعريريج;Bordj Bou Arreridj;3416;36.425556;4.716667
+1040;جعافرة;Djaafra;جعافرة;Djaafra;34;برج بوعريريج;Bordj Bou Arreridj;3415;36.2922699;4.6628371
+1041;القلة;Colla;جعافرة;Djaafra;34;برج بوعريريج;Bordj Bou Arreridj;3425;36.1016103;4.6589
+1042;ثنية النصر;Teniet En Nasr;مجانة;Medjana;34;برج بوعريريج;Bordj Bou Arreridj;3414;36.08333333;4.601111
+1043;المهير;El M'hir;المنصورة;Mansourah;34;برج بوعريريج;Bordj Bou Arreridj;3405;36.119384;4.38407336
+1044;القصور;Ksour;الحمادية;El Hamadia;34;برج بوعريريج;Bordj Bou Arreridj;3422;35.98333333;4.597778
+1045;المنصورة;Mansoura;المنصورة;Mansourah;34;برج بوعريريج;Bordj Bou Arreridj;3404;36.08725;4.46
+1046;حرازة;Haraza;المنصورة;Mansourah;34;برج بوعريريج;Bordj Bou Arreridj;3434;36.156389;4.223333
+1047;الرابطة;Rabta;الحمادية;El Hamadia;34;برج بوعريريج;Bordj Bou Arreridj;3406;35.9227778;4.78119
+1048;الياشير;El Achir;مجانة;Medjana;34;برج بوعريريج;Bordj Bou Arreridj;3407;36.06386;4.6167
+1049;حسناوة;Hasnaoua;مجانة;Medjana;34;برج بوعريريج;Bordj Bou Arreridj;3419;36.14083333;4.7957
+1050;مجانة;Medjana;مجانة;Medjana;34;برج بوعريريج;Bordj Bou Arreridj;3413;36.1319;4.669
+1051;عين تسرة;Ain Tesra;رأس الوادي;Ras El Oued;34;برج بوعريريج;Bordj Bou Arreridj;3430;36.0125;5.002222222
+1052;أولاد أبراهم;Ouled Brahem;رأس الوادي;Ras El Oued;34;برج بوعريريج;Bordj Bou Arreridj;3417;35.8733817;5.074722222
+1053;رأس الوادي;Ras El Oued;رأس الوادي;Ras El Oued;34;برج بوعريريج;Bordj Bou Arreridj;3406;35.94972222;5.033333333
+1054;برج زمورة;Bordj Zemmoura;برج زمورة;Bordj Zemmoura;34;برج بوعريريج;Bordj Bou Arreridj;3406;36.2677309;4.855833333
+1055;أولاد دحمان;Ouled Dahmane;برج زمورة;Bordj Zemmoura;34;برج بوعريريج;Bordj Bou Arreridj;3418;36.3667;4.77
+1056;تسامرت;Tassamert;برج زمورة;Bordj Zemmoura;34;برج بوعريريج;Bordj Bou Arreridj;3429;36.27131;4.82184
+1057;برج بوعريرج;B. B. Arreridj;برج بوعريريج;Bordj Bou Arreridj;34;برج بوعريريج;Bordj Bou Arreridj;3401;36.0704188;4.766667
+1058;بن داود;Ben Daoud;المنصورة;Mansourah;34;برج بوعريريج;Bordj Bou Arreridj;3406;36.19702;4.4025
+1059;الخروبة;El Kharrouba;بودواو;Boudouaou;35;بومرداس;Boumerdès;3538;36.6576809;3.406389
+1060;دلس;Dellys;دلس;Dellys;35;بومرداس;Boumerdès;3528;36.913272;3.914094
+1061;بن شود;Ben Choud;دلس;Dellys;35;بومرداس;Boumerdès;3527;36.8623517;3.8805771
+1062;أعفير;Afir;دلس;Dellys;35;بومرداس;Boumerdès;3504;36.7675;3.702778
+1063;الثنية;Thenia;الثنية;Thenia;35;بومرداس;Boumerdès;3515;36.7254;3.553889
+1064;بني عمران;Beni Amrane;الثنية;Thenia;35;بومرداس;Boumerdès;3530;36.66774;3.591944444
+1065;خميس الخشنة;Khemis El Khechna;خميس الخشنة;Khemis El Khechna;35;بومرداس;Boumerdès;3537;36.65;3.3308
+1066;عمال;Ammal;الثنية;Thenia;35;بومرداس;Boumerdès;3506;36.6333333;3.5861111
+1067;تيمزريت;Timezrit;يسر;Isser;35;بومرداس;Boumerdès;3518;36.673333;3.806389
+1068;زموري;Zemmouri;برج منايل;Bordj Menaiel;35;بومرداس;Boumerdès;3530;36.783333;3.6036
+1069;الاربعطاش;Larbatache;خميس الخشنة;Khemis El Khechna;35;بومرداس;Boumerdès;3521;36.6368081;3.3718774
+1070;يسر;Isser;يسر;Isser;35;بومرداس;Boumerdès;3510;36.706667;3.671389
+1071;شعبة العامر;Chabet El Ameur;يسر;Isser;35;بومرداس;Boumerdès;3514;36.63709;3.6833333
+1072;أولاد عيسى;Ouled Aissa;الناصرية;Naciria;35;بومرداس;Boumerdès;3526;36.806667;3.81431
+1073;الناصرية;Naciria;الناصرية;Naciria;35;بومرداس;Boumerdès;3508;36.7475;3.833333
+1074;بوزقزة قدارة;Bouzegza Keddara;بودواو;Boudouaou;35;بومرداس;Boumerdès;3522;36.625278;3.479444
+1075;سوق الحد;Souk El Had;الثنية;Thenia;35;بومرداس;Boumerdès;3531;36.7214044;3.583333333
+1076;سيدي داود;Sidi Daoud;بغلية;Baghlia;35;بومرداس;Boumerdès;3507;36.85;3.85
+1077;بغلية;Baghlia;بغلية;Baghlia;35;بومرداس;Boumerdès;3506;36.81694;3.8757119
+1078;لقاطة;Leghata;برج منايل;Bordj Menaiel;35;بومرداس;Boumerdès;3529;36.7461111;3.683056
+1079;جنات;Djinet;برج منايل;Bordj Menaiel;35;بومرداس;Boumerdès;3508;36.8779905;3.7205
+1080;تيجلابين;Tidjelabine;بومرداس;Boumerdes;35;بومرداس;Boumerdès;3513;36.7305;3.49482
+1081;سي مصطفى;Si Mustapha;يسر;Isser;35;بومرداس;Boumerdès;3512;36.7247;3.615306
+1082;أولاد هداج;Ouled Hedadj;بودواو;Boudouaou;35;بومرداس;Boumerdès;3533;36.7130535;3.35
+1083;أولاد موسى;Ouled Moussa;خميس الخشنة;Khemis El Khechna;35;بومرداس;Boumerdès;3520;36.6857409;3.3892894
+1084;بومرداس;Boumerdes;بومرداس;Boumerdes;35;بومرداس;Boumerdès;3501;36.766;3.477
+1085;قورصو;Corso;بومرداس;Boumerdes;35;بومرداس;Boumerdès;3519;36.75096;3.4682054
+1086;برج منايل;Bordj Menaiel;برج منايل;Bordj Menaiel;35;بومرداس;Boumerdès;3502;36.741667;3.7175665
+1087;بودواو;Boudouaou;بودواو;Boudouaou;35;بومرداس;Boumerdès;3502;36.72735;3.40995
+1088;بودواو البحري;Boudouaou El Bahri;بودواو;Boudouaou;35;بومرداس;Boumerdès;3532;36.7732001;3.3872711
+1089;تاورقة;Taourga;بغلية;Baghlia;35;بومرداس;Boumerdès;3525;36.7939;3.95034
+1090;حمادي;Hammedi;خميس الخشنة;Khemis El Khechna;35;بومرداس;Boumerdès;3505;36.676944;3.2633918
+1091;عين العسل;Ain El Assel;الطارف;El Tarf;36;الطارف;El Tarf;3606;36.7947505;8.4293891
+1092;بوقوس;Bougous;الطارف;El Tarf;36;الطارف;El Tarf;3607;36.758056;8.369444
+1093;الطارف;El Tarf;الطارف;El Tarf;36;الطارف;El Tarf;3601;36.7667186;8.317
+1094;الزيتونة;Zitouna;الطارف;El Tarf;36;الطارف;El Tarf;3620;36.668056;8.2346
+1095;البسباس;Besbes;البسباس;Besbes;36;الطارف;El Tarf;3605;36.702222;7.847222
+1096;عين الكرمة;Ain Kerma;بوحجار;Bouhadjar;36;الطارف;El Tarf;3621;36.5644539;8.201111
+1097;بوحجار;Bouhadjar;بوحجار;Bouhadjar;36;الطارف;El Tarf;3602;36.5034174;8.110556
+1098;حمام بني صالح;Hammam Beni Salah;بوحجار;Bouhadjar;36;الطارف;El Tarf;3623;36.51972222;7.9810845
+1099;وادي الزيتون;Oued Zitoun;بوحجار;Bouhadjar;36;الطارف;El Tarf;3622;36.466111;8.0575
+1100;بن مهيدي;Ben M Hidi;بن مهيدي;Ben M'hidi;36;الطارف;El Tarf;3603;36.77501471;7.905594528
+1101;بريحان;Berrihane;بن مهيدي;Ben M'hidi;36;الطارف;El Tarf;3602;36.83722222;8.068343
+1102;شبيطة مختار;Chebaita Mokhtar;الذرعان;Drean;36;الطارف;El Tarf;3621;36.755843;7.741667
+1103;الشط;Echatt;بن مهيدي;Ben M'hidi;36;الطارف;El Tarf;3606;36.830278;7.872
+1104;العيون;El Aioun;القالة;El Kala;36;الطارف;El Tarf;3607;36.827222;8.6
+1105;القالة;El Kala;القالة;El Kala;36;الطارف;El Tarf;3602;36.8956;8.4433
+1106;السوارخ;Souarekh;القالة;El Kala;36;الطارف;El Tarf;3609;36.88194444;8.564167
+1107;زريزر;Zerizer;البسباس;Besbes;36;الطارف;El Tarf;3619;36.727222;7.894722
+1108;بوثلجة;Bouteldja;بوثلجة;Bouteldja;36;الطارف;El Tarf;3604;36.85;8.2024232
+1109;الشافية;Chefia;بوثلجة;Bouteldja;36;الطارف;El Tarf;3605;36.611111;8.1632766
+1110;بحيرة الطيور;Lac Des Oiseaux;بوثلجة;Bouteldja;36;الطارف;El Tarf;3611;36.775556;8.1180556
+1111;شحاني;Chihani;الذرعان;Drean;36;الطارف;El Tarf;3614;36.646944;7.775556
+1112;رمل السوق;Raml Souk;القالة;El Kala;36;الطارف;El Tarf;3624;36.786111;8.535556
+1113;عصفور;Asfour;البسباس;Besbes;36;الطارف;El Tarf;3617;36.674167;7.7428056
+1114;الذرعـان;Drean;الذرعان;Drean;36;الطارف;El Tarf;3613;36.68333333;7.75
+1115;تندوف;Tindouf;تندوف;Tindouf;37;تندوف;Tindouf;3701;27.670556;-8.12724
+1116;أم العسل;Oum El Assel;تندوف;Tindouf;37;تندوف;Tindouf;3702;28.6125;-6.978889
+1117;خميستي;Khemisti;خميستي;Khemisti;38;تيسمسيلت;Tissemsilt;3804;35.6667;1.95
+1118;ثنية الاحد;Theniet El Had;ثنية الاحد;Theniet El Had;38;تيسمسيلت;Tissemsilt;3801;35.87111;2.01670828
+1119;أولاد بسام;Ouled Bessam;تيسمسيلت;Tissemsilt;38;تيسمسيلت;Tissemsilt;3812;35.686389;1.864167
+1120;سيدي بوتوشنت;Sidi Boutouchent;ثنية الاحد;Theniet El Had;38;تيسمسيلت;Tissemsilt;3815;35.825278;1.95138889
+1121;تيسمسيلت;Tissemsilt;تيسمسيلت;Tissemsilt;38;تيسمسيلت;Tissemsilt;3801;35.60722;1.8108
+1122;سيدي العنتري;Sidi Lantri;لرجام;Lardjem;38;تيسمسيلت;Tissemsilt;3808;35.70139;1.40223
+1123;بني شعيب;Beni Chaib;برج بونعامة;Bordj Bounaama;38;تيسمسيلت;Tissemsilt;3805;35.820278;1.7995306
+1124;بني لحسن;Beni Lahcene;برج بونعامة;Bordj Bounaama;38;تيسمسيلت;Tissemsilt;3822;35.8517;1.624722222
+1125;سيدي عابد;Sidi Abed;عماري;Ammari;38;تيسمسيلت;Tissemsilt;3818;35.745278;1.705
+1126;سيدي سليمان;Sidi Slimane;برج بونعامة;Bordj Bounaama;38;تيسمسيلت;Tissemsilt;3806;35.86;1.833333333
+1127;بوقائد;Boucaid;الأزهرية;Lazharia;38;تيسمسيلت;Tissemsilt;3819;35.890278;1.61978
+1128;الأربعاء;Larbaa;الأزهرية;Lazharia;38;تيسمسيلت;Tissemsilt;3816;35.937222;1.475277
+1129;الأزهرية;Lazharia;الأزهرية;Lazharia;38;تيسمسيلت;Tissemsilt;3804;35.93722222;1.56
+1130;لرجام;Lardjem;لرجام;Lardjem;38;تيسمسيلت;Tissemsilt;3806;35.7495;1.5485
+1131;الملعب;Melaab;لرجام;Lardjem;38;تيسمسيلت;Tissemsilt;3807;35.7495;1.3325
+1132;العيون;Layoune;خميستي;Khemisti;38;تيسمسيلت;Tissemsilt;3810;35.6967;1.99664
+1133;تملاحت;Tamellahet;لرجام;Lardjem;38;تيسمسيلت;Tissemsilt;3819;35.711111;1.631944444
+1134;اليوسفية;Youssoufia;برج الأمير عبد القادر;Bordj Emir Abdelkader;38;تيسمسيلت;Tissemsilt;3804;35.948056;2.112778
+1135;برج الأمير عبد القادر;Bordj El Emir Abdelkader;برج الأمير عبد القادر;Bordj Emir Abdelkader;38;تيسمسيلت;Tissemsilt;3809;35.8652978;2.2674341
+1136;عماري;Ammari;عماري;Ammari;38;تيسمسيلت;Tissemsilt;3813;35.5771;1.6623
+1137;المعاصم;Maacem;عماري;Ammari;38;تيسمسيلت;Tissemsilt;3817;35.659722;1.603611
+1138;برج بونعامة;Bordj Bounaama;برج بونعامة;Bordj Bounaama;38;تيسمسيلت;Tissemsilt;3802;35.8505025;1.6170851
+1139;دوار الماء;Douar El Maa;الطالب العربي;Taleb Larbi;39;الوادي;El Oued;3915;33.372222;7.686111
+1140;العقلة;El Ogla;الرباح;Robbah;39;الوادي;El Oued;3925;33.246667;6.95
+1141;المقرن;Magrane;المقرن;Magrane;39;الوادي;El Oued;3918;33.4998054;6.930278
+1142;سيدي عون;Sidi Aoun;المقرن;Magrane;39;الوادي;El Oued;3907;33.54212;6.905
+1143;اميه وانسة;Mih Ouansa;اميه وانسة;Mih Ouensa;39;الوادي;El Oued;3926;33.158611;6.716944
+1144;كوينين;Kouinine;الوادي;El Oued;39;الوادي;El Oued;3907;33.4037855;6.8264542
+1145;البياضة;Bayadha;البياضة;Bayadha;39;الوادي;El Oued;3904;33.334444;6.8885733
+1146;النخلة;Nakhla;الرباح;Robbah;39;الوادي;El Oued;3905;33.2806326;6.878889
+1147;الرباح;Robbah;الرباح;Robbah;39;الوادي;El Oued;3902;33.281111;6.4166705
+1148;قمار;Guemar;قمار;Guemar;39;الوادي;El Oued;3906;33.5;6.7977914
+1149;بن قشة;Ben Guecha;الطالب العربي;Taleb Larbi;39;الوادي;El Oued;3919;33.3551532;7.1517
+1150;ورماس;Ourmes;قمار;Guemar;39;الوادي;El Oued;3920;33.541667;6.416667
+1151;تغزوت;Taghzout;قمار;Guemar;39;الوادي;El Oued;3910;32.966667;6.7978
+1152;الحمراية;Hamraia;الرقيبة;Reguiba;39;الوادي;El Oued;3909;34.110833;6.2305556
+1153;الرقيبة;Reguiba;الرقيبة;Reguiba;39;الوادي;El Oued;3920;33.56391;6.703
+1154;الدبيلة;Debila;الدبيلة;Debila;39;الوادي;El Oued;3911;33.51667;6.95
+1155;حساني عبد الكريم;Hassani Abdelkrim;الدبيلة;Debila;39;الوادي;El Oued;3912;33.477222;6.895
+1156;حاسي خليفة;Hassi Khalifa;حاسي خليفة;Hassi Khalifa;39;الوادي;El Oued;3913;33.562222;6.990278
+1157;الطريفاوي;Trifaoui;حاسي خليفة;Hassi Khalifa;39;الوادي;El Oued;3917;33.42298;6.93452
+1158;الطالب العربي;Taleb Larbi;الطالب العربي;Taleb Larbi;39;الوادي;El Oued;3914;33.7275;7.517222
+1159;وادي العلندة;Oued El Alenda;اميه وانسة;Mih Ouensa;39;الوادي;El Oued;3903;33.228889;6.757222
+1160;الوادي;El-Oued;الوادي;El Oued;39;الوادي;El Oued;3901;33.36111111;6.8605556
+1161;خيران;Khirane;ششار;Chechar;40;خنشلة;Khenchela;4006;34.6667;6.7593
+1162;بابار;Babar;بابار;Babar;40;خنشلة;Khenchela;4013;35.1691777;7.104722
+1163;المحمل;El Mahmal;أولاد رشاش;Ouled Rechache;40;خنشلة;Khenchela;4010;35.37381;7.21319
+1164;أولاد رشاش;Ouled Rechache;أولاد رشاش;Ouled Rechache;40;خنشلة;Khenchela;4004;35.3;7.353056
+1165;جلال;Djellal;ششار;Chechar;40;خنشلة;Khenchela;4012;34.91925;6.9
+1166;يابوس;Yabous;بوحمامة;Bouhmama;40;خنشلة;Khenchela;4005;35.405278;6.6418
+1167;خنشلة;Khenchela;خنشلة;Khenchela;40;خنشلة;Khenchela;4001;35.4358;7.1433
+1168;قايس;Kais;قايس;Kais;40;خنشلة;Khenchela;4003;35.4946392;6.924305
+1169;شلية;Chelia;بوحمامة;Bouhmama;40;خنشلة;Khenchela;4021;35.364444;6.63671
+1170;الرميلة;Remila;قايس;Kais;40;خنشلة;Khenchela;4014;35.569444;6.9
+1171;تاوزيانت;Taouzianat;قايس;Kais;40;خنشلة;Khenchela;4007;35.511111;6.3551522
+1172;بغاي;Baghai;الحامة;El Hamma;40;خنشلة;Khenchela;4003;35.521944;7.114444
+1173;الحامة;El Hamma;الحامة;El Hamma;40;خنشلة;Khenchela;4001;35.466667;7.0825
+1174;انسيغة;Ensigha;الحامة;El Hamma;40;خنشلة;Khenchela;4015;35.397222;7.143056
+1175;طامزة;Tamza;الحامة;El Hamma;40;خنشلة;Khenchela;4003;35.31491;7
+1176;عين الطويلة;Ain Touila;عين الطويلة;Ain Touila;40;خنشلة;Khenchela;4006;35.443611;7.466667
+1177;متوسة;M'toussa;عين الطويلة;Ain Touila;40;خنشلة;Khenchela;4002;35.599444;7.24497
+1178;بوحمامة;Bouhmama;بوحمامة;Bouhmama;40;خنشلة;Khenchela;4004;35.320278;6.7466351
+1179;الولجة;El Oueldja;ششار;Chechar;40;خنشلة;Khenchela;4004;34.915833;6.680556
+1180;مصارة;M'sara;بوحمامة;Bouhmama;40;خنشلة;Khenchela;4021;35.3216667;7.1433333
+1181;ششار;Chechar;ششار;Chechar;40;خنشلة;Khenchela;4007;35.1583333;7.01667
+1182;سوق أهراس;Souk Ahras;سوق أهراس;Souk Ahras;41;سوق أهراس;Souk Ahras;4101;36.286389;7.950833333
+1183;عين سلطان;Ain Soltane;سدراتة;Sedrata;41;سوق أهراس;Souk Ahras;4118;36.178334;7.369167
+1184;سدراتة;Sedrata;سدراتة;Sedrata;41;سوق أهراس;Souk Ahras;4102;36.129;7.534
+1185;الحنانشة;Hanencha;المشروحة;Mechroha;41;سوق أهراس;Souk Ahras;4103;36.19119;7.887778
+1186;المشروحة;Machroha;المشروحة;Mechroha;41;سوق أهراس;Souk Ahras;4104;36.357222;7.9333333
+1187;عين الزانة;Ain Zana;أولاد إدريس;Ouled Driss;41;سوق أهراس;Souk Ahras;4117;36.400556;8.191111
+1188;أولاد إدريس;Ouled Driss;أولاد إدريس;Ouled Driss;41;سوق أهراس;Souk Ahras;4105;36.35;8.0167
+1189;ترقالت;Terraguelt;أم العظايم;Oum El Adhaim;41;سوق أهراس;Souk Ahras;4125;35.895278;7.854045
+1190;أم العظايم;Oum El Adhaim;أم العظايم;Oum El Adhaim;41;سوق أهراس;Souk Ahras;4116;36.033889;7.6025
+1191;وادي الكبريت;Oued Kebrit;أم العظايم;Oum El Adhaim;41;سوق أهراس;Souk Ahras;4118;35.933333;7.9170713
+1192;تيفاش;Tiffech;مداوروش;M'daourouche;41;سوق أهراس;Souk Ahras;4106;36.191667;7.786111
+1193;الراقوبة;Ragouba;مداوروش;M'daourouche;41;سوق أهراس;Souk Ahras;4122;36.125;7.666667
+1194;الدريعة;Drea;تاورة;Taoura;41;سوق أهراس;Souk Ahras;4109;36.1167;7.8833333
+1195;تاورة;Taoura;تاورة;Taoura;41;سوق أهراس;Souk Ahras;4108;36.17;8.04028
+1196;الزعرورية;Zaarouria;تاورة;Taoura;41;سوق أهراس;Souk Ahras;4104;36.227222;7.957778
+1197;الحدادة;Haddada;الحدادة;Haddada;41;سوق أهراس;Souk Ahras;4110;36.23083333;8.2725
+1198;الخضارة;Khedara;الحدادة;Haddada;41;سوق أهراس;Souk Ahras;4111;36.195556;8.243056712
+1199;أولاد مومن;Ouled Moumen;الحدادة;Haddada;41;سوق أهراس;Souk Ahras;4113;36.3834462;8.315833
+1200;المراهنة;Merahna;المراهنة;Merahna;41;سوق أهراس;Souk Ahras;4112;36.1975;8.155
+1201;ويلان;Ouillen;المراهنة;Merahna;41;سوق أهراس;Souk Ahras;4119;36.195;8.064722
+1202;سيدي فرج;Sidi Fredj;المراهنة;Merahna;41;سوق أهراس;Souk Ahras;4118;36.1537121;8.1952751
+1203;بئر بوحوش;Bir Bouhouche;بئر بوحوش;Bir Bouhouche;41;سوق أهراس;Souk Ahras;4114;36.165611;7.4667
+1204;سافل الويدان;Safel El Ouiden;بئر بوحوش;Bir Bouhouche;41;سوق أهراس;Souk Ahras;4121;35.929167;7.490278
+1205;خميسة;Khemissa;سدراتة;Sedrata;41;سوق أهراس;Souk Ahras;4123;36.193056;7.658889
+1206;مداوروش;M'daourouche;مداوروش;M'daourouche;41;سوق أهراس;Souk Ahras;4115;36.1218;7.819722222
+1207;الزوابي;Zouabi;بئر بوحوش;Bir Bouhouche;41;سوق أهراس;Souk Ahras;4126;36.195556;7.441111
+1208;حجوط;Hadjout;حجوط;Hadjout;42;تيبازة;Tipaza;4212;36.51257;2.4142888
+1209;مراد;Merad;حجوط;Hadjout;42;تيبازة;Tipaza;4224;36.47477;2.42625
+1210;مناصر;Menaceur;سيدي أعمر;Sidi Amar;42;تيبازة;Tipaza;4202;36.492;2.240556
+1211;أغبال;Aghbal;قوراية;Gouraya;42;تيبازة;Tipaza;4210;36.502778;1.845833
+1212;الناظور;Nador;سيدي أعمر;Sidi Amar;42;تيبازة;Tipaza;4215;36.569722;2.3123031
+1213;سيدي عامر;Sidi-Amar;سيدي أعمر;Sidi Amar;42;تيبازة;Tipaza;4213;36.5330597;2.306389
+1214;قوراية;Gouraya;قوراية;Gouraya;42;تيبازة;Tipaza;4202;36.5675;1.905
+1215;مسلمون;Messelmoun;قوراية;Gouraya;42;تيبازة;Tipaza;4233;36.563056;2.0025
+1216;شرشال;Cherchell;شرشال;Cherchell;42;تيبازة;Tipaza;4222;36.605;2.19083
+1217;حجرة النص;Hadjret Ennous;شرشال;Cherchell;42;تيبازة;Tipaza;4242;36.573333;2.051944
+1218;سيدي غيلاس;Sidi Ghiles;شرشال;Cherchell;42;تيبازة;Tipaza;4232;36.5583006;2.1155691
+1219;الداموس;Damous;الداموس;Damous;42;تيبازة;Tipaza;4223;36.5200245;1.704167
+1220;الأرهاط;Larhat;الداموس;Damous;42;تيبازة;Tipaza;4203;36.558;1.801388889
+1221;فوكة;Fouka;فوكة;Fouka;42;تيبازة;Tipaza;4225;36.6667;2.742117
+1222;عين تاقورايت;Ain Tagourait;بواسماعيل;Bou Ismail;42;تيبازة;Tipaza;4217;36.5868863;2.5842062
+1223;بوهارون;Bou Haroun;بواسماعيل;Bou Ismail;42;تيبازة;Tipaza;4209;36.62503;2.6548
+1224;بواسماعيل;Bou Ismail;بواسماعيل;Bou Ismail;42;تيبازة;Tipaza;4226;36.64262;2.6899362
+1225;خميستي;Khemisti;بواسماعيل;Bou Ismail;42;تيبازة;Tipaza;4206;36.625833;2.680833333
+1226;أحمر العين;Ahmer El Ain;أحمر العين;Ahmar El Ain;42;تيبازة;Tipaza;4227;36.47688;2.5693337
+1227;بورقيقة;Bourkika;أحمر العين;Ahmar El Ain;42;تيبازة;Tipaza;4205;36.4858595;2.4764
+1228;دواودة;Douaouda;فوكة;Fouka;42;تيبازة;Tipaza;4204;36.6737396;2.783333
+1229;سيدي راشد;Sidi Rached;أحمر العين;Ahmar El Ain;42;تيبازة;Tipaza;4234;36.5625;2.533333333
+1230;الحطاطبة;Attatba;القليعة;Kolea;42;تيبازة;Tipaza;4236;36.57278;2.67694
+1231;الشعيبة;Chaiba;القليعة;Kolea;42;تيبازة;Tipaza;4216;36.6251;2.729167
+1232;القليعة;Kolea;القليعة;Kolea;42;تيبازة;Tipaza;4235;36.6389;2.768
+1233;سيدي سميان;Sidi Semiane;شرشال;Cherchell;42;تيبازة;Tipaza;4240;36.508611;2.063889
+1234;تيبازة;Tipaza;تيبازة;Tipaza;42;تيبازة;Tipaza;4201;36.591944;2.443
+1235;بني ميلك;Beni Mileuk;الداموس;Damous;42;تيبازة;Tipaza;4241;36.444444;1.716667
+1236;مشيرة;El Mechira;التلاغمة;Teleghma;43;ميلة;Mila;4326;36.010247;6.231267
+1237;العياضي برباس;El Ayadi Barbes;عين البيضاء أحريش;Ain Beida Harriche;43;ميلة;Mila;4315;36.440278;5.9130761
+1238;عين البيضاء أحريش;Ain Beida Harriche;عين البيضاء أحريش;Ain Beida Harriche;43;ميلة;Mila;4319;36.3959678;5.893333
+1239;تسالة لمطاعي;Tassala Lematai;ترعي باينان;Terrai Bainen;43;ميلة;Mila;4308;36.495833;6.32488
+1240;ترعي باينان;Terrai Bainen;ترعي باينان;Terrai Bainen;43;ميلة;Mila;4323;36.5481;6.1418
+1241;اعميرة اراس;Amira Arres;ترعي باينان;Terrai Bainen;43;ميلة;Mila;4322;36.5375;6.065278
+1242;تسدان حدادة;Tassadane Haddada;تسدان حدادة;Tassadane Haddada;43;ميلة;Mila;4319;36.52269;5.8787288
+1243;مينار زارزة;Minar Zarza;تسدان حدادة;Tassadane Haddada;43;ميلة;Mila;4321;36.5377483;5.9304039
+1244;سيدي مروان;Sidi Merouane;سيدي مروان;Sidi Merouane;43;ميلة;Mila;4318;36.521667;6.2625
+1245;الشيقارة;Chigara;سيدي مروان;Sidi Merouane;43;ميلة;Mila;4332;36.5600819;6.2216678
+1246;حمالة;Hamala;القرارم قوقة;Grarem Gouga;43;ميلة;Mila;4324;36.56667;6.34
+1247;القرارم قوقة;Grarem Gouga;القرارم قوقة;Grarem Gouga;43;ميلة;Mila;4317;36.5167;6.33333
+1248;تيبرقنت;Tiberguent;الرواشد;Rouached;43;ميلة;Mila;4313;36.4667623;6.0396
+1249;الرواشد;Rouached;الرواشد;Rouached;43;ميلة;Mila;4315;36.457741;6.04267
+1250;دراحي بوصلاح;Derrahi Bousselah;بوحاتم;Bouhatem;43;ميلة;Mila;4320;36.3125;5.9580556
+1251;زغاية;Zeghaia;وادي النجاء;Oued Endja;43;ميلة;Mila;4328;36.468056;6.1725
+1252;وادي النجاء;Oued Endja;وادي النجاء;Oued Endja;43;ميلة;Mila;4310;36.5;6.120833
+1253;أحمد راشدي;Ahmed Rachedi;وادي النجاء;Oued Endja;43;ميلة;Mila;4311;36.390556;6.125
+1254;تاجنانت;Tadjenanet;تاجنانت;Tadjenanet;43;ميلة;Mila;4308;36.12129;5.9867
+1255;عين الملوك;Ain Mellouk;شلغوم العيد;Chelghoum Laid;43;ميلة;Mila;4305;36.2755;6.1785
+1256;أولاد اخلوف;Ouled Khalouf;تاجنانت;Tadjenanet;43;ميلة;Mila;4312;36.055556;6.125
+1257;بن يحي عبد الرحمن;Benyahia Abderrahmane;تاجنانت;Tadjenanet;43;ميلة;Mila;4309;36.2329371;6.0045
+1258;التلاغمة;Teleghma;التلاغمة;Teleghma;43;ميلة;Mila;4306;36.1180204;6.364167
+1259;وادي سقان;Oued Seguen;التلاغمة;Teleghma;43;ميلة;Mila;4307;36.170991;6.419985
+1260;وادي العثمانية;Oued Athmenia;شلغوم العيد;Chelghoum Laid;43;ميلة;Mila;4304;36.249722;6.3438785
+1261;عين التين;Ain Tine;ميلة;Mila;43;ميلة;Mila;4325;36.438056;6.4678234
+1262;شلغوم العيد;Chelghoum Laid;شلغوم العيد;Chelghoum Laid;43;ميلة;Mila;4303;36.1629822;6.616667
+1263;يحي بني قشة;Yahia Beniguecha;فرجيوة;Ferdjioua;43;ميلة;Mila;4305;36.235278;5.592778
+1264;فرجيوة;Ferdjioua;فرجيوة;Ferdjioua;43;ميلة;Mila;4302;36.4073812;5.9419603
+1265;سيدي خليفة;Sidi Khelifa;ميلة;Mila;43;ميلة;Mila;4327;36.34969;6.300383
+1266;ميلة;Mila;ميلة;Mila;43;ميلة;Mila;4301;36.4503;6.2644
+1267;بوحاتم;Bouhatem;بوحاتم;Bouhatem;43;ميلة;Mila;4314;36.303889;6.0141667
+1268;خميس مليانة;Khemis-Miliana;خميس;Khemis;44;عين الدفلة;Aïn Defla;4404;36.261;2.220167
+1269;سيدي الأخضر;Sidi-Lakhdar;خميس;Khemis;44;عين الدفلة;Aïn Defla;4424;36.265278;2.161667
+1270;عين البنيان;Ain-Benian;حمام ريغة;Hammam Righa;44;عين الدفلة;Aïn Defla;4426;36.3536111;2.4278144
+1271;عين التركي;Ain-Torki;حمام ريغة;Hammam Righa;44;عين الدفلة;Aïn Defla;4423;36.3327778;2.301389
+1272;حمام ريغة;Hammam-Righa;حمام ريغة;Hammam Righa;44;عين الدفلة;Aïn Defla;4405;36.3915345;2.395618
+1273;بوراشد;Bourached;جليدة;Djelida;44;عين الدفلة;Aïn Defla;4409;36.1765;1.9341
+1274;الحسينية;Hoceinia;بومدفع;Boumedfaa;44;عين الدفلة;Aïn Defla;4427;36.316667;2.4
+1275;جليدة;Djelida;جليدة;Djelida;44;عين الدفلة;Aïn Defla;4407;36.2;2.083333333
+1276;عريب;Arib;العامرة;El Amra;44;عين الدفلة;Aïn Defla;4406;36.2919441;2.133611
+1277;جمعة أولاد الشيخ;Djemaa Ouled Cheikh;جليدة;Djelida;44;عين الدفلة;Aïn Defla;4429;36.0786;2.005
+1278;العامرة;El-Amra;العامرة;El Amra;44;عين الدفلة;Aïn Defla;4408;36.30693;1.84816
+1279;العطاف;El-Attaf;العطاف;El Attaf;44;عين الدفلة;Aïn Defla;4410;36.22393;1.672
+1280;تبركانين;Tiberkanine;العطاف;El Attaf;44;عين الدفلة;Aïn Defla;4435;36.216667;1.627222
+1281;عين بويحيى;Ain-Bouyahia;العبادية;El Abadia;44;عين الدفلة;Aïn Defla;4433;36.3150386;1.7733566
+1282;العبادية;El-Abadia;العبادية;El Abadia;44;عين الدفلة;Aïn Defla;4411;36.2706026;1.6854432
+1283;تاشتة زقاغة;Tacheta Zegagha;العبادية;El Abadia;44;عين الدفلة;Aïn Defla;4432;36.355833;1.888889
+1284;بربوش;Birbouche;جندل;Djendel;44;عين الدفلة;Aïn Defla;4428;36.216667;2.253056
+1285;جندل;Djendel;جندل;Djendel;44;عين الدفلة;Aïn Defla;4405;36.218611;2.4137
+1286;بن علال;Ben Allal;مليانة;Miliana;44;عين الدفلة;Aïn Defla;4425;36.311111;2.164
+1287;وادي الشرفاء;Oued Chorfa;جندل;Djendel;44;عين الدفلة;Aïn Defla;4413;36.2;2.516667
+1288;بومدفع;Boumedfaa;بومدفع;Boumedfaa;44;عين الدفلة;Aïn Defla;4403;36.370278;2.47639
+1289;عين الاشياخ;Ain-Lechiakh;عين الاشياخ;Ain Lechiakh;44;عين الدفلة;Aïn Defla;4414;36.15694444;2.404167
+1290;عين السلطان;Ain-Soltane;عين الاشياخ;Ain Lechiakh;44;عين الدفلة;Aïn Defla;4420;36.2483226;2.2973227
+1291;واد الجمعة;Oued Djemaa;عين الاشياخ;Ain Lechiakh;44;عين الدفلة;Aïn Defla;4415;36.066667;2.3
+1292;الماين;El-Maine;الروينة;Rouina;44;عين الدفلة;Aïn Defla;4423;36.145;1.758333
+1293;الروينة;Rouina;الروينة;Rouina;44;عين الدفلة;Aïn Defla;4416;36.25;1.816667
+1294;زدين;Zeddine;الروينة;Rouina;44;عين الدفلة;Aïn Defla;4417;36.163889;1.85
+1295;بئر ولد خليفة;Bir-Ould-Khelifa;برج الأمير خالد;Bordj El Emir Khaled;44;عين الدفلة;Aïn Defla;4410;36.183333;2.2333333
+1296;برج الأمير خالد;Bordj-Emir-Khaled;برج الأمير خالد;Bordj El Emir Khaled;44;عين الدفلة;Aïn Defla;4422;36.1222;2.2056
+1297;طارق بن زياد;Tarik-Ibn-Ziad;برج الأمير خالد;Bordj El Emir Khaled;44;عين الدفلة;Aïn Defla;4421;36.147222;2.15
+1298;بطحية;Bathia;بطحية;Bathia;44;عين الدفلة;Aïn Defla;4431;36.0333333;1.7830973
+1299;بلعاص;Belaas;بطحية;Bathia;44;عين الدفلة;Aïn Defla;4436;36.10778;1.8512
+1300;الحسانية;Hassania;بطحية;Bathia;44;عين الدفلة;Aïn Defla;4418;36.0333333;1.933611
+1301;عين الدفلى;Ain-Defla;عين الدفلى;Ain Defla;44;عين الدفلة;Aïn Defla;4401;36.2652;1.9703
+1302;مليانة;Miliana;مليانة;Miliana;44;عين الدفلة;Aïn Defla;4402;36.3055;2.2325912
+1303;المخاطرية;Mekhatria;العامرة;El Amra;44;عين الدفلة;Aïn Defla;4430;36.3446556;2.146111
+1304;تيوت;Tiout;عين الصفراء;Ain Sefra;45;النعامة;Naâma;4504;32.7667;-0.416667
+1305;مغرار;Moghrar;مغرار;Moghrar;45;النعامة;Naâma;4506;32.51229;-0.58816
+1306;عسلة;Asla;عسلة;Asla;45;النعامة;Naâma;4504;33.016667;-0.083333333
+1307;القصدير;Kasdir;مكمن بن عمار;Mekmen Ben Amar;45;النعامة;Naâma;4511;33.709722;-1.358333
+1308;مكمن بن عمار;Makmen Ben Amar;مكمن بن عمار;Mekmen Ben Amar;45;النعامة;Naâma;4510;33.7189056;-0.7271479
+1309;عين الصفراء;Ain Sefra;عين الصفراء;Ain Sefra;45;النعامة;Naâma;4503;32.75;-0.5833
+1310;المشرية;Mecheria;المشرية;Mecheria;45;النعامة;Naâma;4502;33.54453;-0.2812
+1311;البيوض;El Biodh;المشرية;Mecheria;45;النعامة;Naâma;4512;33.7636135;-0.133333
+1312;عين بن خليل;Ain Ben Khelil;المشرية;Mecheria;45;النعامة;Naâma;4509;33.29027778;-0.763889
+1313;النعامة;Naama;النعامة;Naama;45;النعامة;Naâma;4501;33.2667;-0.3167
+1314;جنين بورزق;Djenienne Bourezg;مغرار;Moghrar;45;النعامة;Naâma;4504;32.3709321;-0.804719988
+1315;سفيسيفة;Sfissifa;سفيسيفة;Sfissifa;45;النعامة;Naâma;4503;32.733333;-0.868889
+1316;سيدي بومدين;Sidi Boumediene;عين الأربعاء;Ain Larbaa;46;عين تيموشنت;Aïn Témouchent;4615;35.354167;-0.89305556
+1317;تامزورة;Tamzoura;عين الأربعاء;Ain Larbaa;46;عين تيموشنت;Aïn Témouchent;4610;35.40889;-0.65936
+1318;شعبة اللحم;Chaabat El Ham;المالح;El Maleh;46;عين تيموشنت;Aïn Témouchent;4605;35.33619;-1.1015
+1319;المالح;El Maleh;المالح;El Maleh;46;عين تيموشنت;Aïn Témouchent;4607;35.388333;-1.094444
+1320;أولاد الكيحل;Ouled Kihal;المالح;El Maleh;46;عين تيموشنت;Aïn Témouchent;4622;35.37;-1.2356
+1321;شنتوف;Chentouf;حمام بوحجر;Hammam Bou Hadjar;46;عين تيموشنت;Aïn Témouchent;4611;35.2917711;-1.029444
+1322;تارقة;Terga;المالح;El Maleh;46;عين تيموشنت;Aïn Témouchent;4608;35.416667;-1.1792
+1323;وادي الصباح;Oued Sebbah;عين الأربعاء;Ain Larbaa;46;عين تيموشنت;Aïn Témouchent;4616;35.3725;-0.811389
+1324;العامرية;El Amria;العامرية;El Amria;46;عين تيموشنت;Aïn Témouchent;4606;35.524726;-1.016
+1325;حاسي الغلة;Hassi El Ghella;العامرية;El Amria;46;عين تيموشنت;Aïn Témouchent;4620;35.45;-1.05
+1326;أولاد بوجمعة;Ouled Boudjemaa;العامرية;El Amria;46;عين تيموشنت;Aïn Témouchent;4617;35.47306;-1.192667
+1327;أغلال;Aghlal;عين الكيحل;Ain Kihel;46;عين تيموشنت;Aïn Témouchent;4607;35.2;-1.069167
+1328;عين الكيحل;Ain Kihal;عين الكيحل;Ain Kihel;46;عين تيموشنت;Aïn Témouchent;4622;35.204444;-1.196111
+1329;عين الطلبة;Ain Tolba;عين الكيحل;Ain Kihel;46;عين تيموشنت;Aïn Témouchent;4618;35.24893;-1.25049
+1330;عقب الليل;Aoubellil;عين الكيحل;Ain Kihel;46;عين تيموشنت;Aïn Témouchent;4613;35.1373;-0.992575
+1331;بني صاف;Beni Saf;بني صاف;Beni Saf;46;عين تيموشنت;Aïn Témouchent;4623;35.3004743;-1.382036
+1332;الحساسنة;Hassasna;حمام بوحجر;Hammam Bou Hadjar;46;عين تيموشنت;Aïn Témouchent;4621;35.272222;-0.987222
+1333;الأمير عبد القادر;Emir Abdelkader;بني صاف;Beni Saf;46;عين تيموشنت;Aïn Témouchent;4609;35.224444;-1.403333333
+1334;سيدي صافي;Sidi Safi;بني صاف;Beni Saf;46;عين تيموشنت;Aïn Témouchent;4624;35.28123;-1.313333
+1335;ولهاصة الغرابة;Oulhaca El Gheraba;ولهاصة الغرابة;Oulhassa Gheraba;46;عين تيموشنت;Aïn Témouchent;4625;35.233056;-1.504444
+1336;سيدي ورياش;Sidi Ouriache;ولهاصة الغرابة;Oulhassa Gheraba;46;عين تيموشنت;Aïn Témouchent;4605;35.1862547;-1.5087605
+1337;عين الأربعاء;Ain El Arbaa;عين الأربعاء;Ain Larbaa;46;عين تيموشنت;Aïn Témouchent;4609;35.4075;-0.881667
+1338;المساعيد;El Messaid;العامرية;El Amria;46;عين تيموشنت;Aïn Témouchent;4628;35.541944;-1.122054
+1339;وادي برقش;Oued Berkeche;حمام بوحجر;Hammam Bou Hadjar;46;عين تيموشنت;Aïn Témouchent;4606;35.222222;-0.983611
+1340;سيدي بن عدة;Sidi Ben Adda;عين تموشنت;Ain Temouchent;46;عين تيموشنت;Aïn Témouchent;4612;35.3;-1.1833333
+1341;عين تموشنت;Ain Temouchent;عين تموشنت;Ain Temouchent;46;عين تيموشنت;Aïn Témouchent;4601;35.297;-1.133333
+1342;بوزجار;Bouzedjar;العامرية;El Amria;46;عين تيموشنت;Aïn Témouchent;4605;35.57456;-1.10424
+1343;حمام بوحجر;Hammam Bou Hadjar;حمام بوحجر;Hammam Bou Hadjar;46;عين تيموشنت;Aïn Témouchent;4604;35.37889;-0.970488
+1344;ضاية بن ضحوة;Dhayet Bendhahoua;ضاية بن ضحوة;Dhayet Ben Dhahoua;47;غرداية;Ghardaïa;4707;32.536944;3.605556
+1345;المنصورة;Mansoura;المنصورة;Mansourah;47;غرداية;Ghardaïa;4713;31.979444;3.7459731
+1346;العطف;El Atteuf;بونورة;Bounoura;47;غرداية;Ghardaïa;4712;32.4766504;3.74788
+1347;بونورة;Bounoura;بونورة;Bounoura;47;غرداية;Ghardaïa;4710;32.4825;3.70771
+1348;زلفانة;Zelfana;زلفانة;Zelfana;47;غرداية;Ghardaïa;4708;32.4;4.2167
+1349;القرارة;El Guerrara;القرارة;El Guerrara;47;غرداية;Ghardaïa;4702;32.790278;4.4882869
+1350;سبسب;Sebseb;متليلي;Metlili;47;غرداية;Ghardaïa;4709;32.158333;3.5889
+1351;متليلي;Metlili;متليلي;Metlili;47;غرداية;Ghardaïa;4705;32.26667;3.63333
+1352;بريان;Berriane;بريان;Berriane;47;غرداية;Ghardaïa;4704;32.82648;3.766667
+1353;غرداية;Ghardaia;غرداية;Ghardaia;47;غرداية;Ghardaïa;4701;32.4833;3.6667
+1354;القطار;El-Guettar;مازونة;Mazouna;48;غليزان;Relizane;4816;36.19112;0.8160086
+1355;أولاد يعيش;Ouled Aiche;عمي موسى;Ammi Moussa;48;غليزان;Relizane;4813;35.8266;0.961111
+1356;بني درقن;Beni Dergoun;زمورة;Zemmoura;48;غليزان;Relizane;4813;35.7933416;0.801239
+1357;دار بن عبد الله;Dar Ben Abdelah;زمورة;Zemmoura;48;غليزان;Relizane;4832;35.701;0.68719
+1358;زمورة;Zemmoura;زمورة;Zemmoura;48;غليزان;Relizane;4812;35.7225;0.75
+1359;جديوية;Djidiouia;جديوية;Djidiouia;48;غليزان;Relizane;4814;35.93;0.816667
+1360;حمري;Hamri;جديوية;Djidiouia;48;غليزان;Relizane;4816;35.7425;0.830556
+1361;بلعسل بوزقزة;Belaassel Bouzagza;المطمر;El Matmar;48;غليزان;Relizane;4803;35.8247;0.577778
+1362;المطمر;El-Matmar;المطمر;El Matmar;48;غليزان;Relizane;4817;35.732361;0.4611475
+1363;سيدي خطاب;Sidi Khettab;المطمر;El Matmar;48;غليزان;Relizane;4810;35.9111;0.51
+1364;سيدي امحمد بن عودة;Sidi M'hamed Benaouda;المطمر;El Matmar;48;غليزان;Relizane;4824;35.60409;0.58874
+1365;عين طارق;Ain-Tarek;عين طارق;Ain Tarek;48;غليزان;Relizane;4815;35.781388;1.1302226
+1366;حد الشكالة;Had Echkalla;عين طارق;Ain Tarek;48;غليزان;Relizane;4808;35.679167;1.147222
+1367;الولجة;El Ouldja;عمي موسى;Ammi Moussa;48;غليزان;Relizane;4836;35.9108;0.816667
+1368;مازونة;Mazouna;مازونة;Mazouna;48;غليزان;Relizane;4822;36.1262742;0.8801926
+1369;عين الرحمة;Ain Rahma;يلل;Yellel;48;غليزان;Relizane;4824;35.62472222;0.392778
+1370;القلعة;Kalaa;يلل;Yellel;48;غليزان;Relizane;4823;35.580556;0.35361111
+1371;سيدي سعادة;Sidi Saada;يلل;Yellel;48;غليزان;Relizane;4804;35.677778;0.342222
+1372;يلل;Yellel;يلل;Yellel;48;غليزان;Relizane;4825;35.716667;0.3536111
+1373;سوق الحد;Souk El Had;الرمكة;Ramka;48;غليزان;Relizane;4831;35.916667;1.24805556
+1374;منداس;Mendes;منداس;Mendes;48;غليزان;Relizane;4828;35.6625;0.861944
+1375;وادي السلام;Oued Essalem;منداس;Mendes;48;غليزان;Relizane;4820;35.58333333;0.9246111
+1376;سيدي لزرق;Sidi Lazreg;منداس;Mendes;48;غليزان;Relizane;4806;35.6462;0.775
+1377;عمي موسى;Ammi Moussa;عمي موسى;Ammi Moussa;48;غليزان;Relizane;4811;35.868;1.1081265
+1378;واريزان;Ouarizane;وادي رهيو;Oued Rhiou;48;غليزان;Relizane;4821;36.05;0.899078
+1379;مرجة سيدي عابد;Merdja Sidi Abed;وادي رهيو;Oued Rhiou;48;غليزان;Relizane;4837;36.00333;1.010278
+1380;أولاد سيدي الميهوب;Ouled Sidi Mihoub;جديوية;Djidiouia;48;غليزان;Relizane;4838;35.973889;0.691667
+1381;بن داود;Bendaoud;غليزان;Relizane;48;غليزان;Relizane;4835;35.719167;0.520278
+1382;وادي رهيو;Oued-Rhiou;وادي رهيو;Oued Rhiou;48;غليزان;Relizane;4802;35.96111111;0.9167
+1383;الحاسي;El Hassi;عمي موسى;Ammi Moussa;48;غليزان;Relizane;4804;35.7425;1.11143
+1384;سيدي أمحمد بن علي;Sidi M'hamed Benali;سيدي أمحمد بن علي;Sidi M'hamed Ben Ali;48;غليزان;Relizane;4808;36.14472222;0.843056
+1385;مديونة;Mediouna;سيدي أمحمد بن علي;Sidi M'hamed Ben Ali;48;غليزان;Relizane;4819;36.12445404;0.747250618
+1386;بني زنطيس;Beni Zentis;سيدي أمحمد بن علي;Sidi M'hamed Ben Ali;48;غليزان;Relizane;4830;36.111389;0.663611111
+1387;وادي الجمعة;Oued El Djemaa;الحمادنة;El H'madna;48;غليزان;Relizane;4826;35.797222;0.6167687
+1388;لحلاف;Lahlef;وادي رهيو;Oued Rhiou;48;غليزان;Relizane;4829;35.8928056;0.983333
+1389;غليزان;Relizane;غليزان;Relizane;48;غليزان;Relizane;4801;35.7333;0.5588787
+1390;الحمادنة;El H'madna;الحمادنة;El H'madna;48;غليزان;Relizane;4807;35.9;0.774675
+1391;الرمكة;Ramka;الرمكة;Ramka;48;غليزان;Relizane;4827;35.866667;1.283333333
+1392;تنركوك;Tinerkouk;تنركوك;Tinerkouk;49;تيميمون;Timimoun;116;29;0.1567
+1393;تيميمون;Timimoun;تيميمون;Timimoun;49;تيميمون;Timimoun;109;29.25;0.2285923
+1394;أولاد السعيد;Ouled Said;تيميمون;Timimoun;49;تيميمون;Timimoun;110;29.23194444;0.2387556
+1395;المطارفة;Metarfa;أوقروت;Aougrout;49;تيميمون;Timimoun;120;28.589167;-0.149722
+1396;طالمين;Talmine;شروين;Charouine;49;تيميمون;Timimoun;124;29.0167;-0.4975
+1397;أولاد عيسى;Ouled Aissa;شروين;Charouine;49;تيميمون;Timimoun;127;29.418333;-0.089167
+1398;شروين;Charouine;شروين;Charouine;49;تيميمون;Timimoun;103;29.018611;-0.257778
+1399;أوقروت;Aougrout;أوقروت;Aougrout;49;تيميمون;Timimoun;123;28.75;0.335278
+1400;دلدول;Deldoul;أوقروت;Aougrout;49;تيميمون;Timimoun;117;28.702778;0.15
+1401;قصر قدور;Ksar Kaddour;تنركوك;Tinerkouk;49;تيميمون;Timimoun;107;29.5784908;0.3739728
+1402;تيمياوين;Timiaouine;برج باجي مختار;Bordj Badji Mokhtar;50;برج باجي مختار;Bordj Badji Mokhtar;128;20.437222;1.79861
+1403;برج باجي مختار;Bordj Badji Mokhtar;برج باجي مختار;Bordj Badji Mokhtar;50;برج باجي مختار;Bordj Badji Mokhtar;125;21.3292442;0.954167
+1404;رأس الميعاد;Ras El Miad;سيدي خالد;Sidi Khaled;51;أولاد جلال;Ouled Djellal;515;34.18472222;4.166667
+1405;بسباس;Besbes;سيدي خالد;Sidi Khaled;51;أولاد جلال;Ouled Djellal;707;34.15;4.983333
+1406;سيدي خالد;Sidi Khaled;سيدي خالد;Sidi Khaled;51;أولاد جلال;Ouled Djellal;708;34.387;4.983333333
+1407;الدوسن;Doucen;أولاد جلال;Ouled Djellal;51;أولاد جلال;Ouled Djellal;709;34.4686111;5.02111111
+1408;الشعيبة;Chaiba;أولاد جلال;Ouled Djellal;51;أولاد جلال;Ouled Djellal;515;34.5;4.55
+1409;أولاد جلال;Ouled Djellal;أولاد جلال;Ouled Djellal;51;أولاد جلال;Ouled Djellal;705;34.4254103;5.0644342
+1410;بني عباس;Beni-Abbes;بني عباس;Beni Abbes;52;بني عباس;Béni Abbès;807;30.08;-2.17
+1411;تامترت;Tamtert;بني عباس;Beni Abbes;52;بني عباس;Béni Abbès;820;29.91027778;-1.8902778
+1412;إقلي;Igli;إقلي;Igli;52;بني عباس;Béni Abbès;811;30.26666667;-2.2778396
+1413;الواتة;El Ouata;الواتة;El Ouata;52;بني عباس;Béni Abbès;814;29.86224;-1.82751
+1414;أولاد خضير;Ouled-Khodeir;أولاد خضير;Ouled Khodeir;52;بني عباس;Béni Abbès;803;29.248889;-1.05748
+1415;كرزاز;Kerzaz;كرزاز;Kerzaz;52;بني عباس;Béni Abbès;818;29.45;-1.416667
+1416;تيمودي;Timoudi;كرزاز;Kerzaz;52;بني عباس;Béni Abbès;805;29.40611111;-1.428333333
+1417;القصابي;Ksabi;أولاد خضير;Ouled Khodeir;52;بني عباس;Béni Abbès;819;28.85;1.2267
+1418;بن يخلف;Beni-Ikhlef;كرزاز;Kerzaz;52;بني عباس;Béni Abbès;808;29.575;-1.609167
+1419;عين غار;Ain Ghar;عين غار;Ain Ghar;53;عين صالح;Ain Salah;1103;27.2;2.511111
+1420;عين صالح;Ain Salah;عين صالح;Ain Salah;53;عين صالح;Ain Salah;1108;27.1935;2.483333
+1421;فقارة الزوى;Foggaret Ezzoua;عين صالح;Ain Salah;53;عين صالح;Ain Salah;1110;27.363333;2.8475
+1422;تين زواتين;Tin Zouatine;تين زواتين;Tin Zouatine;54;عين قزام;Ain Guezzam;1107;19.953333;2.966667
+1423;عين قزام;Ain Guezzam;عين قزام;Ain Guezzam;54;عين قزام;Ain Guezzam;1104;19.5696707;5.76806
+1424;تماسين;Temacine;تماسين;Temacine;55;تقرت;Touggourt;3016;33.02194444;6.022778
+1425;سيدي سليمان;Sidi Slimane;المقارين;Megarine;55;تقرت;Touggourt;5503;33.288889;6.094444
+1426;المقارين;Megarine;المقارين;Megarine;55;تقرت;Touggourt;3019;33.183333;6.0833333
+1427;النزلة;Nezla;تقرت;Touggourt;55;تقرت;Touggourt;5509;33.10527;6.050833333
+1428;بلدة اعمر;Blidet Amor;تماسين;Temacine;55;تقرت;Touggourt;5507;32.95138889;5.980556
+1429;تبسبست;Tebesbest;تقرت;Touggourt;55;تقرت;Touggourt;3007;33.12;6.08333
+1430;تقرت;Touggourt;تقرت;Touggourt;55;تقرت;Touggourt;3013;33.1;6.05796
+1431;الطيبات;Taibet;الطيبات;Taibet;55;تقرت;Touggourt;3015;33.0829494;6.3997501
+1432;العالية;El Alia;الحجيرة;El-Hadjira;55;تقرت;Touggourt;3013;32.6999655;5.425556
+1433;الحجيرة;El-Hadjira;الحجيرة;El-Hadjira;55;تقرت;Touggourt;3014;32.6130464;5.51259
+1434;بن ناصر;Benaceur;الطيبات;Taibet;55;تقرت;Touggourt;3017;32.84411111;6.441111
+1435;المنقر;M'naguer;الطيبات;Taibet;55;تقرت;Touggourt;3018;33.12638889;6.351944
+1436;الزاوية العابدية;Zaouia El Abidia;تقرت;Touggourt;55;تقرت;Touggourt;3009;33.1375;6.082222
+1437;جانت;Djanet;جانت;Djanet;56;جانت;Djanet;3302;24.55270656;9.4841939
+1438;برج الحواس;Bordj El Haouass;جانت;Djanet;56;جانت;Djanet;5601;24.882778;8.434444
+1439;أم الطيور;Oum Touyour;المغير;El Meghaier;57;المغير;El Meghaier;3929;34.153333;5.833333
+1440;سيدي عمران;Sidi Amrane;جامعة;Djamaa;57;المغير;El Meghaier;3930;33.49885;6.0117531
+1441;المرارة;M'rara;جامعة;Djamaa;57;المغير;El Meghaier;3922;33.476667;6.2725
+1442;جامعة;Djamaa;جامعة;Djamaa;57;المغير;El Meghaier;3927;33.53388;6.0667
+1443;تندلة;Tenedla;جامعة;Djamaa;57;المغير;El Meghaier;3924;33.675278;6.033889
+1444;المغير;El-M'ghaier;المغير;El Meghaier;57;المغير;El Meghaier;5701;33.953;5.9242
+1445;سطيل;Still;المغير;El Meghaier;57;المغير;El Meghaier;3921;34.19111111;5.9293
+1446;سيدي خليل;Sidi Khelil;المغير;El Meghaier;57;المغير;El Meghaier;3923;33.8369;5.958889
+1447;المنيعة;El Meniaa;المنيعة;El Menia;58;المنيعة;El Menia;5801;30.57556;2.885833333
+1448;حاسي القارة;Hassi Gara;المنيعة;El Menia;58;المنيعة;El Menia;5803;30.552222;2.915
+1449;حاسي الفحل;Hassi Fehal;المنصورة;Mansourah;58;المنيعة;El Menia;5802;31.605278;3.6762683
+1450;بريدة;Brida;بريدة;Brida;59;أفلو;Aflou;313;33.906111;1.784444
+1451;الحاج مشري;Hadj Mechri;بريدة;Brida;59;أفلو;Aflou;316;33.9571296;1.5992068
+1452;تاويالة;Taouiala;بريدة;Brida;59;أفلو;Aflou;317;33.87186;1.8606
+1453;الغيشة;El Ghicha;الغيشة;El Ghicha;59;أفلو;Aflou;314;33.933333;2.9463
+1454;سبقاق;Sebgag;أفلو;Aflou;59;أفلو;Aflou;302;34.02958;1.92798
+1455;سيدي بوزيد;Sidi Bouzid;أفلو;Aflou;59;أفلو;Aflou;308;34.342777;2.261389
+1456;وادي مرة;Oued Morra;وادي مرة;Oued Morra;59;أفلو;Aflou;321;34.1666669;2.3166669
+1457;وادي مزي;Oued M'zi;وادي مرة;Oued Morra;59;أفلو;Aflou;322;33.92422;2.4369
+1458;أفلو;Aflou;أفلو;Aflou;59;أفلو;Aflou;304;34.11279;2.1019
+1459;سقانة;Seggana;سقانة;Seggana;60;بريكة;Barika;529;35.365555;5.575
+1460;تيلاطو;Tilatou;سقانة;Seggana;60;بريكة;Barika;565;35.329167;5.8667
+1461;بريكة;Barika;بريكة;Barika;60;بريكة;Barika;542;35.3972;5.3658
+1462;بيطام;Bitam;بريكة;Barika;60;بريكة;Barika;514;35.0333;5.3
+1463;إمدوكل;M Doukal;بريكة;Barika;60;بريكة;Barika;525;35.121;5.485278
+1464;عزيل عبد القادر;Azil Abedelkader;الجزار;Djezzar;60;بريكة;Barika;515;35.3667;5.1833
+1465;الجزار;Djezzar;الجزار;Djezzar;60;بريكة;Barika;533;35.50956;5.26679
+1466;أولاد عمار;Ouled Ammar;الجزار;Djezzar;60;بريكة;Barika;556;35.15;5.34
+1467;قصر الشلالة;Ksar Chellala;قصر الشلالة;Ksar Chellala;61;قصر الشلالة;Ksar Chellala;1429;35.21222;2.3189
+1468;سرغين;Serghine;قصر الشلالة;Ksar Chellala;61;قصر الشلالة;Ksar Chellala;1439;35.254444;2.30861
+1469;زمالة الأمير عبد القادر;Zmalet El Emir Abdelkade;قصر الشلالة;Ksar Chellala;61;قصر الشلالة;Ksar Chellala;1409;34.89336;2.31
+1470;بوقرة;Bougara;حمادية;Hamadia;61;قصر الشلالة;Ksar Chellala;1440;35.553333;2.545
+1471;حمادية;Hamadia;حمادية;Hamadia;61;قصر الشلالة;Ksar Chellala;1417;35.45918;1.87316
+1472;الرشايقة;Rechaiga;حمادية;Hamadia;61;قصر الشلالة;Ksar Chellala;1430;35.4081;1.9739
+1473;سلمانة;Selmana;مسعد;Messaad;62;مسعد;Messaad;1722;34.16440361;3.562011761
+1474;سد الرحال;Sed Rahal;مسعد;Messaad;62;مسعد;Messaad;1706;33.948333;3.231111
+1475;مسعد;Messaad;مسعد;Messaad;62;مسعد;Messaad;1717;34.15429;3.50309
+1476;قطارة;Guettara;مسعد;Messaad;62;مسعد;Messaad;1718;33.158611;4.685277
+1477;دلدول;Deldoul;مسعد;Messaad;62;مسعد;Messaad;1729;34.2053;3.253056
+1478;أم العظام;Oum Laadham;فيض البطمة;Faidh El Botma;62;مسعد;Messaad;1724;33.720277;4.53056
+1479;فيض البطمة;Faidh El Botma;فيض البطمة;Faidh El Botma;62;مسعد;Messaad;1707;34.527777;3.781944
+1480;عمورة;Amourah;فيض البطمة;Faidh El Botma;62;مسعد;Messaad;1734;34.354444;3.87083333
+1481;حد الصحاري;Had Sahary;حد الصحاري;Had Sahary;63;عين وسارة;Ain Oussera;1720;35.35056;3.3609
+1482;بويرة الأحداب;Bouira Lahdab;حد الصحاري;Had Sahary;63;عين وسارة;Ain Oussera;1709;35.243889;3.75
+1483;عين فقه;Ain Fekka;حد الصحاري;Had Sahary;63;عين وسارة;Ain Oussera;1735;35.433333;3.583333333
+1484;سيدي لعجال;Sidi Laadjel;سيدي لعجال;Sidi Laadjel;63;عين وسارة;Ain Oussera;1719;35.438055;2.5
+1485;حاسي فدول;Hassi Fedoul;سيدي لعجال;Sidi Laadjel;63;عين وسارة;Ain Oussera;1733;35.436666;2.2142
+1486;الخميس;El Khemis;سيدي لعجال;Sidi Laadjel;63;عين وسارة;Ain Oussera;1716;35.5397;2.515833
+1487;بيرين;Birine;بيرين;Birine;63;عين وسارة;Ain Oussera;1708;35.6383108;3.2869
+1488;قرنيني;Guernini;عين وسارة;Ain Oussera;63;عين وسارة;Ain Oussera;1721;35.19970336;2.682895682
+1489;عين وسارة;Ain Oussera;عين وسارة;Ain Oussera;63;عين وسارة;Ain Oussera;1731;35.4542653;2.904444
+1490;بنهار;Benhar;بيرين;Birine;63;عين وسارة;Ain Oussera;1718;35.4859395;3.1081
+1491;بن زوه;Benzouh;أولاد سيدي ابراهيم;Ouled Sidi Brahim;64;بوسعادة;Boussaâda;2835;35.438055;4.383333
+1492;أولاد سيدي ابراهيم;Ouled Sidi Brahim;أولاد سيدي ابراهيم;Ouled Sidi Brahim;64;بوسعادة;Boussaâda;2823;36.2;4.174722
+1493;سيدي عامر;Sidi Ameur;سيدي عامر;Sidi Ameur;64;بوسعادة;Boussaâda;2826;35.3667;3.9066533
+1494;تامسة;Tamsa;سيدي عامر;Sidi Ameur;64;بوسعادة;Boussaâda;2823;35.173611;3.925556
+1495;بن سرور;Ben Srour;بن سرور;Ben Srour;64;بوسعادة;Boussaâda;2815;35.0404431;4.5633795
+1496;محمد بوضياف;Mohamed Boudiaf;بن سرور;Ben Srour;64;بوسعادة;Boussaâda;2838;34.8941667;4.428611
+1497;أولاد سليمان;Ouled Slimane;بن سرور;Ben Srour;64;بوسعادة;Boussaâda;2825;34.91609;4.73694444
+1498;زرزور;Zarzour;بن سرور;Ben Srour;64;بوسعادة;Boussaâda;2833;35.0358333;4.433333
+1499;جبل مساعد;Djebel Messaad;جبل مساعد;Djebel Messaad;64;بوسعادة;Boussaâda;2811;34.991121;4.092493
+1500;سليم;Slim;جبل مساعد;Djebel Messaad;64;بوسعادة;Boussaâda;2837;34.938889;3.734722222
+1501;الحوامد;El Houamed;خبانة;Khoubana;64;بوسعادة;Boussaâda;2826;35.2917758;4.53358
+1502;خبانة;Khoubana;خبانة;Khoubana;64;بوسعادة;Boussaâda;2807;35.31444444;4.566944
+1503;مسيف;M'cif;خبانة;Khoubana;64;بوسعادة;Boussaâda;2808;35.3281;4.8
+1504;عين العراك;Ain El Orak;الأبيض سيدي الشيخ;Labiodh Sidi Cheikh;65;الأبيض سيدي الشيخ;El Abiodh Sidi Cheikh;3206;33.4100573;0.7385302
+1505;كراكدة;Krakda;بريزينة;Brezina;65;الأبيض سيدي الشيخ;El Abiodh Sidi Cheikh;3215;33.319167;0.957222
+1506;البنود;El Bnoud;الأبيض سيدي الشيخ;Labiodh Sidi Cheikh;65;الأبيض سيدي الشيخ;El Abiodh Sidi Cheikh;3216;32.31222222;0.244444
+1507;بريزينة;Brezina;بريزينة;Brezina;65;الأبيض سيدي الشيخ;El Abiodh Sidi Cheikh;3204;33.08333333;1.261
+1508;الغاسول;Ghassoul;بريزينة;Brezina;65;الأبيض سيدي الشيخ;El Abiodh Sidi Cheikh;3205;33.377222;1.2030556
+1509;الأبيض سيدي الشيخ;Labiodh Sidi Cheikh;الأبيض سيدي الشيخ;Labiodh Sidi Cheikh;65;الأبيض سيدي الشيخ;El Abiodh Sidi Cheikh;3201;32.898611;0.544444
+1510;بوسمغون;Boussemghoun;بوسمغون;Boussemghoun;65;الأبيض سيدي الشيخ;El Abiodh Sidi Cheikh;3213;32.8643;0.0201
+1511;اربوات;Arbaouat;الأبيض سيدي الشيخ;Labiodh Sidi Cheikh;65;الأبيض سيدي الشيخ;El Abiodh Sidi Cheikh;3209;33.08833333;0.5823
+1512;جمورة;Djemorah;جمورة;Djemorah;66;القنطرة;El Kantara;720;35.1026843;5.864722
+1513;برانيس;Branis;جمورة;Djemorah;66;القنطرة;El Kantara;7003;34.99338;5.775
+1514;الوطاية;El Outaya;الوطاية;El Outaya;66;القنطرة;El Kantara;716;35.03412;5.59517
+1515;القنطرة;El Kantara;القنطرة;El Kantara;66;القنطرة;El Kantara;717;35.192365;5.6668306
+1516;عين زعطوط;Ain Zaatout;القنطرة;El Kantara;66;القنطرة;El Kantara;718;34.9080556;5.83
+1517;فركان;Ferkane;نقرين;Negrine;67;بئر العاتر;Bir El Ater;1228;34.56233;7.412222
+1518;نقرين;Negrine;نقرين;Negrine;67;بئر العاتر;Bir El Ater;1223;34.48593;7.5193093
+1519;العقلة المالحة;El Ogla El Malha;بئر العاتر;Bir El Ater;67;بئر العاتر;Bir El Ater;1215;35.121944;7.9402184
+1520;بئر العاتر;Bir-El-Ater;بئر العاتر;Bir El Ater;67;بئر العاتر;Bir El Ater;1202;34.74488;8.06
+1521;السواقي;Souagui;السواقي;Souaghi;68;قصر البخاري;Ksar El Boukhari;2633;36.1167;3.26446
+1522;قصر البخاري;Ksar El Boukhari;قصر البخاري;Ksar El Boukhari;68;قصر البخاري;Ksar El Boukhari;2602;35.88889;2.74905
+1523;مفاتحة;M'fatha;قصر البخاري;Ksar El Boukhari;68;قصر البخاري;Ksar El Boukhari;2634;35.8889;2.93637
+1524;السانق;Saneg;قصر البخاري;Ksar El Boukhari;68;قصر البخاري;Ksar El Boukhari;2607;35.8514;3.253056
+1525;بوعيش;Bouaiche;الشهبونية;Chahbounia;68;قصر البخاري;Ksar El Boukhari;2631;35.552778;2.1731
+1526;بوغزول;Boughzoul;الشهبونية;Chahbounia;68;قصر البخاري;Ksar El Boukhari;2651;35.7533117;2.7381672
+1527;الشهبونية;Chabounia;الشهبونية;Chahbounia;68;قصر البخاري;Ksar El Boukhari;2603;35.54472221;2.603333
+1528;عزيز;Aziz;عزيز;Aziz;68;قصر البخاري;Ksar El Boukhari;2632;35.816667;2.45
+1529;دراق;Derrag;عزيز;Aziz;68;قصر البخاري;Ksar El Boukhari;2608;35.908611;2.38778
+1530;أم الجليل;Oum El Djellil;عزيز;Aziz;68;قصر البخاري;Ksar El Boukhari;2642;35.8275;2.6239
+1531;جواب;Djouab;السواقي;Souaghi;68;قصر البخاري;Ksar El Boukhari;2637;36.13821;3.42701
+1532;سيدي زهار;Sidi Zahar;السواقي;Souaghi;68;قصر البخاري;Ksar El Boukhari;2628;36.07811;3.3317554
+1533;سيدي زيان;Sidi Ziane;السواقي;Souaghi;68;قصر البخاري;Ksar El Boukhari;2614;36.00933333;3.2556
+1534;سيدي الجيلالي;Sidi Djillali;سيدي الجيلالي;Sidi Djillali;69;العريشة;El Aricha;1341;34.4609;-1.5664
+1535;البويهي;Bouihi;سيدي الجيلالي;Sidi Djillali;69;العريشة;El Aricha;1343;34.413889;1.015
+1536;سبدو;Sebdou;سبدو;Sebdou;69;العريشة;El Aricha;1335;34.639444;-1.32694
+1537;القور;El Gor;سبدو;Sebdou;69;العريشة;El Aricha;1320;34.63797;-1.15296
+1538;العريشة;El Aricha;سبدو;Sebdou;69;العريشة;El Aricha;1332;34.22259;-1.257
+1539;بني بهدل;Beni Bahdel;بني سنوس;Beni Snous;69;العريشة;El Aricha;1342;34.693889;-1.5186
+1540;بني سنوس;Beni Snous;بني سنوس;Beni Snous;69;العريشة;El Aricha;1317;34.6593136;-1.5450766
+1541;العزايل;Azail;بني سنوس;Beni Snous;69;العريشة;El Aricha;1321;34.68;-1.4656
