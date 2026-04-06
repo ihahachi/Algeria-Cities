@@ -700,8 +700,8 @@ return [
         'wilaya_name' => 'الأغواط',
         'wilaya_name_fr' => 'Laghouat',
         'code_commune' => 311,
-        'Lat' => 34.184318,
-        'Long' => 1.54179,
+        'Lat' => 34.156872,
+        'Long' => 1.542386,
     ],
     [
         'id' => '55',
@@ -830,8 +830,8 @@ return [
         'wilaya_name' => 'الأغواط',
         'wilaya_name_fr' => 'Laghouat',
         'code_commune' => 545,
-        'Lat' => 33.7225,
-        'Long' => 3.19306,
+        'Lat' => 33.645394,
+        'Long' => 2.444713,
     ],
     [
         'id' => '65',
@@ -856,8 +856,8 @@ return [
         'wilaya_name' => 'الأغواط',
         'wilaya_name_fr' => 'Laghouat',
         'code_commune' => 303,
-        'Lat' => 33.75,
-        'Long' => 3.44722,
+        'Lat' => 33.751463,
+        'Long' => 3.002939,
     ],
     [
         'id' => '67',
@@ -18887,8 +18887,8 @@ return [
         'wilaya_name' => 'أفلو',
         'wilaya_name_fr' => 'Aflou',
         'code_commune' => 314,
-        'Lat' => 33.933333,
-        'Long' => 2.9463,
+        'Lat' => 33.930145,
+        'Long' => 2.140703,
     ],
     [
         'id' => '1454',
