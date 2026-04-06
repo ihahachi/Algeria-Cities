@@ -52,7 +52,7 @@
 51;الظهرة;Dahra;تاوقريت;Taougrit;2;الشلف;Chlef;217;36.255278;0.85174
 52;البيضاء;El Beidha;قتلة سيدي سعيد;Gueltat Sidi Saad;3;الأغواط;Laghouat;312;34.47475;2.17408
 53;قلتة سيدي سعد;Gueltat Sidi Saad;قتلة سيدي سعيد;Gueltat Sidi Saad;3;الأغواط;Laghouat;310;34.2961;1.94667
-54;عين سيدي علي;Ain Sidi Ali;قتلة سيدي سعيد;Gueltat Sidi Saad;3;الأغواط;Laghouat;311;34.184318;1.54179
+54;عين سيدي علي;Ain Sidi Ali;قتلة سيدي سعيد;Gueltat Sidi Saad;3;الأغواط;Laghouat;311;34.156872;1.542386
 55;تاجموت;Tadjemout;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;308;33.87729;2.52113
 56;تاجرونة;Tadjrouna;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;318;33.503632;2.101217
 57;الأغواط;Laghouat;الأغواط;Laghouat;3;الأغواط;Laghouat;301;33.8;2.875
@@ -62,9 +62,9 @@
 61;حاسي الدلاعة;Hassi Delaa;حاسي الرمل;Hassi R'mel;3;الأغواط;Laghouat;305;33.41742;3.55021
 62;حاسي الرمل;Hassi R'mel;حاسي الرمل;Hassi R'mel;3;الأغواط;Laghouat;306;32.928;3.271
 63;عين ماضي;Ain Madhi;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;307;33.7956;2.3052
-64;الحويطة;El Haouaita;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;545;33.7225;3.19306
+64;الحويطة;El Haouaita;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;545;33.645394;2.444713
 65;الخنق;Kheneg;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;309;33.744444;2.794
-66;بن ناصر بن شهرة;Benacer Benchohra;قصر الحيران;Ksar El Hirane;3;الأغواط;Laghouat;303;33.75;3.44722
+66;بن ناصر بن شهرة;Benacer Benchohra;قصر الحيران;Ksar El Hirane;3;الأغواط;Laghouat;303;33.751463;3.002939
 67;فكيرينة;Fkirina;فكيرينة;F'kirina;4;أم البواقي;Oum El Bouaghi;416;35.663889;7.2989
 68;الفجوج بوغرارة سعودي;El Fedjoudj Boughrara Sa;عين فكرون;Ain Fekroun;4;أم البواقي;Oum El Bouaghi;419;35.70805;6.816944
 69;عين فكرون;Ain Fekroun;عين فكرون;Ain Fekroun;4;أم البواقي;Oum El Bouaghi;425;35.9711;6.8737
@@ -1451,7 +1451,7 @@
 1450;بريدة;Brida;بريدة;Brida;59;أفلو;Aflou;313;33.906111;1.784444
 1451;الحاج مشري;Hadj Mechri;بريدة;Brida;59;أفلو;Aflou;316;33.9571296;1.5992068
 1452;تاويالة;Taouiala;بريدة;Brida;59;أفلو;Aflou;317;33.87186;1.8606
-1453;الغيشة;El Ghicha;الغيشة;El Ghicha;59;أفلو;Aflou;314;33.933333;2.9463
+1453;الغيشة;El Ghicha;الغيشة;El Ghicha;59;أفلو;Aflou;314;33.930145;2.140703
 1454;سبقاق;Sebgag;أفلو;Aflou;59;أفلو;Aflou;302;34.02958;1.92798
 1455;سيدي بوزيد;Sidi Bouzid;أفلو;Aflou;59;أفلو;Aflou;308;34.342777;2.261389
 1456;وادي مرة;Oued Morra;وادي مرة;Oued Morra;59;أفلو;Aflou;321;34.1666669;2.3166669
