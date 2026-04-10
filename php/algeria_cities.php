@@ -18250,8 +18250,8 @@ return [
         'wilaya_name' => 'أولاد جلال',
         'wilaya_name_fr' => 'Ouled Djellal',
         'code_commune' => 515,
-        'Lat' => 34.18472222,
-        'Long' => 4.166667,
+        'Lat' => 34.185603,
+        'Long' => 4.4514,
     ],
     [
         'id' => '1405',
@@ -18289,8 +18289,8 @@ return [
         'wilaya_name' => 'أولاد جلال',
         'wilaya_name_fr' => 'Ouled Djellal',
         'code_commune' => 709,
-        'Lat' => 34.4686111,
-        'Long' => 5.02111111,
+        'Lat' => 34.595739,
+        'Long' => 5.102266,
     ],
     [
         'id' => '1408',
