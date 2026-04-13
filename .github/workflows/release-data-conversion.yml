@@ -67,32 +67,32 @@ jobs:
       - name: Convert CSV to Excel
         shell: bash
         run: |
-python <<EOF
-import pandas as pd
-import glob
-import os
+          python <<EOF
+          import pandas as pd
+          import glob
+          import os
 
-files = glob.glob("csv/*.csv")
+          files = glob.glob("csv/*.csv")
 
-if not files:
-    print("No CSV files found.")
-else:
-    for file in files:
-        filename = os.path.splitext(os.path.basename(file))[0]
-        print(f"Processing {file}...")
+          if not files:
+              print("No CSV files found.")
+          else:
+              for file in files:
+                  filename = os.path.splitext(os.path.basename(file))[0]
+                  print(f"Processing {file}...")
 
-        try:
-            df = pd.read_csv(file, encoding="utf-8", sep=None, engine="python", low_memory=False)
-        except Exception:
-            df = pd.read_csv(file, encoding="latin1", sep=None, engine="python", low_memory=False)
+                  try:
+                      df = pd.read_csv(file, encoding="utf-8", sep=None, engine="python", low_memory=False)
+                  except Exception:
+                      df = pd.read_csv(file, encoding="latin1", sep=None, engine="python", low_memory=False)
 
-        output_path = f"output/excel/{filename}.xlsx"
+                  output_path = f"output/excel/{filename}.xlsx"
 
-        with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
-            df.to_excel(writer, sheet_name="data", index=False)
+                  with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
+                      df.to_excel(writer, sheet_name="data", index=False)
 
-print("CSV → Excel conversion completed")
-EOF
+          print("CSV → Excel conversion completed")
+          EOF
 
       # 7. Upload artifacts
       - name: Upload artifacts
