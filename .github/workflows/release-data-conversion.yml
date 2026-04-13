@@ -82,9 +82,9 @@ jobs:
                   print(f"Processing {file}...")
 
                   try:
-                      df = pd.read_csv(file, encoding="utf-8", sep=None, engine="python", low_memory=False)
+                      df = pd.read_csv(file, encoding="utf-8", sep=None, engine="python")
                   except Exception:
-                      df = pd.read_csv(file, encoding="latin1", sep=None, engine="python", low_memory=False)
+                      df = pd.read_csv(file, encoding="latin1", sep=None, engine="python")
 
                   output_path = f"output/excel/{filename}.xlsx"
 
