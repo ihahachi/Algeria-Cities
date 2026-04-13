@@ -11,8 +11,10 @@ A developer-friendly and structured dataset containing all **69 wilayas (provinc
 | Wilayas     | 69                                  |
 | Communes    | 1,541                               |
 | Coordinates | Included                            |
-| Formats     | CSV, JSON, GeoJSON, Excel, SQL, PHP |
+| Formats     | CSV, JSON, GeoJSON, SQL, PHP, SHP*, XLSX* |
 | Country     | Algeria 🇩🇿                          |
+
+_* SHP and XLSX formats are generated automatically and available in the [Releases](../../releases) section._
 
 ---
 
@@ -33,7 +35,6 @@ A developer-friendly and structured dataset containing all **69 wilayas (provinc
 algeria-cities/
 │
 ├── csv/       # CSV format
-├── excel/     # Excel files (.xlsx)
 ├── geojson/   # GeoJSON format (for GIS / maps)
 ├── json/      # JSON format
 ├── php/       # PHP arrays
