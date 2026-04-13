@@ -9,113 +9,105 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # ---------------------------
-      # 1. Checkout repository
-      # ---------------------------
+      # 1. Checkout
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # ---------------------------
-      # 2. Install GDAL (GeoJSON → SHP)
-      # ---------------------------
+      # 2. Install GDAL
       - name: Install GDAL
         run: |
           sudo apt-get update
           sudo apt-get install -y gdal-bin zip
 
-      # ---------------------------
-      # 3. Setup Python (CSV → XLSX)
-      # ---------------------------
+      # 3. Setup Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install Python dependencies
-        run: |
-          pip install pandas openpyxl
+        run: pip install pandas openpyxl
 
-      # ---------------------------
       # 4. Prepare output folders
-      # ---------------------------
       - name: Create output directories
         run: |
           mkdir -p output/shapefiles
           mkdir -p output/excel
 
-      # ---------------------------
-      # 5. Convert GeoJSON → Shapefile (UTF-8 + zipped)
-      # ---------------------------
+      # 5. GeoJSON → SHP
       - name: Convert GeoJSON to Shapefile
+        shell: bash
         run: |
           shopt -s nullglob
 
           for file in geojson/*.geojson; do
             filename=$(basename "$file" .geojson)
+            outdir="output/shapefiles/$filename"
 
             echo "Processing $file..."
 
+            mkdir -p "$outdir"
+
             ogr2ogr \
               -f "ESRI Shapefile" \
-              "output/shapefiles/$filename.shp" \
+              "$outdir/$filename.shp" \
               "$file" \
               -t_srs EPSG:4326 \
               -lco ENCODING=UTF-8 \
+              -nlt PROMOTE_TO_MULTI \
               -skipfailures
 
-            # Zip all related shapefile components
-            cd output/shapefiles
-            zip -q "$filename.zip" "$filename".*
-            cd - > /dev/null
+            # Zip only valid shapefile components
+            if compgen -G "$outdir/$filename.*" > /dev/null; then
+              zip -j "output/shapefiles/$filename.zip" "$outdir/$filename".*
+            fi
           done
 
-      # ---------------------------
-      # 6. Convert CSV → Excel (UTF-8 safe)
-      # ---------------------------
+      # 6. CSV → XLSX
       - name: Convert CSV to Excel
+        shell: bash
         run: |
-          python <<EOF
-          import pandas as pd
-          import glob
-          import os
+python <<EOF
+import pandas as pd
+import glob
+import os
 
-          files = glob.glob("csv/*.csv")
+files = glob.glob("csv/*.csv")
 
-          for file in files:
-              filename = os.path.splitext(os.path.basename(file))[0]
-              print(f"Processing {file}...")
+if not files:
+    print("No CSV files found.")
+else:
+    for file in files:
+        filename = os.path.splitext(os.path.basename(file))[0]
+        print(f"Processing {file}...")
 
-              try:
-                  df = pd.read_csv(file, encoding="utf-8", sep=None, engine="python", low_memory=False)
-              except Exception:
-                  # fallback for problematic encodings
-                  df = pd.read_csv(file, encoding="latin1", sep=None, engine="python", low_memory=False)
+        try:
+            df = pd.read_csv(file, encoding="utf-8", sep=None, engine="python", low_memory=False)
+        except Exception:
+            df = pd.read_csv(file, encoding="latin1", sep=None, engine="python", low_memory=False)
 
-              output_path = f"output/excel/{filename}.xlsx"
+        output_path = f"output/excel/{filename}.xlsx"
 
-              with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
-                  df.to_excel(writer, sheet_name="data", index=False)
+        with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
+            df.to_excel(writer, sheet_name="data", index=False)
 
-          print("CSV → Excel conversion completed")
-          EOF
+print("CSV → Excel conversion completed")
+EOF
 
-      # ---------------------------
-      # 7. Upload artifacts (optional but useful)
-      # ---------------------------
+      # 7. Upload artifacts
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: converted-files
           path: output/
 
-      # ---------------------------
-      # 8. Attach files to GitHub Release
-      # ---------------------------
+      # 8. Attach to Release
       - name: Upload to GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           files: |
             output/shapefiles/*.zip
             output/excel/*.xlsx
+          fail_on_unmatched_files: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
