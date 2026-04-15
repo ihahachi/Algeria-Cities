@@ -1908,7 +1908,7 @@
         "wilaya_name_fr": "Batna",
         "code_commune": 552,
         "Lat": 35.2135627,
-        "Long": 6.0
+        "Long": 6
     },
     {
         "id": "148",
@@ -1932,7 +1932,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 638,
+        "code_commune": 621,
         "Lat": 36.61667,
         "Long": 4.75
     },
@@ -1971,7 +1971,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 652,
+        "code_commune": 613,
         "Lat": 36.653,
         "Long": 5.0173
     },
@@ -1984,7 +1984,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 614,
+        "code_commune": 639,
         "Lat": 36.612944,
         "Long": 4.688298
     },
@@ -2010,7 +2010,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 627,
+        "code_commune": 610,
         "Lat": 36.6253,
         "Long": 4.681
     },
@@ -2023,7 +2023,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 631,
+        "code_commune": 640,
         "Lat": 36.684389,
         "Long": 4.852222
     },
@@ -2036,7 +2036,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 642,
+        "code_commune": 618,
         "Lat": 36.671667,
         "Long": 4.790555
     },
@@ -2062,7 +2062,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 620,
+        "code_commune": 645,
         "Lat": 36.4295337,
         "Long": 5.2475518
     },
@@ -2075,7 +2075,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 626,
+        "code_commune": 644,
         "Lat": 36.492724,
         "Long": 5.278
     },
@@ -2153,7 +2153,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 639,
+        "code_commune": 612,
         "Lat": 36.6389,
         "Long": 4.8
     },
@@ -2166,7 +2166,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 645,
+        "code_commune": 607,
         "Lat": 36.615556,
         "Long": 4.7667
     },
@@ -2179,7 +2179,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 608,
+        "code_commune": 641,
         "Lat": 36.671389,
         "Long": 5.360759
     },
@@ -2192,7 +2192,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 623,
+        "code_commune": 608,
         "Lat": 36.6256524,
         "Long": 5.3360215
     },
@@ -2205,7 +2205,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 635,
+        "code_commune": 646,
         "Lat": 36.5833119,
         "Long": 5.4253757
     },
@@ -2309,7 +2309,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 627,
+        "code_commune": 631,
         "Lat": 36.56667,
         "Long": 5.2733
     },
@@ -2335,7 +2335,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 647,
+        "code_commune": 649,
         "Lat": 36.6134619,
         "Long": 5.2176317
     },
@@ -2348,7 +2348,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 601,
+        "code_commune": 624,
         "Lat": 36.683333,
         "Long": 4.6667
     },
@@ -2439,7 +2439,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 620,
+        "code_commune": 616,
         "Lat": 36.477777,
         "Long": 4.633333
     },
@@ -2465,7 +2465,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 628,
+        "code_commune": 609,
         "Lat": 36.563407,
         "Long": 4.710368
     },
@@ -2517,7 +2517,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 630,
+        "code_commune": 627,
         "Lat": 36.3878041,
         "Long": 4.4079213
     },
@@ -2543,7 +2543,7 @@
         "wilaya_code": 6,
         "wilaya_name": "بجاية",
         "wilaya_name_fr": "Béjaïa",
-        "code_commune": 636,
+        "code_commune": 629,
         "Lat": 36.5944017,
         "Long": 4.6210411
     },
@@ -5587,7 +5587,7 @@
         "wilaya_name_fr": "Tizi Ouzou",
         "code_commune": 1530,
         "Lat": 36.5071,
-        "Long": 4.0
+        "Long": 4
     },
     {
         "id": "431",
@@ -11242,7 +11242,7 @@
         "wilaya_name_fr": "Mostaganem",
         "code_commune": 2704,
         "Lat": 35.8307225,
-        "Long": 0.0
+        "Long": 0
     },
     {
         "id": "866",
@@ -15272,7 +15272,7 @@
         "wilaya_name_fr": "Khenchela",
         "code_commune": 4003,
         "Lat": 35.31491,
-        "Long": 7.0
+        "Long": 7
     },
     {
         "id": "1176",
@@ -18092,7 +18092,7 @@
         "wilaya_name": "تيميمون",
         "wilaya_name_fr": "Timimoun",
         "code_commune": 116,
-        "Lat": 29.0,
+        "Lat": 29,
         "Long": 0.1567
     },
     {

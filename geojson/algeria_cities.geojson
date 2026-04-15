@@ -3072,7 +3072,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.0,
+                    6,
                     35.2135627
                 ]
             },
@@ -3127,7 +3127,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 638
+                "code_commune": 621
             }
         },
         {
@@ -3190,7 +3190,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 652
+                "code_commune": 613
             }
         },
         {
@@ -3211,7 +3211,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 614
+                "code_commune": 639
             }
         },
         {
@@ -3253,7 +3253,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 627
+                "code_commune": 610
             }
         },
         {
@@ -3274,7 +3274,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 631
+                "code_commune": 640
             }
         },
         {
@@ -3295,7 +3295,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 642
+                "code_commune": 618
             }
         },
         {
@@ -3337,7 +3337,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 620
+                "code_commune": 645
             }
         },
         {
@@ -3358,7 +3358,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 626
+                "code_commune": 644
             }
         },
         {
@@ -3484,7 +3484,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 639
+                "code_commune": 612
             }
         },
         {
@@ -3505,7 +3505,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 645
+                "code_commune": 607
             }
         },
         {
@@ -3526,7 +3526,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 608
+                "code_commune": 641
             }
         },
         {
@@ -3547,7 +3547,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 623
+                "code_commune": 608
             }
         },
         {
@@ -3568,7 +3568,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 635
+                "code_commune": 646
             }
         },
         {
@@ -3736,7 +3736,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 627
+                "code_commune": 631
             }
         },
         {
@@ -3778,7 +3778,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 647
+                "code_commune": 649
             }
         },
         {
@@ -3799,7 +3799,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 601
+                "code_commune": 624
             }
         },
         {
@@ -3946,7 +3946,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 620
+                "code_commune": 616
             }
         },
         {
@@ -3988,7 +3988,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 628
+                "code_commune": 609
             }
         },
         {
@@ -4072,7 +4072,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 630
+                "code_commune": 627
             }
         },
         {
@@ -4114,7 +4114,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 636
+                "code_commune": 629
             }
         },
         {
@@ -9015,7 +9015,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.0,
+                    4,
                     36.5071
                 ]
             },
@@ -18150,7 +18150,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.0,
+                    0,
                     35.8307225
                 ]
             },
@@ -24660,7 +24660,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.0,
+                    7,
                     35.31491
                 ]
             },
@@ -29218,7 +29218,7 @@
                 "type": "Point",
                 "coordinates": [
                     0.1567,
-                    29.0
+                    29
                 ]
             },
             "properties": {
