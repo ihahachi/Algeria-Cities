@@ -1,4 +1,4 @@
-﻿﻿id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name;wilaya_name_fr;code_commune;Lat;Long
+﻿id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name;wilaya_name_fr;code_commune;Lat;Long
 1;تيمقتن;Timekten;أولف;Aoulef;1;أدرار;Adrar;113;27.021666;1.015
 2;بودة;Bouda;أدرار;Adrar;1;أدرار;Adrar;122;28.0142;-0.50254
 3;أولاد أحمد تيمي;Ouled Ahmed Timmi;أدرار;Adrar;1;أدرار;Adrar;121;27.851111;0.2863
@@ -18,35 +18,35 @@
 17;تلعصة;Talassa;أبو الحسن;Abou El Hassane;2;الشلف;Chlef;214;36.4288223;1.05
 18;الزبوجة;Zeboudja;الزبوجة;Zeboudja;2;الشلف;Chlef;220;36.350527;1.430283
 19;الحجاج;El Hadjadj;أولاد بن عبد القادر;Ouled Ben Abdelkader;2;الشلف;Chlef;227;36.0158333;1.3783333
-20;أولاد بن عبد القادر;Ouled Ben Abdelkader;أولاد بن عبد القادر;Ouled Ben Abdelkader;2;الشلف;Chlef;228;36.0258;1.28
-21;عين مران;Ain Merane;عين مران;Ain Merane;2;الشلف;Chlef;206;36.16277;0.97037
+20;أولاد بن عبد القادر;Ouled Ben Abdelkader;أولاد بن عبد القادر;Ouled Ben Abdelkader;2;الشلف;Chlef;230;36.0258;1.28
+21;عين مران;Ain Merane;عين مران;Ain Merane;2;الشلف;Chlef;232;36.16277;0.97037
 22;بريرة;Breira;بني حواء;Beni Haoua;2;الشلف;Chlef;234;36.4488017;1.6482
 23;أولاد عباس;Ouled Abbes;وادي الفضة;Oued Fodda;2;الشلف;Chlef;218;36.21909;1.483333333
-24;وادي الفضة;Oued Fodda;وادي الفضة;Oued Fodda;2;الشلف;Chlef;219;36.183333;1.5499211
-25;بني راشد;Beni Rached;وادي الفضة;Oued Fodda;2;الشلف;Chlef;233;36.280556;1.516111
+24;وادي الفضة;Oued Fodda;وادي الفضة;Oued Fodda;2;الشلف;Chlef;229;36.183333;1.5499211
+25;بني راشد;Beni Rached;وادي الفضة;Oued Fodda;2;الشلف;Chlef;213;36.280556;1.516111
 26;الهرانفة;Herenfa;عين مران;Ain Merane;2;الشلف;Chlef;215;36.245277;0.970516
 27;تاجنة;Tadjena;أبو الحسن;Abou El Hassane;2;الشلف;Chlef;205;36.3167;1.335167
 28;المرسى;El Marsa;المرسى;El Marsa;2;الشلف;Chlef;223;36.401579;0.9161822
 29;الشلف;Chlef;الشلف;Chlef;2;الشلف;Chlef;201;36.1647;1.3317
-30;أم الدروع;Oum Drou;الشلف;Chlef;2;الشلف;Chlef;222;36.2;1.3833
-31;سنجاس;Sendjas;الشلف;Chlef;2;الشلف;Chlef;221;36.0696;1.309028
+30;أم الدروع;Oum Drou;الشلف;Chlef;2;الشلف;Chlef;233;36.2;1.3833
+31;سنجاس;Sendjas;الشلف;Chlef;2;الشلف;Chlef;219;36.0696;1.309028
 32;سيدي عبد الرحمن;Sidi Abderrahmane;تنس;Tenes;2;الشلف;Chlef;225;36.4922766;1.0957418
 33;سيدي عكاشة;Sidi Akkacha;تنس;Tenes;2;الشلف;Chlef;211;36.46472;1.303
 34;تنس;Tenes;تنس;Tenes;2;الشلف;Chlef;202;36.509722;1.30809
 35;بني بوعتاب;Beni Bouattab;الكريمية;El Karimia;2;الشلف;Chlef;235;36.0019469;1.6469253
-36;الكريمية;El Karimia;الكريمية;El Karimia;2;الشلف;Chlef;213;36.116111;1.55
-37;حرشون;Harchoun;الكريمية;El Karimia;2;الشلف;Chlef;230;36.11354;1.506
+36;الكريمية;El Karimia;الكريمية;El Karimia;2;الشلف;Chlef;204;36.116111;1.55
+37;حرشون;Harchoun;الكريمية;El Karimia;2;الشلف;Chlef;209;36.11354;1.506
 38;بوزغاية;Bouzeghaia;الزبوجة;Zeboudja;2;الشلف;Chlef;231;36.338889;1.0503
-39;تاوقريت;Taougrit;تاوقريت;Taougrit;2;الشلف;Chlef;207;36.244723;0.922852
+39;تاوقريت;Taougrit;تاوقريت;Taougrit;2;الشلف;Chlef;206;36.244723;0.922852
 40;بني حواء;Beni Haoua;بني حواء;Beni Haoua;2;الشلف;Chlef;207;36.5311;1.56891
-41;أبو الحسن;Abou El Hassane;أبو الحسن;Abou El Hassane;2;الشلف;Chlef;218;36.4;1.1929114
+41;أبو الحسن;Abou El Hassane;أبو الحسن;Abou El Hassane;2;الشلف;Chlef;222;36.4;1.1929114
 42;وادي قوسين;Oued Goussine;بني حواء;Beni Haoua;2;الشلف;Chlef;216;36.525556;1.4967
 43;الشطية;Chettia;أولاد فارس;Ouled Fares;2;الشلف;Chlef;224;36.1589988;1.2409799
 44;مصدق;Moussadek;المرسى;El Marsa;2;الشلف;Chlef;226;36.3333333;0.7303
 45;أولاد فارس;Ouled Fares;أولاد فارس;Ouled Fares;2;الشلف;Chlef;210;36.2316052;1.236999
 46;بوقادير;Boukadir;بوقادير;Boukadir;2;الشلف;Chlef;212;36.066944;1.126
 47;وادي سلي;Oued Sly;بوقادير;Boukadir;2;الشلف;Chlef;221;36.1;1.2
-48;الصبحة;Sobha;بوقادير;Boukadir;2;الشلف;Chlef;258;36.1100346;1.110123
+48;الصبحة;Sobha;بوقادير;Boukadir;2;الشلف;Chlef;208;36.1100346;1.110123
 49;بنايرية;Benairia;الزبوجة;Zeboudja;2;الشلف;Chlef;203;36.3539;1.37403
 50;الأبيض مجاجة;Labiod Medjadja;أولاد فارس;Ouled Fares;2;الشلف;Chlef;228;36.2767832;1.3855161
 51;الظهرة;Dahra;تاوقريت;Taougrit;2;الشلف;Chlef;217;36.255278;0.85174
