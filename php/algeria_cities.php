@@ -3000,7 +3000,7 @@ return [
         'wilaya_code' => 8,
         'wilaya_name' => 'بشار',
         'wilaya_name_fr' => 'Béchar',
-        'code_commune' => 810,
+        'code_commune' => 809,
         'Lat' => 30.9322468,
         'Long' => -2.7375454,
     ],
