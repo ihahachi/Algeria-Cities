@@ -1,4 +1,4 @@
-﻿id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name;wilaya_name_fr;code_commune;Lat;Long
+id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name;wilaya_name_fr;code_commune;Lat;Long
 1;تيمقتن;Timekten;أولف;Aoulef;1;أدرار;Adrar;113;27.021666;1.015
 2;بودة;Bouda;أدرار;Adrar;1;أدرار;Adrar;122;28.0142;-0.50254
 3;أولاد أحمد تيمي;Ouled Ahmed Timmi;أدرار;Adrar;1;أدرار;Adrar;121;27.851111;0.2863
@@ -62,7 +62,7 @@
 61;حاسي الدلاعة;Hassi Delaa;حاسي الرمل;Hassi R'mel;3;الأغواط;Laghouat;305;33.41742;3.55021
 62;حاسي الرمل;Hassi R'mel;حاسي الرمل;Hassi R'mel;3;الأغواط;Laghouat;306;32.928;3.271
 63;عين ماضي;Ain Madhi;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;307;33.7956;2.3052
-64;الحويطة;El Haouaita;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;545;33.645394;2.444713
+64;الحويطة;El Haouaita;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;323;33.645394;2.444713
 65;الخنق;Kheneg;عين ماضي;Ain Madhi;3;الأغواط;Laghouat;309;33.744444;2.794
 66;بن ناصر بن شهرة;Benacer Benchohra;قصر الحيران;Ksar El Hirane;3;الأغواط;Laghouat;303;33.751463;3.002939
 67;فكيرينة;Fkirina;فكيرينة;F'kirina;4;أم البواقي;Oum El Bouaghi;416;35.663889;7.2989
@@ -1449,14 +1449,14 @@
 1448;حاسي القارة;Hassi Gara;المنيعة;El Menia;58;المنيعة;El Menia;5803;30.552222;2.915
 1449;حاسي الفحل;Hassi Fehal;المنصورة;Mansourah;58;المنيعة;El Menia;5802;31.605278;3.6762683
 1450;بريدة;Brida;بريدة;Brida;59;أفلو;Aflou;313;33.906111;1.784444
-1451;الحاج مشري;Hadj Mechri;بريدة;Brida;59;أفلو;Aflou;316;33.9571296;1.5992068
+1451;الحاج مشري;Hadj Mechri;بريدة;Brida;59;أفلو;Aflou;315;33.9571296;1.5992068
 1452;تاويالة;Taouiala;بريدة;Brida;59;أفلو;Aflou;317;33.87186;1.8606
 1453;الغيشة;El Ghicha;الغيشة;El Ghicha;59;أفلو;Aflou;314;33.930145;2.140703
 1454;سبقاق;Sebgag;أفلو;Aflou;59;أفلو;Aflou;302;34.02958;1.92798
 1455;سيدي بوزيد;Sidi Bouzid;أفلو;Aflou;59;أفلو;Aflou;308;34.342777;2.261389
 1456;وادي مرة;Oued Morra;وادي مرة;Oued Morra;59;أفلو;Aflou;321;34.1666669;2.3166669
 1457;وادي مزي;Oued M'zi;وادي مرة;Oued Morra;59;أفلو;Aflou;322;33.92422;2.4369
-1458;أفلو;Aflou;أفلو;Aflou;59;أفلو;Aflou;304;34.11279;2.1019
+1458;أفلو;Aflou;أفلو;Aflou;59;أفلو;Aflou;319;34.11279;2.1019
 1459;سقانة;Seggana;سقانة;Seggana;60;بريكة;Barika;529;35.365555;5.575
 1460;تيلاطو;Tilatou;سقانة;Seggana;60;بريكة;Barika;565;35.329167;5.8667
 1461;بريكة;Barika;بريكة;Barika;60;بريكة;Barika;542;35.3972;5.3658
