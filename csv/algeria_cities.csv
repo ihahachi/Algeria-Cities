@@ -68,18 +68,18 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 67;فكيرينة;Fkirina;فكيرينة;F'kirina;4;أم البواقي;Oum El Bouaghi;416;35.663889;7.2989
 68;الفجوج بوغرارة سعودي;El Fedjoudj Boughrara Sa;عين فكرون;Ain Fekroun;4;أم البواقي;Oum El Bouaghi;419;35.70805;6.816944
 69;عين فكرون;Ain Fekroun;عين فكرون;Ain Fekroun;4;أم البواقي;Oum El Bouaghi;425;35.9711;6.8737
-70;الرحية;Rahia;مسكيانة;Meskiana;4;أم البواقي;Oum El Bouaghi;417;35.716667;6.933333
-71;مسكيانة;Meskiana;مسكيانة;Meskiana;4;أم البواقي;Oum El Bouaghi;404;35.631;7.6669
-72;البلالة;El Belala;مسكيانة;Meskiana;4;أم البواقي;Oum El Bouaghi;413;35.665278;7.788333
+70;الرحية;Rahia;مسكيانة;Meskiana;4;أم البواقي;Oum El Bouaghi;426;35.716667;6.933333
+71;مسكيانة;Meskiana;مسكيانة;Meskiana;4;أم البواقي;Oum El Bouaghi;424;35.631;7.6669
+72;البلالة;El Belala;مسكيانة;Meskiana;4;أم البواقي;Oum El Bouaghi;407;35.665278;7.788333
 73;بحير الشرقي;Behir Chergui;مسكيانة;Meskiana;4;أم البواقي;Oum El Bouaghi;404;35.790804;7.6833
 74;قصر الصباحي;Ksar Sbahi;قصر الصباحي;Ksar Sbahi;4;أم البواقي;Oum El Bouaghi;422;36.0833;7.25
 75;سوق نعمان;Souk Naamane;سوق نعمان;Souk Naamane;4;أم البواقي;Oum El Bouaghi;417;35.895833;6.389444
 76;أولاد زواي;Ouled Zouai;سوق نعمان;Souk Naamane;4;أم البواقي;Oum El Bouaghi;420;35.836111;6.506667
 77;أم البواقي;Oum El Bouaghi;أم البواقي;Oum El Bouaghi;4;أم البواقي;Oum El Bouaghi;401;35.8706;7.117
-78;عين ببوش;Ain Babouche;عين ببوش;Ain Babouche;4;أم البواقي;Oum El Bouaghi;422;35.941111;7.1875
-79;عين الزيتون;Ain Zitoun;أم البواقي;Oum El Bouaghi;4;أم البواقي;Oum El Bouaghi;406;35.684444;6.9403
+78;عين ببوش;Ain Babouche;عين ببوش;Ain Babouche;4;أم البواقي;Oum El Bouaghi;408;35.941111;7.1875
+79;عين الزيتون;Ain Zitoun;أم البواقي;Oum El Bouaghi;4;أم البواقي;Oum El Bouaghi;427;35.684444;6.9403
 80;بئر الشهداء;Bir Chouhada;سوق نعمان;Souk Naamane;4;أم البواقي;Oum El Bouaghi;421;35.894444;6.29
-81;عين البيضاء;Ain Beida;عين البيضاء;Ain Beida;4;أم البواقي;Oum El Bouaghi;405;35.7981327;7.3921734
+81;عين البيضاء;Ain Beida;عين البيضاء;Ain Beida;4;أم البواقي;Oum El Bouaghi;402;35.7981327;7.3921734
 82;بريش;Berriche;عين البيضاء;Ain Beida;4;أم البواقي;Oum El Bouaghi;409;35.795833;7.37667
 83;الزرق;Zorg;عين البيضاء;Ain Beida;4;أم البواقي;Oum El Bouaghi;418;35.78777778;7.468055
 84;عين مليلة;Ain M'lila;عين مليلة;Ain M'lila;4;أم البواقي;Oum El Bouaghi;403;36.03823;6.57318
@@ -92,7 +92,7 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 91;الضلعة;Dhalaa;الضلعة;Dhalaa;4;أم البواقي;Oum El Bouaghi;411;35.461111;7.547222
 92;الجازية;El Djazia;الضلعة;Dhalaa;4;أم البواقي;Oum El Bouaghi;414;35.663154;7.5071271
 93;عين كرشة;Ain Kercha;عين كرشة;Ain Kercha;4;أم البواقي;Oum El Bouaghi;412;35.916667;6.68333
-94;الحرملية;El Harmilia;عين كرشة;Ain Kercha;4;أم البواقي;Oum El Bouaghi;424;35.923532;6.619263
+94;الحرملية;El Harmilia;عين كرشة;Ain Kercha;4;أم البواقي;Oum El Bouaghi;429;35.923532;6.619263
 95;هنشير تومغني;Hanchir Toumghani;عين كرشة;Ain Kercha;4;أم البواقي;Oum El Bouaghi;413;35.934722;6.7808
 96;معافة;Maafa;عين التوتة;Ain Touta;5;باتنة;Batna;503;35.266667;5.9198387
 97;القصبات;Gosbat;رأس العيون;Ras El Aioun;5;باتنة;Batna;539;35.6667;5.517
