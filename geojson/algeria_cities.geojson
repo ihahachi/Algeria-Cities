@@ -2211,7 +2211,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.0,
+                    6,
                     35.807778
                 ]
             },
@@ -4240,7 +4240,7 @@
                 "wilaya_code": 7,
                 "wilaya_name": "بسكرة",
                 "wilaya_name_fr": "Biskra",
-                "code_commune": 702
+                "code_commune": 723
             }
         },
         {
@@ -4261,7 +4261,7 @@
                 "wilaya_code": 7,
                 "wilaya_name": "بسكرة",
                 "wilaya_name_fr": "Biskra",
-                "code_commune": 702
+                "code_commune": 729
             }
         },
         {
@@ -4660,7 +4660,7 @@
                 "wilaya_code": 7,
                 "wilaya_name": "بسكرة",
                 "wilaya_name_fr": "Biskra",
-                "code_commune": 705
+                "code_commune": 721
             }
         },
         {

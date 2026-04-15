@@ -1375,7 +1375,7 @@
         "wilaya_name_fr": "Batna",
         "code_commune": 510,
         "Lat": 35.807778,
-        "Long": 6.0
+        "Long": 6
     },
     {
         "id": "107",
@@ -2621,7 +2621,7 @@
         "wilaya_code": 7,
         "wilaya_name": "بسكرة",
         "wilaya_name_fr": "Biskra",
-        "code_commune": 702,
+        "code_commune": 723,
         "Lat": 34.71753,
         "Long": 5.4289853
     },
@@ -2634,7 +2634,7 @@
         "wilaya_code": 7,
         "wilaya_name": "بسكرة",
         "wilaya_name_fr": "Biskra",
-        "code_commune": 702,
+        "code_commune": 729,
         "Lat": 34.8091667,
         "Long": 5.341111
     },
@@ -2881,7 +2881,7 @@
         "wilaya_code": 7,
         "wilaya_name": "بسكرة",
         "wilaya_name_fr": "Biskra",
-        "code_commune": 705,
+        "code_commune": 721,
         "Lat": 34.7214,
         "Long": 5.3802134
     },
