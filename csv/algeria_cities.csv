@@ -96,12 +96,12 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 95;هنشير تومغني;Hanchir Toumghani;عين كرشة;Ain Kercha;4;أم البواقي;Oum El Bouaghi;413;35.934722;6.7808
 96;معافة;Maafa;عين التوتة;Ain Touta;5;باتنة;Batna;503;35.266667;5.9198387
 97;القصبات;Gosbat;رأس العيون;Ras El Aioun;5;باتنة;Batna;539;35.6667;5.517
-98;تيمقاد;Timgad;تيمقاد;Timgad;5;باتنة;Batna;521;35.485165;6.4686
+98;تيمقاد;Timgad;تيمقاد;Timgad;5;باتنة;Batna;550;35.485165;6.4686
 99;تاكسلانت;Taxlent;أولاد سي سليمان;Ouled Si Slimane;5;باتنة;Batna;538;35.5333;5.81667
 100;أولاد سي سليمان;Ouled Si Slimane;أولاد سي سليمان;Ouled Si Slimane;5;باتنة;Batna;553;35.610833;5.632777
 101;لمسان;Lemcene;أولاد سي سليمان;Ouled Si Slimane;5;باتنة;Batna;527;35.7981327;5.8679
 102;تالخمت;Talkhamt;رأس العيون;Ras El Aioun;5;باتنة;Batna;534;35.665278;5.8667
-103;رأس العيون;Ras El Aioun;رأس العيون;Ras El Aioun;5;باتنة;Batna;536;35.675;5.65
+103;رأس العيون;Ras El Aioun;رأس العيون;Ras El Aioun;5;باتنة;Batna;551;35.675;5.65
 104;الرحبات;Rahbat;رأس العيون;Ras El Aioun;5;باتنة;Batna;525;35.5333;5.65
 105;أولاد سلام;Ouled Sellem;رأس العيون;Ras El Aioun;5;باتنة;Batna;520;35.8411857;5.8822
 106;القيقبة;Guigba;رأس العيون;Ras El Aioun;5;باتنة;Batna;510;35.807778;6
@@ -112,30 +112,30 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 111;حيدوسة;Hidoussa;مروانة;Merouana;5;باتنة;Batna;546;35.6375;5.9375
 112;قصر بلزمة;Ksar Bellezma;مروانة;Merouana;5;باتنة;Batna;528;35.67649;5.9033
 113;مروانة;Merouana;مروانة;Merouana;5;باتنة;Batna;504;35.63106;5.91186
-114;وادي الماء;Oued El Ma;مروانة;Merouana;5;باتنة;Batna;524;35.64527778;5.994722222
-115;لازرو;Lazrou;سريانة;Seriana;5;باتنة;Batna;524;35.7;6.2167
+114;وادي الماء;Oued El Ma;مروانة;Merouana;5;باتنة;Batna;533;35.64527778;5.994722222
+115;لازرو;Lazrou;سريانة;Seriana;5;باتنة;Batna;558;35.7;6.2167
 116;سريانة;Seriana;سريانة;Seriana;5;باتنة;Batna;505;35.691666;6.18639
 117;زانة البيضاء;Zanet El Beida;سريانة;Seriana;5;باتنة;Batna;554;35.809722;6.08512
 118;منعة;Menaa;منعة;Menaa;5;باتنة;Batna;506;35.1777;6.006775
-119;تغرغار;Tigharghar;منعة;Menaa;5;باتنة;Batna;5521;35.160278;6.0347
+119;تغرغار;Tigharghar;منعة;Menaa;5;باتنة;Batna;521;35.160278;6.0347
 120;عين ياقوت;Ain Yagout;المعذر;El Madher;5;باتنة;Batna;522;35.7746;6.41644
 121;بومية;Boumia;المعذر;El Madher;5;باتنة;Batna;559;35.677222;6.480833
 122;جرمة;Djerma;المعذر;El Madher;5;باتنة;Batna;513;35.6851412;6.3013432
 123;المعذر;El Madher;المعذر;El Madher;5;باتنة;Batna;507;35.63121;6.369152
 124;عيون العصافير;Ouyoun El Assafir;تازولت;Tazoult;5;باتنة;Batna;512;35.552203;6.3438785
-125;تازولت;Tazoult;تازولت;Tazoult;5;باتنة;Batna;519;35.489188;6.254311
+125;تازولت;Tazoult;تازولت;Tazoult;5;باتنة;Batna;508;35.489188;6.254311
 126;بومقر;Boumagueur;نقاوس;N'gaous;5;باتنة;Batna;541;35.5052;5.5525
 127;نقاوس;N Gaous;نقاوس;N'gaous;5;باتنة;Batna;509;35.561836;5.610924
 128;سفيان;Sefiane;نقاوس;N'gaous;5;باتنة;Batna;524;35.4414;5.5581
 129;أريس;Arris;أريس;Arris;5;باتنة;Batna;516;35.25881;6.34706
-130;تيغانمين;Tighanimine;أريس;Arris;5;باتنة;Batna;551;35.1955527;6.25
-131;عين جاسر;Ain Djasser;عين جاسر;Ain Djasser;5;باتنة;Batna;507;35.8308281;6.0044121
-132;الحاسي;El Hassi;عين جاسر;Ain Djasser;5;باتنة;Batna;5382;35.7227778;5.906111
-133;فم الطوب;Foum Toub;إشمول;Ichemoul;5;باتنة;Batna;550;35.405;6.549721
+130;تيغانمين;Tighanimine;أريس;Arris;5;باتنة;Batna;526;35.1955527;6.25
+131;عين جاسر;Ain Djasser;عين جاسر;Ain Djasser;5;باتنة;Batna;519;35.8308281;6.0044121
+132;الحاسي;El Hassi;عين جاسر;Ain Djasser;5;باتنة;Batna;557;35.7227778;5.906111
+133;فم الطوب;Foum Toub;إشمول;Ichemoul;5;باتنة;Batna;531;35.405;6.549721
 134;إشمول;Ichemoul;إشمول;Ichemoul;5;باتنة;Batna;530;35.310694;6.50382
 135;إينوغيسن;Inoughissen;إشمول;Ichemoul;5;باتنة;Batna;511;35.286388;6.55
 136;بوزينة;Bouzina;بوزينة;Bouzina;5;باتنة;Batna;535;35.2698953;6.0996978
-137;لارباع;Larbaa;بوزينة;Bouzina;5;باتنة;Batna;537;35.403889;6.11124
+137;لارباع;Larbaa;بوزينة;Bouzina;5;باتنة;Batna;561;35.403889;6.11124
 138;بولهيلات;Boulhilat;الشمرة;Chemora;5;باتنة;Batna;560;35.6752;6.6625
 139;الشمرة;Chemora;الشمرة;Chemora;5;باتنة;Batna;536;35.66528;6.5011
 140;غسيرة;Ghassira;تكوت;Tkout;5;باتنة;Batna;502;35.2576;6.20608
@@ -143,9 +143,9 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 142;تكوت;T Kout;تكوت;Tkout;5;باتنة;Batna;544;35.3339;6.30861
 143;عين التوتة;Ain Touta;عين التوتة;Ain Touta;5;باتنة;Batna;545;35.3991089;5.9198387
 144;بني فضالة الحقانية;Beni Foudhala El Hakania;عين التوتة;Ain Touta;5;باتنة;Batna;532;35.3525;5.8667
-145;أولاد فاضل;Ouled Fadel;تيمقاد;Timgad;5;باتنة;Batna;517;35.4843;6.6247
+145;أولاد فاضل;Ouled Fadel;تيمقاد;Timgad;5;باتنة;Batna;549;35.4843;6.6247
 146;أولاد عوف;Ouled Aouf;عين التوتة;Ain Touta;5;باتنة;Batna;540;35.45555556;5.756944
-147;شير;Chir;ثنية العابد;Theniet El Abed;5;باتنة;Batna;516;35.2135627;6
+147;شير;Chir;ثنية العابد;Theniet El Abed;5;باتنة;Batna;552;35.2135627;6
 148;وادي الطاقة;Oued Taga;ثنية العابد;Theniet El Abed;5;باتنة;Batna;548;35.4205;6.23
 149;سيدي عياد;Sidi Ayad;سيدي عيش;Sidi Aich;6;بجاية;Béjaïa;638;36.61667;4.75
 150;برباشة;Barbacha;برباشة;Barbacha;6;بجاية;Béjaïa;634;36.5667;4.96667
@@ -1458,12 +1458,12 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1457;وادي مزي;Oued M'zi;وادي مرة;Oued Morra;59;أفلو;Aflou;322;33.92422;2.4369
 1458;أفلو;Aflou;أفلو;Aflou;59;أفلو;Aflou;319;34.11279;2.1019
 1459;سقانة;Seggana;سقانة;Seggana;60;بريكة;Barika;529;35.365555;5.575
-1460;تيلاطو;Tilatou;سقانة;Seggana;60;بريكة;Barika;565;35.329167;5.8667
+1460;تيلاطو;Tilatou;سقانة;Seggana;60;بريكة;Barika;518;35.329167;5.8667
 1461;بريكة;Barika;بريكة;Barika;60;بريكة;Barika;542;35.3972;5.3658
 1462;بيطام;Bitam;بريكة;Barika;60;بريكة;Barika;514;35.0333;5.3
-1463;إمدوكل;M Doukal;بريكة;Barika;60;بريكة;Barika;525;35.121;5.485278
+1463;إمدوكل;M Doukal;بريكة;Barika;60;بريكة;Barika;555;35.121;5.485278
 1464;عزيل عبد القادر;Azil Abedelkader;الجزار;Djezzar;60;بريكة;Barika;515;35.3667;5.1833
-1465;الجزار;Djezzar;الجزار;Djezzar;60;بريكة;Barika;533;35.50956;5.26679
+1465;الجزار;Djezzar;الجزار;Djezzar;60;بريكة;Barika;543;35.50956;5.26679
 1466;أولاد عمار;Ouled Ammar;الجزار;Djezzar;60;بريكة;Barika;556;35.15;5.34
 1467;قصر الشلالة;Ksar Chellala;قصر الشلالة;Ksar Chellala;61;قصر الشلالة;Ksar Chellala;1429;35.21222;2.3189
 1468;سرغين;Serghine;قصر الشلالة;Ksar Chellala;61;قصر الشلالة;Ksar Chellala;1439;35.254444;2.30861
