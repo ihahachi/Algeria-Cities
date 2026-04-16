@@ -418,7 +418,7 @@
                 "wilaya_code": 2,
                 "wilaya_name": "الشلف",
                 "wilaya_name_fr": "Chlef",
-                "code_commune": 228
+                "code_commune": 230
             }
         },
         {
@@ -439,7 +439,7 @@
                 "wilaya_code": 2,
                 "wilaya_name": "الشلف",
                 "wilaya_name_fr": "Chlef",
-                "code_commune": 206
+                "code_commune": 232
             }
         },
         {
@@ -502,7 +502,7 @@
                 "wilaya_code": 2,
                 "wilaya_name": "الشلف",
                 "wilaya_name_fr": "Chlef",
-                "code_commune": 219
+                "code_commune": 229
             }
         },
         {
@@ -523,7 +523,7 @@
                 "wilaya_code": 2,
                 "wilaya_name": "الشلف",
                 "wilaya_name_fr": "Chlef",
-                "code_commune": 233
+                "code_commune": 213
             }
         },
         {
@@ -628,7 +628,7 @@
                 "wilaya_code": 2,
                 "wilaya_name": "الشلف",
                 "wilaya_name_fr": "Chlef",
-                "code_commune": 222
+                "code_commune": 233
             }
         },
         {
@@ -649,7 +649,7 @@
                 "wilaya_code": 2,
                 "wilaya_name": "الشلف",
                 "wilaya_name_fr": "Chlef",
-                "code_commune": 221
+                "code_commune": 219
             }
         },
         {
@@ -754,7 +754,7 @@
                 "wilaya_code": 2,
                 "wilaya_name": "الشلف",
                 "wilaya_name_fr": "Chlef",
-                "code_commune": 213
+                "code_commune": 204
             }
         },
         {
@@ -775,7 +775,7 @@
                 "wilaya_code": 2,
                 "wilaya_name": "الشلف",
                 "wilaya_name_fr": "Chlef",
-                "code_commune": 230
+                "code_commune": 209
             }
         },
         {
@@ -817,7 +817,7 @@
                 "wilaya_code": 2,
                 "wilaya_name": "الشلف",
                 "wilaya_name_fr": "Chlef",
-                "code_commune": 207
+                "code_commune": 206
             }
         },
         {
@@ -859,7 +859,7 @@
                 "wilaya_code": 2,
                 "wilaya_name": "الشلف",
                 "wilaya_name_fr": "Chlef",
-                "code_commune": 218
+                "code_commune": 222
             }
         },
         {
@@ -1006,7 +1006,7 @@
                 "wilaya_code": 2,
                 "wilaya_name": "الشلف",
                 "wilaya_name_fr": "Chlef",
-                "code_commune": 258
+                "code_commune": 208
             }
         },
         {
@@ -1342,7 +1342,7 @@
                 "wilaya_code": 3,
                 "wilaya_name": "الأغواط",
                 "wilaya_name_fr": "Laghouat",
-                "code_commune": 545
+                "code_commune": 323
             }
         },
         {
@@ -1468,7 +1468,7 @@
                 "wilaya_code": 4,
                 "wilaya_name": "أم البواقي",
                 "wilaya_name_fr": "Oum El Bouaghi",
-                "code_commune": 417
+                "code_commune": 426
             }
         },
         {
@@ -1489,7 +1489,7 @@
                 "wilaya_code": 4,
                 "wilaya_name": "أم البواقي",
                 "wilaya_name_fr": "Oum El Bouaghi",
-                "code_commune": 404
+                "code_commune": 424
             }
         },
         {
@@ -1510,7 +1510,7 @@
                 "wilaya_code": 4,
                 "wilaya_name": "أم البواقي",
                 "wilaya_name_fr": "Oum El Bouaghi",
-                "code_commune": 413
+                "code_commune": 407
             }
         },
         {
@@ -1636,7 +1636,7 @@
                 "wilaya_code": 4,
                 "wilaya_name": "أم البواقي",
                 "wilaya_name_fr": "Oum El Bouaghi",
-                "code_commune": 422
+                "code_commune": 408
             }
         },
         {
@@ -1657,7 +1657,7 @@
                 "wilaya_code": 4,
                 "wilaya_name": "أم البواقي",
                 "wilaya_name_fr": "Oum El Bouaghi",
-                "code_commune": 406
+                "code_commune": 427
             }
         },
         {
@@ -1699,7 +1699,7 @@
                 "wilaya_code": 4,
                 "wilaya_name": "أم البواقي",
                 "wilaya_name_fr": "Oum El Bouaghi",
-                "code_commune": 405
+                "code_commune": 402
             }
         },
         {
@@ -1972,7 +1972,7 @@
                 "wilaya_code": 4,
                 "wilaya_name": "أم البواقي",
                 "wilaya_name_fr": "Oum El Bouaghi",
-                "code_commune": 424
+                "code_commune": 429
             }
         },
         {
@@ -2056,7 +2056,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 521
+                "code_commune": 550
             }
         },
         {
@@ -2161,7 +2161,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 536
+                "code_commune": 551
             }
         },
         {
@@ -2211,7 +2211,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.0,
+                    6,
                     35.807778
                 ]
             },
@@ -2392,7 +2392,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 524
+                "code_commune": 533
             }
         },
         {
@@ -2413,7 +2413,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 524
+                "code_commune": 558
             }
         },
         {
@@ -2497,7 +2497,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 5521
+                "code_commune": 521
             }
         },
         {
@@ -2623,7 +2623,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 519
+                "code_commune": 508
             }
         },
         {
@@ -2728,7 +2728,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 551
+                "code_commune": 526
             }
         },
         {
@@ -2749,7 +2749,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 507
+                "code_commune": 519
             }
         },
         {
@@ -2770,7 +2770,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 5382
+                "code_commune": 557
             }
         },
         {
@@ -2791,7 +2791,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 550
+                "code_commune": 531
             }
         },
         {
@@ -2875,7 +2875,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 537
+                "code_commune": 561
             }
         },
         {
@@ -3043,7 +3043,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 517
+                "code_commune": 549
             }
         },
         {
@@ -3072,7 +3072,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.0,
+                    6,
                     35.2135627
                 ]
             },
@@ -3085,7 +3085,7 @@
                 "wilaya_code": 5,
                 "wilaya_name": "باتنة",
                 "wilaya_name_fr": "Batna",
-                "code_commune": 516
+                "code_commune": 552
             }
         },
         {
@@ -3127,7 +3127,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 638
+                "code_commune": 621
             }
         },
         {
@@ -3190,7 +3190,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 652
+                "code_commune": 613
             }
         },
         {
@@ -3211,7 +3211,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 614
+                "code_commune": 639
             }
         },
         {
@@ -3253,7 +3253,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 627
+                "code_commune": 610
             }
         },
         {
@@ -3274,7 +3274,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 631
+                "code_commune": 640
             }
         },
         {
@@ -3295,7 +3295,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 642
+                "code_commune": 618
             }
         },
         {
@@ -3337,7 +3337,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 620
+                "code_commune": 645
             }
         },
         {
@@ -3358,7 +3358,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 626
+                "code_commune": 644
             }
         },
         {
@@ -3484,7 +3484,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 639
+                "code_commune": 612
             }
         },
         {
@@ -3505,7 +3505,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 645
+                "code_commune": 607
             }
         },
         {
@@ -3526,7 +3526,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 608
+                "code_commune": 641
             }
         },
         {
@@ -3547,7 +3547,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 623
+                "code_commune": 608
             }
         },
         {
@@ -3568,7 +3568,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 635
+                "code_commune": 646
             }
         },
         {
@@ -3736,7 +3736,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 627
+                "code_commune": 631
             }
         },
         {
@@ -3778,7 +3778,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 647
+                "code_commune": 649
             }
         },
         {
@@ -3799,7 +3799,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 601
+                "code_commune": 624
             }
         },
         {
@@ -3946,7 +3946,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 620
+                "code_commune": 616
             }
         },
         {
@@ -3988,7 +3988,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 628
+                "code_commune": 609
             }
         },
         {
@@ -4072,7 +4072,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 630
+                "code_commune": 627
             }
         },
         {
@@ -4114,7 +4114,7 @@
                 "wilaya_code": 6,
                 "wilaya_name": "بجاية",
                 "wilaya_name_fr": "Béjaïa",
-                "code_commune": 636
+                "code_commune": 629
             }
         },
         {
@@ -4240,7 +4240,7 @@
                 "wilaya_code": 7,
                 "wilaya_name": "بسكرة",
                 "wilaya_name_fr": "Biskra",
-                "code_commune": 702
+                "code_commune": 723
             }
         },
         {
@@ -4261,7 +4261,7 @@
                 "wilaya_code": 7,
                 "wilaya_name": "بسكرة",
                 "wilaya_name_fr": "Biskra",
-                "code_commune": 702
+                "code_commune": 729
             }
         },
         {
@@ -4660,7 +4660,7 @@
                 "wilaya_code": 7,
                 "wilaya_name": "بسكرة",
                 "wilaya_name_fr": "Biskra",
-                "code_commune": 705
+                "code_commune": 721
             }
         },
         {
@@ -4849,7 +4849,7 @@
                 "wilaya_code": 8,
                 "wilaya_name": "بشار",
                 "wilaya_name_fr": "Béchar",
-                "code_commune": 810
+                "code_commune": 809
             }
         },
         {
@@ -4933,7 +4933,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 925
+                "code_commune": 921
             }
         },
         {
@@ -4954,7 +4954,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 922
+                "code_commune": 915
             }
         },
         {
@@ -4975,7 +4975,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 916
+                "code_commune": 912
             }
         },
         {
@@ -4996,7 +4996,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 912
+                "code_commune": 909
             }
         },
         {
@@ -5017,7 +5017,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 926
+                "code_commune": 922
             }
         },
         {
@@ -5038,7 +5038,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 917
+                "code_commune": 913
             }
         },
         {
@@ -5059,7 +5059,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 921
+                "code_commune": 917
             }
         },
         {
@@ -5080,7 +5080,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 907
+                "code_commune": 911
             }
         },
         {
@@ -5101,7 +5101,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 927
+                "code_commune": 923
             }
         },
         {
@@ -5122,7 +5122,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 920
+                "code_commune": 916
             }
         },
         {
@@ -5143,7 +5143,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 918
+                "code_commune": 914
             }
         },
         {
@@ -5185,7 +5185,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 928
+                "code_commune": 924
             }
         },
         {
@@ -5206,7 +5206,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 920
+                "code_commune": 918
             }
         },
         {
@@ -5227,7 +5227,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 971
+                "code_commune": 907
             }
         },
         {
@@ -5248,7 +5248,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 972
+                "code_commune": 905
             }
         },
         {
@@ -5332,7 +5332,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 913
+                "code_commune": 910
             }
         },
         {
@@ -5353,7 +5353,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 923
+                "code_commune": 919
             }
         },
         {
@@ -5416,7 +5416,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 924
+                "code_commune": 920
             }
         },
         {
@@ -5437,7 +5437,7 @@
                 "wilaya_code": 9,
                 "wilaya_name": "البليدة",
                 "wilaya_name_fr": "Blida",
-                "code_commune": 9001
+                "code_commune": 901
             }
         },
         {
@@ -5605,7 +5605,7 @@
                 "wilaya_code": 10,
                 "wilaya_name": "البويرة",
                 "wilaya_name_fr": "Bouira",
-                "code_commune": 1007
+                "code_commune": 1022
             }
         },
         {
@@ -5878,7 +5878,7 @@
                 "wilaya_code": 10,
                 "wilaya_name": "البويرة",
                 "wilaya_name_fr": "Bouira",
-                "code_commune": 1025
+                "code_commune": 1040
             }
         },
         {
@@ -5920,7 +5920,7 @@
                 "wilaya_code": 10,
                 "wilaya_name": "البويرة",
                 "wilaya_name_fr": "Bouira",
-                "code_commune": 1039
+                "code_commune": 1027
             }
         },
         {
@@ -6046,7 +6046,7 @@
                 "wilaya_code": 10,
                 "wilaya_name": "البويرة",
                 "wilaya_name_fr": "Bouira",
-                "code_commune": 1003
+                "code_commune": 1008
             }
         },
         {
@@ -6067,7 +6067,7 @@
                 "wilaya_code": 10,
                 "wilaya_name": "البويرة",
                 "wilaya_name_fr": "Bouira",
-                "code_commune": 1002
+                "code_commune": 1035
             }
         },
         {
@@ -6088,7 +6088,7 @@
                 "wilaya_code": 10,
                 "wilaya_name": "البويرة",
                 "wilaya_name_fr": "Bouira",
-                "code_commune": 1024
+                "code_commune": 1044
             }
         },
         {
@@ -6151,7 +6151,7 @@
                 "wilaya_code": 10,
                 "wilaya_name": "البويرة",
                 "wilaya_name_fr": "Bouira",
-                "code_commune": 1013
+                "code_commune": 1026
             }
         },
         {
@@ -6172,7 +6172,7 @@
                 "wilaya_code": 10,
                 "wilaya_name": "البويرة",
                 "wilaya_name_fr": "Bouira",
-                "code_commune": 1034
+                "code_commune": 1015
             }
         },
         {
@@ -6634,7 +6634,7 @@
                 "wilaya_code": 12,
                 "wilaya_name": "تبسة",
                 "wilaya_name_fr": "Tébessa",
-                "code_commune": 1205
+                "code_commune": 1217
             }
         },
         {
@@ -6676,7 +6676,7 @@
                 "wilaya_code": 12,
                 "wilaya_name": "تبسة",
                 "wilaya_name_fr": "Tébessa",
-                "code_commune": 1205
+                "code_commune": 1221
             }
         },
         {
@@ -6718,7 +6718,7 @@
                 "wilaya_code": 12,
                 "wilaya_name": "تبسة",
                 "wilaya_name_fr": "Tébessa",
-                "code_commune": 1218
+                "code_commune": 1220
             }
         },
         {
@@ -6739,7 +6739,7 @@
                 "wilaya_code": 12,
                 "wilaya_name": "تبسة",
                 "wilaya_name_fr": "Tébessa",
-                "code_commune": 1215
+                "code_commune": 1219
             }
         },
         {
@@ -6781,7 +6781,7 @@
                 "wilaya_code": 12,
                 "wilaya_name": "تبسة",
                 "wilaya_name_fr": "Tébessa",
-                "code_commune": 1210
+                "code_commune": 1223
             }
         },
         {
@@ -6802,7 +6802,7 @@
                 "wilaya_code": 12,
                 "wilaya_name": "تبسة",
                 "wilaya_name_fr": "Tébessa",
-                "code_commune": 1214
+                "code_commune": 1204
             }
         },
         {
@@ -7012,7 +7012,7 @@
                 "wilaya_code": 13,
                 "wilaya_name": "تلمسان",
                 "wilaya_name_fr": "Tlemcen",
-                "code_commune": 1302
+                "code_commune": 1318
             }
         },
         {
@@ -7075,7 +7075,7 @@
                 "wilaya_code": 13,
                 "wilaya_name": "تلمسان",
                 "wilaya_name_fr": "Tlemcen",
-                "code_commune": 1304
+                "code_commune": 1302
             }
         },
         {
@@ -7180,7 +7180,7 @@
                 "wilaya_code": 13,
                 "wilaya_name": "تلمسان",
                 "wilaya_name_fr": "Tlemcen",
-                "code_commune": 1309
+                "code_commune": 1344
             }
         },
         {
@@ -7306,7 +7306,7 @@
                 "wilaya_code": 13,
                 "wilaya_name": "تلمسان",
                 "wilaya_name_fr": "Tlemcen",
-                "code_commune": 1341
+                "code_commune": 1338
             }
         },
         {
@@ -9015,7 +9015,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.0,
+                    4,
                     36.5071
                 ]
             },
@@ -18150,7 +18150,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.0,
+                    0,
                     35.8307225
                 ]
             },
@@ -24660,7 +24660,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.0,
+                    7,
                     35.31491
                 ]
             },
@@ -29218,7 +29218,7 @@
                 "type": "Point",
                 "coordinates": [
                     0.1567,
-                    29.0
+                    29
                 ]
             },
             "properties": {
@@ -30469,7 +30469,7 @@
                 "wilaya_code": 59,
                 "wilaya_name": "أفلو",
                 "wilaya_name_fr": "Aflou",
-                "code_commune": 316
+                "code_commune": 315
             }
         },
         {
@@ -30616,7 +30616,7 @@
                 "wilaya_code": 59,
                 "wilaya_name": "أفلو",
                 "wilaya_name_fr": "Aflou",
-                "code_commune": 304
+                "code_commune": 319
             }
         },
         {
@@ -30658,7 +30658,7 @@
                 "wilaya_code": 60,
                 "wilaya_name": "بريكة",
                 "wilaya_name_fr": "Barika",
-                "code_commune": 565
+                "code_commune": 518
             }
         },
         {
@@ -30721,7 +30721,7 @@
                 "wilaya_code": 60,
                 "wilaya_name": "بريكة",
                 "wilaya_name_fr": "Barika",
-                "code_commune": 525
+                "code_commune": 555
             }
         },
         {
@@ -30763,7 +30763,7 @@
                 "wilaya_code": 60,
                 "wilaya_name": "بريكة",
                 "wilaya_name_fr": "Barika",
-                "code_commune": 533
+                "code_commune": 543
             }
         },
         {
@@ -31876,7 +31876,7 @@
                 "wilaya_code": 67,
                 "wilaya_name": "بئر العاتر",
                 "wilaya_name_fr": "Bir El Ater",
-                "code_commune": 1223
+                "code_commune": 1209
             }
         },
         {
@@ -32275,7 +32275,7 @@
                 "wilaya_code": 69,
                 "wilaya_name": "العريشة",
                 "wilaya_name_fr": "El Aricha",
-                "code_commune": 1320
+                "code_commune": 1310
             }
         },
         {
