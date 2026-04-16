@@ -314,15 +314,15 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 313;بئر الذهب;Bir Dheheb;مرسط;Morsott;12;تبسة;Tébessa;1214;34.908056;7.938333
 314;صفصاف الوسرى;Saf Saf El Ouesra;أم علي;Oum Ali;12;تبسة;Tébessa;1207;34.9565856;8.2076282
 315;قريقر;Guorriguer;بئر مقدم;Bir Mokadem;12;تبسة;Tébessa;1216;35.422777;7.593333
-316;بكارية;Bekkaria;الكويف;El Kouif;12;تبسة;Tébessa;1205;35.366667;8.2422222
+316;بكارية;Bekkaria;الكويف;El Kouif;12;تبسة;Tébessa;1217;35.366667;8.2422222
 317;بولحاف الدير;Boulhaf Dyr;الكويف;El Kouif;12;تبسة;Tébessa;1225;35.52052;8.10581
-318;أم علي;Oum Ali;أم علي;Oum Ali;12;تبسة;Tébessa;1205;35.3333;8.3009
+318;أم علي;Oum Ali;أم علي;Oum Ali;12;تبسة;Tébessa;1221;35.3333;8.3009
 319;بوخضرة;Boukhadra;العوينات;El Aouinet;12;تبسة;Tébessa;1218;35.744444;8.0325
-320;الماء الابيض;El Malabiod;الماء الابيض;El Malabiod;12;تبسة;Tébessa;1218;35.2056;8.170556
-321;الونزة;Ouenza;الونزة;Ouenza;12;تبسة;Tébessa;1215;35.9533;8.12917
+320;الماء الابيض;El Malabiod;الماء الابيض;El Malabiod;12;تبسة;Tébessa;1220;35.2056;8.170556
+321;الونزة;Ouenza;الونزة;Ouenza;12;تبسة;Tébessa;1219;35.9533;8.12917
 322;المريج;El Meridj;الونزة;Ouenza;12;تبسة;Tébessa;1224;35.79308;8.22951
-323;عين الزرقاء;Ain Zerga;الونزة;Ouenza;12;تبسة;Tébessa;1210;35.648611;8.261111
-324;سطح قنطيس;Stah Guentis;العقلة;El Ogla;12;تبسة;Tébessa;1214;34.9984;7.30829
+323;عين الزرقاء;Ain Zerga;الونزة;Ouenza;12;تبسة;Tébessa;1223;35.648611;8.261111
+324;سطح قنطيس;Stah Guentis;العقلة;El Ogla;12;تبسة;Tébessa;1204;34.9984;7.30829
 325;العقلة;El Ogla;العقلة;El Ogla;12;تبسة;Tébessa;1213;35.183333;7.46762
 326;المزرعة;El Mezeraa;العقلة;El Ogla;12;تبسة;Tébessa;1227;35.266667;7.58
 327;بجن;Bedjene;العقلة;El Ogla;12;تبسة;Tébessa;1226;35.40417;7.4746519
@@ -1516,7 +1516,7 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1515;القنطرة;El Kantara;القنطرة;El Kantara;66;القنطرة;El Kantara;717;35.192365;5.6668306
 1516;عين زعطوط;Ain Zaatout;القنطرة;El Kantara;66;القنطرة;El Kantara;718;34.9080556;5.83
 1517;فركان;Ferkane;نقرين;Negrine;67;بئر العاتر;Bir El Ater;1228;34.56233;7.412222
-1518;نقرين;Negrine;نقرين;Negrine;67;بئر العاتر;Bir El Ater;1223;34.48593;7.5193093
+1518;نقرين;Negrine;نقرين;Negrine;67;بئر العاتر;Bir El Ater;1209;34.48593;7.5193093
 1519;العقلة المالحة;El Ogla El Malha;بئر العاتر;Bir El Ater;67;بئر العاتر;Bir El Ater;1215;35.121944;7.9402184
 1520;بئر العاتر;Bir-El-Ater;بئر العاتر;Bir El Ater;67;بئر العاتر;Bir El Ater;1202;34.74488;8.06
 1521;السواقي;Souagui;السواقي;Souaghi;68;قصر البخاري;Ksar El Boukhari;2633;36.1167;3.26446
