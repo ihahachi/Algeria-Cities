@@ -332,21 +332,21 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 331;تبسة;Tebessa;تبسة;Tebessa;12;تبسة;Tébessa;1201;35.405556;8.12417
 332;الحمامات;Hammamet;بئر مقدم;Bir Mokadem;12;تبسة;Tébessa;1208;35.590833;7.953
 333;الكويف;El Kouif;الكويف;El Kouif;12;تبسة;Tébessa;1211;35.498333;8.321944
-334;باب العسة;Bab El Assa;باب العسة;Bab El Assa;13;تلمسان;Tlemcen;1302;34.960317;-2.0318
+334;باب العسة;Bab El Assa;باب العسة;Bab El Assa;13;تلمسان;Tlemcen;1318;34.960317;-2.0318
 335;تيرني بني هديل;Terny Beni Hediel;منصورة;Mansourah;13;تلمسان;Tlemcen;1323;34.79583;-1.35812
 336;منصورة;Mansourah;منصورة;Mansourah;13;تلمسان;Tlemcen;1351;34.871111;-1.3379985
-337;بني مستر;Beni Mester;منصورة;Mansourah;13;تلمسان;Tlemcen;1304;34.87045;-1.42319
+337;بني مستر;Beni Mester;منصورة;Mansourah;13;تلمسان;Tlemcen;1302;34.87045;-1.42319
 338;عين غرابة;Ain Ghoraba;منصورة;Mansourah;13;تلمسان;Tlemcen;1349;34.713889;-1.389167
 339;شتوان;Chetouane;شتوان;Chetouane;13;تلمسان;Tlemcen;1350;34.9203342;-1.2975309
 340;عمير;Amieur;شتوان;Chetouane;13;تلمسان;Tlemcen;1314;35.035277;-1.24
 341;عين فزة;Ain Fezza;شتوان;Chetouane;13;تلمسان;Tlemcen;1312;34.87;-1.1868
-342;هنين;Honnaine;هنين;Honnaine;13;تلمسان;Tlemcen;1309;35.1789336;-1.6493532
+342;هنين;Honnaine;هنين;Honnaine;13;تلمسان;Tlemcen;1344;35.1789336;-1.6493532
 343;بني خلاد;Beni Khellad;هنين;Honnaine;13;تلمسان;Tlemcen;1348;35.1725;-1.5572
 344;ندرومة;Nedroma;ندرومة;Nedroma;13;تلمسان;Tlemcen;1340;35.01361;-1.748
 345;مسيردة الفواقة;M'sirda Fouaga;مرسى بن مهيدي;Marsa Ben Mehdi;13;تلمسان;Tlemcen;1330;35.019722;-2.065
 346;مرسى بن مهيدي;Marsa Ben M'hidi;مرسى بن مهيدي;Marsa Ben Mehdi;13;تلمسان;Tlemcen;1339;35.08669;-2.19771
 347;سيدي مجاهد;Sidi Medjahed;بني بوسعيد;Beni Boussaid;13;تلمسان;Tlemcen;1337;34.775277;-1.6367
-348;بني بوسعيد;Beni Boussaid;بني بوسعيد;Beni Boussaid;13;تلمسان;Tlemcen;1341;34.65;-1.75306
+348;بني بوسعيد;Beni Boussaid;بني بوسعيد;Beni Boussaid;13;تلمسان;Tlemcen;1338;34.65;-1.75306
 349;بوحلو;Bouhlou;صبرة;Sabra;13;تلمسان;Tlemcen;1347;34.773889;-1.5731
 350;مغنية;Maghnia;مغنية;Maghnia;13;تلمسان;Tlemcen;1327;34.8534497;-1.730556
 351;حمام بوغرارة;Hammam Boughrara;مغنية;Maghnia;13;تلمسان;Tlemcen;1328;34.8935;-1.6386
@@ -1535,7 +1535,7 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1534;سيدي الجيلالي;Sidi Djillali;سيدي الجيلالي;Sidi Djillali;69;العريشة;El Aricha;1341;34.4609;-1.5664
 1535;البويهي;Bouihi;سيدي الجيلالي;Sidi Djillali;69;العريشة;El Aricha;1343;34.413889;1.015
 1536;سبدو;Sebdou;سبدو;Sebdou;69;العريشة;El Aricha;1335;34.639444;-1.32694
-1537;القور;El Gor;سبدو;Sebdou;69;العريشة;El Aricha;1320;34.63797;-1.15296
+1537;القور;El Gor;سبدو;Sebdou;69;العريشة;El Aricha;1310;34.63797;-1.15296
 1538;العريشة;El Aricha;سبدو;Sebdou;69;العريشة;El Aricha;1332;34.22259;-1.257
 1539;بني بهدل;Beni Bahdel;بني سنوس;Beni Snous;69;العريشة;El Aricha;1342;34.693889;-1.5186
 1540;بني سنوس;Beni Snous;بني سنوس;Beni Snous;69;العريشة;El Aricha;1317;34.6593136;-1.5450766
