@@ -265,7 +265,7 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 264;ريدان;Ridane;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1032;36.073888;3.46166
 265;المعمورة;Maamora;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1039;36.033056;3.62017
 266;الحاكمية;El-Hakimia;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1020;36.0914921;3.7806
-267;أهل القصر;Ahl El Ksar;بشلول;Bechloul;10;البويرة;Bouira;1007;36.2549;4.03944
+267;أهل القصر;Ahl El Ksar;بشلول;Bechloul;10;البويرة;Bouira;1022;36.2549;4.03944
 268;ديرة;Dirah;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1007;36.0003;3.65992
 269;الدشمية;Dechmia;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1031;36.13;3.5767
 270;بشلول;Bechloul;بشلول;Bechloul;10;البويرة;Bouira;1033;36.316667;4.075
@@ -278,21 +278,21 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 277;سور الغزلان;Sour El Ghozlane;سور الغزلان;Sour El Ghozlane;10;البويرة;Bouira;1038;36.14766;3.69123
 278;حنيف;Hanif;مشد الله;M'chedallah;10;البويرة;Bouira;1006;36.335801;4.34149
 279;شرفة;Chorfa;مشد الله;M'chedallah;10;البويرة;Bouira;1017;36.36505;4.323611
-280;أولاد راشد;Ouled Rached;بشلول;Bechloul;10;البويرة;Bouira;1025;36.21525;4.1106
+280;أولاد راشد;Ouled Rached;بشلول;Bechloul;10;البويرة;Bouira;1040;36.21525;4.1106
 281;عين الحجر;Ain El Hadjar;عين بسام;Ain Bessem;10;البويرة;Bouira;1025;36.33889;3.806389
-282;أغبالو;Aghbalou;مشد الله;M'chedallah;10;البويرة;Bouira;1039;36.3713916;4.225
+282;أغبالو;Aghbalou;مشد الله;M'chedallah;10;البويرة;Bouira;1027;36.3713916;4.225
 283;روراوة;Raouraoua;بئر غبالو;Bir Ghbalou;10;البويرة;Bouira;1010;36.55528;3.7375
 284;الخبوزية;El Khabouzia;بئر غبالو;Bir Ghbalou;10;البويرة;Bouira;1021;36.3159;3.6008333
 285;بئر غبالو;Bir Ghbalou;بئر غبالو;Bir Ghbalou;10;البويرة;Bouira;1036;36.26416667;3.7224
 286;البويرة;Bouira;البويرة;Bouira;10;البويرة;Bouira;1001;36.37763;3.8962348
 287;عين الترك;Ain Turk;البويرة;Bouira;10;البويرة;Bouira;1029;36.3932;3.8246
-288;أيت لعزيز;Ait Laaziz;البويرة;Bouira;10;البويرة;Bouira;1003;36.4428933;3.90864
-289;عين بسام;Ain-Bessem;عين بسام;Ain Bessem;10;البويرة;Bouira;1002;36.296667;3.67
-290;المقراني;El-Mokrani;سوق الخميس;Souk El Khemis;10;البويرة;Bouira;1024;36.42889;3.60375
+288;أيت لعزيز;Ait Laaziz;البويرة;Bouira;10;البويرة;Bouira;1008;36.4428933;3.90864
+289;عين بسام;Ain-Bessem;عين بسام;Ain Bessem;10;البويرة;Bouira;1035;36.296667;3.67
+290;المقراني;El-Mokrani;سوق الخميس;Souk El Khemis;10;البويرة;Bouira;1044;36.42889;3.60375
 291;سوق الخميس;Souk El Khemis;سوق الخميس;Souk El Khemis;10;البويرة;Bouira;1004;36.388056;3.635
 292;أعمر;Aomar;القادرية;Kadiria;10;البويرة;Bouira;1016;36.4925;3.794
-293;جباحية;Djebahia;القادرية;Kadiria;10;البويرة;Bouira;1013;36.4764;3.7588
-294;الهاشمية;El Hachimia;الهاشمية;El Hachimia;10;البويرة;Bouira;1034;36.24071;3.8161
+293;جباحية;Djebahia;القادرية;Kadiria;10;البويرة;Bouira;1026;36.4764;3.7588
+294;الهاشمية;El Hachimia;الهاشمية;El Hachimia;10;البويرة;Bouira;1015;36.24071;3.8161
 295;حيزر;Haizer;الحيزر;Haizer;10;البويرة;Bouira;1012;36.39702;3.99917
 296;تاغزوت;Taghzout;الحيزر;Haizer;10;البويرة;Bouira;1009;36.3167;3.9667
 297;بودربالة;Bouderbala;الأخضرية;Lakhdaria;10;البويرة;Bouira;1023;36.58;3.5089
