@@ -382,21 +382,21 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 381;السبعين;Sebaine;مهدية;Mahdia;14;تيارت;Tiaret;1425;34.63797;1.603611
 382;الفايجة;Faidja;السوقر;Sougueur;14;تيارت;Tiaret;1441;34.87;1.705556
 383;سي عبد الغني;Si Abdelghani;السوقر;Sougueur;14;تيارت;Tiaret;1417;35.2194;1.638611
-384;السوقر;Sougueur;السوقر;Sougueur;14;تيارت;Tiaret;1401;35.18568;1.49612
+384;السوقر;Sougueur;السوقر;Sougueur;14;تيارت;Tiaret;1416;35.18568;1.49612
 385;توسنينة;Tousnina;السوقر;Sougueur;14;تيارت;Tiaret;1426;34.02;1.276389
 386;مغيلة;Meghila;مغيلة;Meghila;14;تيارت;Tiaret;1421;35.5964786;1.4136
 387;السبت;Sebt;مغيلة;Meghila;14;تيارت;Tiaret;1411;35.656111;1.3728
 388;سيدي حسني;Sidi Hosni;مغيلة;Meghila;14;تيارت;Tiaret;1423;35.4711;1.521582
-389;عين الحديد;Ain El Hadid;فرندة;Frenda;14;تيارت;Tiaret;1405;35.05783;0.88479
+389;عين الحديد;Ain El Hadid;فرندة;Frenda;14;تيارت;Tiaret;1418;35.05783;0.88479
 390;فرندة;Frenda;فرندة;Frenda;14;تيارت;Tiaret;1427;35.05;1.0538252
 391;تخمرت;Takhemaret;فرندة;Frenda;14;تيارت;Tiaret;1437;35.035;0.683333333
-392;عين كرمس;Ain Kermes;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1419;34.908176;1.10807
-393;جبيلات الرصفاء;Djebilet Rosfa;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1402;34.86375;1.015
-394;مادنة;Madna;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1404;34.753055;0.98278
+392;عين كرمس;Ain Kermes;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1428;34.908176;1.10807
+393;جبيلات الرصفاء;Djebilet Rosfa;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1419;34.86375;1.015
+394;مادنة;Madna;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1410;34.753055;0.98278
 395;مدريسة;Medrissa;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1408;34.8959;1.2407
 396;سيدي عبد الرحمن;Sidi Abderrahmane;عين كرمس;Ain Kermes;14;تيارت;Tiaret;1438;34.79861;1.130278
 397;قرطوفة;Guertoufa;رحوية;Rahouia;14;تيارت;Tiaret;1422;35.393056;1.25
-398;وادي ليلي;Oued Lilli;وادي ليلي;Oued Lili;14;تيارت;Tiaret;1440;35.5107;1.2713
+398;وادي ليلي;Oued Lilli;وادي ليلي;Oued Lili;14;تيارت;Tiaret;1433;35.5107;1.2713
 399;سيدي علي ملال;Sidi Ali Mellal;وادي ليلي;Oued Lili;14;تيارت;Tiaret;1404;35.563333;1.2256
 400;جيلالي بن عمار;Djillali Ben Amar;مشرع الصفا;Mechraa Sfa;14;تيارت;Tiaret;1424;35.44444;0.84972221
 401;مشرع الصفا;Mechraa Safa;مشرع الصفا;Mechraa Sfa;14;تيارت;Tiaret;1434;35.38388889;1.03803
@@ -408,7 +408,7 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 407;ملاكو;Mellakou;مدروسة;Medroussa;14;تيارت;Tiaret;1412;35.2497888;1.2337661
 408;سيدي بختي;Sidi Bakhti;مدروسة;Medroussa;14;تيارت;Tiaret;1407;35.156111;0.9783
 409;عين الذهب;Ain Deheb;عين الذهب;Ain Deheb;14;تيارت;Tiaret;1406;34.8422;1.5450766
-410;شحيمة;Chehaima;عين الذهب;Ain Deheb;14;تيارت;Tiaret;1421;34.8959;1.3047556
+410;شحيمة;Chehaima;عين الذهب;Ain Deheb;14;تيارت;Tiaret;1436;34.8959;1.3047556
 411;النعيمة;Naima;عين الذهب;Ain Deheb;14;تيارت;Tiaret;1420;34.639444;1.4775
 412;عين بوشقيف;Ain Bouchekif;دحموني;Dahmouni;14;تيارت;Tiaret;1403;35.355833;1.51056
 413;دحموني;Dahmouni;دحموني;Dahmouni;14;تيارت;Tiaret;1413;35.4157148;1.483333
@@ -1469,7 +1469,7 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1468;سرغين;Serghine;قصر الشلالة;Ksar Chellala;61;قصر الشلالة;Ksar Chellala;1439;35.254444;2.30861
 1469;زمالة الأمير عبد القادر;Zmalet El Emir Abdelkade;قصر الشلالة;Ksar Chellala;61;قصر الشلالة;Ksar Chellala;1409;34.89336;2.31
 1470;بوقرة;Bougara;حمادية;Hamadia;61;قصر الشلالة;Ksar Chellala;1440;35.553333;2.545
-1471;حمادية;Hamadia;حمادية;Hamadia;61;قصر الشلالة;Ksar Chellala;1417;35.45918;1.87316
+1471;حمادية;Hamadia;حمادية;Hamadia;61;قصر الشلالة;Ksar Chellala;1435;35.45918;1.87316
 1472;الرشايقة;Rechaiga;حمادية;Hamadia;61;قصر الشلالة;Ksar Chellala;1430;35.4081;1.9739
 1473;سلمانة;Selmana;مسعد;Messaad;62;مسعد;Messaad;1722;34.16440361;3.562011761
 1474;سد الرحال;Sed Rahal;مسعد;Messaad;62;مسعد;Messaad;1706;33.948333;3.231111
