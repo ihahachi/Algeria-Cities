@@ -540,20 +540,20 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 539;حاسي العش;Hassi El Euch;حاسي بحبح;Hassi Bahbah;17;الجلفة;Djelfa;1716;35.15200699;3.248451487
 540;عين الإبل;Ain El Ibel;عين الإبل;Ain El Ibel;17;الجلفة;Djelfa;1730;34.35472;3.2239
 541;القديد;El Guedid;الشارف;Charef;17;الجلفة;Djelfa;1703;34.64650126;2.616250107
-542;الشارف;Charef;الشارف;Charef;17;الجلفة;Djelfa;1704;34.621;2.80111
+542;الشارف;Charef;الشارف;Charef;17;الجلفة;Djelfa;1726;34.621;2.80111
 543;بن يعقوب;Benyagoub;الشارف;Charef;17;الجلفة;Djelfa;1727;34.46649223;2.784077409
 544;سيدي بايزيد;Sidi Baizid;دار الشيوخ;Dar Chioukh;17;الجلفة;Djelfa;1712;35.058055;3.430556
-545;مليليحة;M'liliha;دار الشيوخ;Dar Chioukh;17;الجلفة;Djelfa;1736;34.71228784;3.765454396
+545;مليليحة;M'liliha;دار الشيوخ;Dar Chioukh;17;الجلفة;Djelfa;1713;34.71228784;3.765454396
 546;دار الشيوخ;Dar Chioukh;دار الشيوخ;Dar Chioukh;17;الجلفة;Djelfa;1725;34.9;3.4833
 547;تعظميت;Taadmit;عين الإبل;Ain El Ibel;17;الجلفة;Djelfa;1736;34.286667;2.988611
-548;زكار;Zaccar;عين الإبل;Ain El Ibel;17;الجلفة;Djelfa;1705;34.430832;3.327222
+548;زكار;Zaccar;عين الإبل;Ain El Ibel;17;الجلفة;Djelfa;1710;34.430832;3.327222
 549;دويس;Douis;الادريسية;El Idrissia;17;الجلفة;Djelfa;1715;34.3683656;2.701075597
-550;الادريسية;El Idrissia;الادريسية;El Idrissia;17;الجلفة;Djelfa;1709;34.4548511;2.5247449
+550;الادريسية;El Idrissia;الادريسية;El Idrissia;17;الجلفة;Djelfa;1714;34.4548511;2.5247449
 551;عين الشهداء;Ain Chouhada;الادريسية;El Idrissia;17;الجلفة;Djelfa;1723;34.2413281;2.522269
 552;الجلفة;Djelfa;الجلفة;Djelfa;17;الجلفة;Djelfa;1701;34.67279;3.25
 553;زعفران;Zaafrane;حاسي بحبح;Hassi Bahbah;17;الجلفة;Djelfa;1728;34.850833;2.856944
 554;عين معبد;Ain Maabed;حاسي بحبح;Hassi Bahbah;17;الجلفة;Djelfa;1705;34.8056891;3.13333333
-555;حاسي بحبح;Hassi Bahbah;حاسي بحبح;Hassi Bahbah;17;الجلفة;Djelfa;1706;35.0782285;3.0297
+555;حاسي بحبح;Hassi Bahbah;حاسي بحبح;Hassi Bahbah;17;الجلفة;Djelfa;1704;35.0782285;3.0297
 556;مجبارة;Moudjebara;عين الإبل;Ain El Ibel;17;الجلفة;Djelfa;1702;34.5040006;3.470436
 557;جيجل;Jijel;جيجل;Jijel;18;جيجل;Jijel;1801;36.82055;5.7667
 558;العوانة;El Aouana;العوانة;El Aouana;18;جيجل;Jijel;1805;36.7727264;5.61
@@ -1484,11 +1484,11 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1483;عين فقه;Ain Fekka;حد الصحاري;Had Sahary;63;عين وسارة;Ain Oussera;1735;35.433333;3.583333333
 1484;سيدي لعجال;Sidi Laadjel;سيدي لعجال;Sidi Laadjel;63;عين وسارة;Ain Oussera;1719;35.438055;2.5
 1485;حاسي فدول;Hassi Fedoul;سيدي لعجال;Sidi Laadjel;63;عين وسارة;Ain Oussera;1733;35.436666;2.2142
-1486;الخميس;El Khemis;سيدي لعجال;Sidi Laadjel;63;عين وسارة;Ain Oussera;1716;35.5397;2.515833
+1486;الخميس;El Khemis;سيدي لعجال;Sidi Laadjel;63;عين وسارة;Ain Oussera;1711;35.5397;2.515833
 1487;بيرين;Birine;بيرين;Birine;63;عين وسارة;Ain Oussera;1708;35.6383108;3.2869
 1488;قرنيني;Guernini;عين وسارة;Ain Oussera;63;عين وسارة;Ain Oussera;1721;35.19970336;2.682895682
 1489;عين وسارة;Ain Oussera;عين وسارة;Ain Oussera;63;عين وسارة;Ain Oussera;1731;35.4542653;2.904444
-1490;بنهار;Benhar;بيرين;Birine;63;عين وسارة;Ain Oussera;1718;35.4859395;3.1081
+1490;بنهار;Benhar;بيرين;Birine;63;عين وسارة;Ain Oussera;1732;35.4859395;3.1081
 1491;بن زوه;Benzouh;أولاد سيدي ابراهيم;Ouled Sidi Brahim;64;بوسعادة;Boussaâda;2835;35.438055;4.383333
 1492;أولاد سيدي ابراهيم;Ouled Sidi Brahim;أولاد سيدي ابراهيم;Ouled Sidi Brahim;64;بوسعادة;Boussaâda;2823;36.2;4.174722
 1493;سيدي عامر;Sidi Ameur;سيدي عامر;Sidi Ameur;64;بوسعادة;Boussaâda;2826;35.3667;3.9066533
