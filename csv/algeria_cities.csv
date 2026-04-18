@@ -424,17 +424,17 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 423;تيزي نثلاثة;Tizi N'tleta;واضية;Ouadhias;15;تيزي وزو;Tizi Ouzou;1551;36.5457;4.057
 424;أغريب;Aghribs;أزفون;Azeffoun;15;تيزي وزو;Tizi Ouzou;1553;36.802222;4.3227777
 425;أيت شافع;Ait-Chafaa;أزفون;Azeffoun;15;تيزي وزو;Tizi Ouzou;1513;36.81702;4.53358
-426;أقرو;Akerrou;أزفون;Azeffoun;15;تيزي وزو;Tizi Ouzou;1550;36.7992;4.4206
-427;أزفون;Azeffoun;أزفون;Azeffoun;15;تيزي وزو;Tizi Ouzou;1502;36.8895311;4.4240151
+426;أقرو;Akerrou;أزفون;Azeffoun;15;تيزي وزو;Tizi Ouzou;1544;36.7992;4.4206
+427;أزفون;Azeffoun;أزفون;Azeffoun;15;تيزي وزو;Tizi Ouzou;1537;36.8895311;4.4240151
 428;إفليـــسن;Iflissen;تيقزيرت;Tigzirt;15;تيزي وزو;Tizi Ouzou;1554;36.89623;4.2230836
 429;تيقـزيرت;Tigzirt;تيقزيرت;Tigzirt;15;تيزي وزو;Tizi Ouzou;1538;36.89623;4.12142
-430;أسي يوسف;Assi-Youcef;بوغني;Boghni;15;تيزي وزو;Tizi Ouzou;1530;36.5071;4
+430;أسي يوسف;Assi-Youcef;بوغني;Boghni;15;تيزي وزو;Tizi Ouzou;1566;36.5071;4
 431;بوغني;Boghni;بوغني;Boghni;15;تيزي وزو;Tizi Ouzou;1540;36.54222;3.95306
 432;بونوح;Bounouh;بوغني;Boghni;15;تيزي وزو;Tizi Ouzou;1512;36.49935;4.07056
 433;مشطراس;Mechtras;بوغني;Boghni;15;تيزي وزو;Tizi Ouzou;1506;36.53117;3.9981
 434;ذراع بن خدة;Draa-Ben-Khedda;ذراع بن خدة;Draa Ben Khedda;15;تيزي وزو;Tizi Ouzou;1547;36.7309604;3.9652509
 435;سيدي نعمان;Sidi Namane;ذراع بن خدة;Draa Ben Khedda;15;تيزي وزو;Tizi Ouzou;1559;36.7169;3.9839
-436;تادمايت;Tadmait;ذراع بن خدة;Draa Ben Khedda;15;تيزي وزو;Tizi Ouzou;1523;36.74413;3.90045
+436;تادمايت;Tadmait;ذراع بن خدة;Draa Ben Khedda;15;تيزي وزو;Tizi Ouzou;1564;36.74413;3.90045
 437;تيرمتين;Tirmitine;ذراع بن خدة;Draa Ben Khedda;15;تيزي وزو;Tizi Ouzou;1543;36.66180861;3.984722
 438;أيت بومهدي;Ait Boumahdi;واسيف;Ouacif;15;تيزي وزو;Tizi Ouzou;1530;36.4883;4.1820961
 439;أيت تودرت;Ait-Toudert;واسيف;Ouacif;15;تيزي وزو;Tizi Ouzou;1567;36.6914;4.1615
@@ -448,13 +448,13 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 447;تيزي وزو;Tizi-Ouzou;تيزي وزو;Tizi Ouzou;15;تيزي وزو;Tizi Ouzou;1501;36.733333;4.05
 448;أبي يوسف;Abi-Youcef;عين الحمام;Ain El Hammam;15;تيزي وزو;Tizi Ouzou;1531;36.538333;4.343889
 449;عين الحمام;Ain-El-Hammam;عين الحمام;Ain El Hammam;15;تيزي وزو;Tizi Ouzou;1502;36.57056;4.31111
-450;أيت يحيى;Ait-Yahia;عين الحمام;Ain El Hammam;15;تيزي وزو;Tizi Ouzou;1515;36.6066637;4.330278
+450;أيت يحيى;Ait-Yahia;عين الحمام;Ain El Hammam;15;تيزي وزو;Tizi Ouzou;1527;36.6066637;4.330278
 451;اقبيل;Akbil;عين الحمام;Ain El Hammam;15;تيزي وزو;Tizi Ouzou;1503;36.4995515;4.3051542
 452;بوجيمة;Boudjima;ماكودة;Makouda;15;تيزي وزو;Tizi Ouzou;1555;36.802;4.1481
 453;ماكودة;Makouda;ماكودة;Makouda;15;تيزي وزو;Tizi Ouzou;1509;36.791944;4.063
-454;عين الزاوية;Ain-Zaouia;ذراع الميزان;Draa El Mizan;15;تيزي وزو;Tizi Ouzou;1502;36.5504491;3.89416
+454;عين الزاوية;Ain-Zaouia;ذراع الميزان;Draa El Mizan;15;تيزي وزو;Tizi Ouzou;1525;36.5504491;3.89416
 455;أيت يحي موسى;Ait Yahia Moussa;ذراع الميزان;Draa El Mizan;15;تيزي وزو;Tizi Ouzou;1556;36.64111111;3.89
-456;ذراع الميزان;Draa-El-Mizan;ذراع الميزان;Draa El Mizan;15;تيزي وزو;Tizi Ouzou;1527;36.536;3.833
+456;ذراع الميزان;Draa-El-Mizan;ذراع الميزان;Draa El Mizan;15;تيزي وزو;Tizi Ouzou;1510;36.536;3.833
 457;فريقات;Frikat;ذراع الميزان;Draa El Mizan;15;تيزي وزو;Tizi Ouzou;1514;36.4926443;3.99472221
 458;مكيرة;M'kira;تيزي غنيف;Tizi-Ghenif;15;تيزي وزو;Tizi Ouzou;1526;36.6253;3.993611
 459;تيزي غنيف;Tizi-Gheniff;تيزي غنيف;Tizi-Ghenif;15;تيزي وزو;Tizi Ouzou;1511;36.58839;3.77445
@@ -462,24 +462,24 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 461;إيلـيــلتـن;Illilten;إفرحونان;Iferhounene;15;تيزي وزو;Tizi Ouzou;1533;36.5167;4.0497
 462;إمســوحال;Imsouhal;إفرحونان;Iferhounene;15;تيزي وزو;Tizi Ouzou;1563;36.574444;4.39
 463;عزازقة;Azazga;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1518;36.74472;4.37222
-464;فريحة;Freha;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1506;36.76124;4.3194
+464;فريحة;Freha;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1504;36.76124;4.3194
 465;إيفيغاء;Ifigha;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1541;36.671389;4.469722
-466;إعــكورن;Yakourene;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1525;36.7305;4.438611
-467;زكري;Zekri;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1533;36.78027778;4.5531
+466;إعــكورن;Yakourene;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1520;36.7305;4.438611
+467;زكري;Zekri;عزازقة;Azazga;15;تيزي وزو;Tizi Ouzou;1523;36.78027778;4.5531
 468;أيت عقـواشة;Ait Aggouacha;الأربعاء ناث إيراثن;Larbaa Nath Iraten;15;تيزي وزو;Tizi Ouzou;1535;36.617777;4.23
 469;إيرجـــن;Irdjen;الأربعاء ناث إيراثن;Larbaa Nath Iraten;15;تيزي وزو;Tizi Ouzou;1507;36.6562;4.140165
 470;الأربعــاء ناث إيراثن;Larbaa Nath Irathen;الأربعاء ناث إيراثن;Larbaa Nath Iraten;15;تيزي وزو;Tizi Ouzou;1521;36.63667;4.206709
 471;أيت أومالو;Ait-Oumalou;تيزي راشد;Tizi Rached;15;تيزي وزو;Tizi Ouzou;1542;36.6586389;4.2282093
 472;تيزي راشد;Tizi-Rached;تيزي راشد;Tizi Rached;15;تيزي وزو;Tizi Ouzou;1522;36.6799518;4.2087286
 473;أيت عيسى ميمون;Ait-Aissa-Mimoun;واقنون;Ouaguenoun;15;تيزي وزو;Tizi Ouzou;1539;36.7486964;4.1156
-474;واقنون;Ouaguenoun;واقنون;Ouaguenoun;15;تيزي وزو;Tizi Ouzou;1528;36.758895;4.174722
+474;واقنون;Ouaguenoun;واقنون;Ouaguenoun;15;تيزي وزو;Tizi Ouzou;1524;36.758895;4.174722
 475;تيمـيزار;Timizart;واقنون;Ouaguenoun;15;تيزي وزو;Tizi Ouzou;1508;36.8;4.2667
-476;معـــاتقة;Maatkas;معاتقة;Maatkas;15;تيزي وزو;Tizi Ouzou;1540;36.6194358;3.9572374
+476;معـــاتقة;Maatkas;معاتقة;Maatkas;15;تيزي وزو;Tizi Ouzou;1529;36.6194358;3.9572374
 477;سوق الإثنين;Souk-El-Tenine;معاتقة;Maatkas;15;تيزي وزو;Tizi Ouzou;1557;36.6194358;5.3360215
 478;أيت محمود;Ait-Mahmoud;بني دوالة;Beni Douala;15;تيزي وزو;Tizi Ouzou;1528;36.508394;3.993187
 479;بنــــي زمنزار;Beni Zmenzer;بني دوالة;Beni Douala;15;تيزي وزو;Tizi Ouzou;1516;36.64775;4.04202
 480;إفــرحــونان;Iferhounene;إفرحونان;Iferhounene;15;تيزي وزو;Tizi Ouzou;1517;36.51667;4.38333
-481;بوزقــن;Bouzeguene;بوزقن;Bouzeguene;15;تيزي وزو;Tizi Ouzou;1509;36.6167048;4.4798498
+481;بوزقــن;Bouzeguene;بوزقن;Bouzeguene;15;تيزي وزو;Tizi Ouzou;1534;36.6167048;4.4798498
 482;حسين داي;Hussein Dey;حسين داي;Hussein Dey;16;الجزائر;Alger;1617;36.744147;3.092008
 483;الكاليتوس;Les Eucalyptus;براقي;Baraki;16;الجزائر;Alger;1633;36.6664;3.1679257
 484;سيدي موسى;Sidi Moussa;براقي;Baraki;16;الجزائر;Alger;1637;36.605556;3.088
