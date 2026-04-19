@@ -661,18 +661,18 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 660;سيدي عمر;Sidi Amar;سيدي بوبكر;Sidi Boubekeur;20;سعيدة;Saïda;2008;35.025278;0.1015
 661;عين بوزيان;Ain Bouziane;سيدي مزغيش;Sidi Mezghiche;21;سكيكدة;Skikda;2122;36.6024073;6.7513889
 662;صالح بو الشعور;Salah Bouchaour;الحروش;El Harrouch;21;سكيكدة;Skikda;2125;36.740543;6.87296
-663;الحدائق;El Hadaiek;الحدائق;El Hadaiek;21;سكيكدة;Skikda;2108;36.8259805;6.8873791
-664;زردازة;Zerdezas;الحروش;El Harrouch;21;سكيكدة;Skikda;2110;36.597811;6.896718
+663;الحدائق;El Hadaiek;الحدائق;El Hadaiek;21;سكيكدة;Skikda;2103;36.8259805;6.8873791
+664;زردازة;Zerdezas;الحروش;El Harrouch;21;سكيكدة;Skikda;2117;36.597811;6.896718
 665;أولاد حبابة;Ouled Habbaba;الحروش;El Harrouch;21;سكيكدة;Skikda;2118;36.503333;6.9575
 666;بني ولبان;Beni Oulbane;سيدي مزغيش;Sidi Mezghiche;21;سكيكدة;Skikda;2121;36.6833333;6.6389
 667;سيدي مزغيش;Sidi Mezghiche;سيدي مزغيش;Sidi Mezghiche;21;سكيكدة;Skikda;2119;36.68333333;6.7167
 668;بني بشير;Beni Bechir;رمضان جمال;Ramdane Djamel;21;سكيكدة;Skikda;2124;36.783333;6.933333
 669;رمضان جمال;Ramdane Djamel;رمضان جمال;Ramdane Djamel;21;سكيكدة;Skikda;2123;36.7552525;6.8927193
-670;بين الويدان;Bin El Ouiden;تمالوس;Tamalous;21;سكيكدة;Skikda;2119;36.8079;6.5656
-671;مجاز الدشيش;Emjez Edchich;الحروش;El Harrouch;21;سكيكدة;Skikda;2125;36.7033327;6.7458
+670;بين الويدان;Bin El Ouiden;تمالوس;Tamalous;21;سكيكدة;Skikda;2129;36.8079;6.5656
+671;مجاز الدشيش;Emjez Edchich;الحروش;El Harrouch;21;سكيكدة;Skikda;2120;36.7033327;6.7458
 672;تمالوس;Tamalous;تمالوس;Tamalous;21;سكيكدة;Skikda;2126;36.8357539;6.6417
 673;عين قشرة;Ain Kechra;عين قشرة;Ain Kechra;21;سكيكدة;Skikda;2127;36.7483;6.4349765
-674;الولجة بولبلوط;Ouldja Boulbalout;عين قشرة;Ain Kechra;21;سكيكدة;Skikda;2129;36.78611111;6.373055
+674;الولجة بولبلوط;Ouldja Boulbalout;عين قشرة;Ain Kechra;21;سكيكدة;Skikda;2135;36.78611111;6.373055
 675;أم الطوب;Oum Toub;أم الطوب;Oum Toub;21;سكيكدة;Skikda;2128;36.72611;6.58
 676;الغدير;El Ghedir;عزابة;Azzaba;21;سكيكدة;Skikda;2133;36.688333;6.97778
 677;الكركرة;Kerkara;تمالوس;Tamalous;21;سكيكدة;Skikda;2112;36.929;6.586
@@ -680,23 +680,23 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 679;الزيتونة;Zitouna;الزيتونة;Zitouna;21;سكيكدة;Skikda;2115;36.9880728;6.46049
 680;أولاد عطية;Ouled Attia;أولاد عطية;Ouled Attia;21;سكيكدة;Skikda;2113;36.994444;6.341389
 681;وادي الزهور;Oued Zhour;أولاد عطية;Ouled Attia;21;سكيكدة;Skikda;2114;36.9221397;6.315556
-682;القل;Collo;القل;Collo;21;سكيكدة;Skikda;2106;37.0072;6.5609
+682;القل;Collo;القل;Collo;21;سكيكدة;Skikda;2110;37.0072;6.5609
 683;الشرايع;Cheraia;القل;Collo;21;سكيكدة;Skikda;2131;37.00194;6.4972247
-684;بني زيد;Beni Zid;القل;Collo;21;سكيكدة;Skikda;2137;36.8080556;6.5056
-685;خناق مايو;Khenag Maoune;أولاد عطية;Ouled Attia;21;سكيكدة;Skikda;2108;36.7802778;6.1386
+684;بني زيد;Beni Zid;القل;Collo;21;سكيكدة;Skikda;2111;36.8080556;6.5056
+685;خناق مايو;Khenag Maoune;أولاد عطية;Ouled Attia;21;سكيكدة;Skikda;2136;36.7802778;6.1386
 686;المرسى;El Marsa;بن عزوز;Ben Azzouz;21;سكيكدة;Skikda;2138;37.03;7.2531
 687;بن عزوز;Ben Azzouz;بن عزوز;Ben Azzouz;21;سكيكدة;Skikda;2108;36.46;7.057
 688;بكوش لخضر;Bekkouche Lakhdar;بن عزوز;Ben Azzouz;21;سكيكدة;Skikda;2107;36.791944;7.30625
 689;السبت;Es Sebt;عزابة;Azzaba;21;سكيكدة;Skikda;2109;36.802;7.0774269
 690;عين شرشار;Ain Charchar;عزابة;Azzaba;21;سكيكدة;Skikda;2106;36.7336763;7.2234899
-691;عزابة;Azzaba;عزابة;Azzaba;21;سكيكدة;Skikda;2101;36.73944;7.10528
-692;بوشطاطة;Bouchetata;الحدائق;El Hadaiek;21;سكيكدة;Skikda;2108;36.7938;6.79722
-693;فلفلة;Filfila;سكيكدة;Skikda;21;سكيكدة;Skikda;2121;36.8828035;7.0821162
+691;عزابة;Azzaba;عزابة;Azzaba;21;سكيكدة;Skikda;2104;36.73944;7.10528
+692;بوشطاطة;Bouchetata;الحدائق;El Hadaiek;21;سكيكدة;Skikda;2134;36.7938;6.79722
+693;فلفلة;Filfila;سكيكدة;Skikda;21;سكيكدة;Skikda;2130;36.8828035;7.0821162
 694;حمادي كرومة;Hammadi Krouma;سكيكدة;Skikda;21;سكيكدة;Skikda;2137;36.844;6.89262
 695;سكيكدة;Skikda;سكيكدة;Skikda;21;سكيكدة;Skikda;2101;36.87617;6.9
 696;عين زويت;Ain Zouit;الحدائق;El Hadaiek;21;سكيكدة;Skikda;2102;36.89027778;6.7856
 697;جندل سعدي محمد;Djendel Saadi Mohamed;عزابة;Azzaba;21;سكيكدة;Skikda;2105;36.78;7.1709
-698;قنواع;Kanoua;الزيتونة;Zitouna;21;سكيكدة;Skikda;2113;37.0375;6.405556
+698;قنواع;Kanoua;الزيتونة;Zitouna;21;سكيكدة;Skikda;2132;37.0375;6.405556
 699;سيدي علي بن يوب;Sidi Ali Benyoub;سيدي علي بن يوب;Sidi Ali Ben Youb;22;سيدي بلعباس;Sidi Bel Abbès;2246;34.94555556;-0.7194
 700;مولاي سليسن;Moulay Slissen;مولاي سليسن;Moulay Slissen;22;سيدي بلعباس;Sidi Bel Abbès;2209;34.8222;-0.76041
 701;الحصيبة;El Hacaiba;مولاي سليسن;Moulay Slissen;22;سيدي بلعباس;Sidi Bel Abbès;2219;34.7;-0.7667
