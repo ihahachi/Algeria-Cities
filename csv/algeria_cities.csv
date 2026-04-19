@@ -645,7 +645,7 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 644;ماوكلان;Maouaklane;ماوكلان;Maoklane;19;سطيف;Sétif;1955;36.3968;5.0752
 645;سعيدة;Saida;سعيدة;Saida;20;سعيدة;Saïda;2001;34.833333;0.15
 646;تيرسين;Tircine;أولاد ابراهيم;Ouled Brahim;20;سعيدة;Saïda;2015;34.901388;0.5547
-647;أولاد إبراهيم;Ouled Brahim;أولاد ابراهيم;Ouled Brahim;20;سعيدة;Saïda;2005;34.99;0.4772
+647;أولاد إبراهيم;Ouled Brahim;أولاد ابراهيم;Ouled Brahim;20;سعيدة;Saïda;2014;34.99;0.4772
 648;عين السلطان;Ain Soltane;أولاد ابراهيم;Ouled Brahim;20;سعيدة;Saïda;2016;34.96647;0.3075
 649;المعمورة;Maamora;الحساسنة;El Hassasna;20;سعيدة;Saïda;2011;34.681667;0.15
 650;الحساسنة;El Hassasna;الحساسنة;El Hassasna;20;سعيدة;Saïda;2010;34.824167;0.1
@@ -654,10 +654,10 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 653;أولاد خالد;Ouled Khaled;سيدي بوبكر;Sidi Boubekeur;20;سعيدة;Saïda;2004;34.87666667;0.152777778
 654;هونت;Hounet;سيدي بوبكر;Sidi Boubekeur;20;سعيدة;Saïda;2007;35.1108;-0.15
 655;يوب;Youb;يوب;Youb;20;سعيدة;Saïda;2006;34.92186;-0.208133
-656;دوي ثابت;Doui Thabet;يوب;Youb;20;سعيدة;Saïda;2005;34.89306;-0.0842
+656;دوي ثابت;Doui Thabet;يوب;Youb;20;سعيدة;Saïda;2002;34.89306;-0.0842
 657;سيدي احمد;Sidi Ahmed;عين الحجر;Ain El Hadjar;20;سعيدة;Saïda;2012;34.55;0.259722
 658;مولاي العربي;Moulay Larbi;عين الحجر;Ain El Hadjar;20;سعيدة;Saïda;2005;34.648611;0.0167
-659;عين الحجر;Ain El Hadjar;عين الحجر;Ain El Hadjar;20;سعيدة;Saïda;2005;34.75846;0.1444
+659;عين الحجر;Ain El Hadjar;عين الحجر;Ain El Hadjar;20;سعيدة;Saïda;2003;34.75846;0.1444
 660;سيدي عمر;Sidi Amar;سيدي بوبكر;Sidi Boubekeur;20;سعيدة;Saïda;2008;35.025278;0.1015
 661;عين بوزيان;Ain Bouziane;سيدي مزغيش;Sidi Mezghiche;21;سكيكدة;Skikda;2122;36.6024073;6.7513889
 662;صالح بو الشعور;Salah Bouchaour;الحروش;El Harrouch;21;سكيكدة;Skikda;2125;36.740543;6.87296
