@@ -698,19 +698,19 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 697;جندل سعدي محمد;Djendel Saadi Mohamed;عزابة;Azzaba;21;سكيكدة;Skikda;2105;36.78;7.1709
 698;قنواع;Kanoua;الزيتونة;Zitouna;21;سكيكدة;Skikda;2132;37.0375;6.405556
 699;سيدي علي بن يوب;Sidi Ali Benyoub;سيدي علي بن يوب;Sidi Ali Ben Youb;22;سيدي بلعباس;Sidi Bel Abbès;2246;34.94555556;-0.7194
-700;مولاي سليسن;Moulay Slissen;مولاي سليسن;Moulay Slissen;22;سيدي بلعباس;Sidi Bel Abbès;2209;34.8222;-0.76041
+700;مولاي سليسن;Moulay Slissen;مولاي سليسن;Moulay Slissen;22;سيدي بلعباس;Sidi Bel Abbès;2218;34.8222;-0.76041
 701;الحصيبة;El Hacaiba;مولاي سليسن;Moulay Slissen;22;سيدي بلعباس;Sidi Bel Abbès;2219;34.7;-0.7667
 702;عين تندمين;Ain Tindamine;مولاي سليسن;Moulay Slissen;22;سيدي بلعباس;Sidi Bel Abbès;2224;34.6897222;-0.720555
 703;تنيرة;Tenira;تنيرة;Tenira;22;سيدي بلعباس;Sidi Bel Abbès;2217;35.0197;-0.52897
-704;وادي سفيون;Oued Sefioun;تنيرة;Tenira;22;سيدي بلعباس;Sidi Bel Abbès;2217;34.996111;-0.0933333
+704;وادي سفيون;Oued Sefioun;تنيرة;Tenira;22;سيدي بلعباس;Sidi Bel Abbès;2243;34.996111;-0.0933333
 705;حاسي دحو;Hassi Dahou;تنيرة;Tenira;22;سيدي بلعباس;Sidi Bel Abbès;2252;35.071944;-0.5456
 706;وادي تاوريرة;Oued Taourira;مرين;Merine;22;سيدي بلعباس;Sidi Bel Abbès;2231;34.61972;-0.33889
 707;بن عشيبة شلية;Benachiba Chelia;تنيرة;Tenira;22;سيدي بلعباس;Sidi Bel Abbès;2251;34.9634;-0.6145
 708;سيدي يعقوب;Sidi Yacoub;سيدي لحسن;Sidi Lahcene;22;سيدي بلعباس;Sidi Bel Abbès;2240;35.13583;-0.786111
-709;سيدي لحسن;Sidi Lahcene;سيدي لحسن;Sidi Lahcene;22;سيدي بلعباس;Sidi Bel Abbès;2206;35.1632838;-0.6959152
+709;سيدي لحسن;Sidi Lahcene;سيدي لحسن;Sidi Lahcene;22;سيدي بلعباس;Sidi Bel Abbès;2214;35.1632838;-0.6959152
 710;سيدي خالد;Sidi Khaled;سيدي لحسن;Sidi Lahcene;22;سيدي بلعباس;Sidi Bel Abbès;2227;35.11349;-0.71969
 711;طابية;Tabia;سيدي علي بن يوب;Sidi Ali Ben Youb;22;سيدي بلعباس;Sidi Bel Abbès;2221;35.206;-0.73389
-712;سيدي ابراهيم;Sidi Brahim;عين البرد;Ain El Berd;22;سيدي بلعباس;Sidi Bel Abbès;2229;35.26055556;-0.5675
+712;سيدي ابراهيم;Sidi Brahim;عين البرد;Ain El Berd;22;سيدي بلعباس;Sidi Bel Abbès;2203;35.26055556;-0.5675
 713;العمارنة;Amarnas;سيدي لحسن;Sidi Lahcene;22;سيدي بلعباس;Sidi Bel Abbès;2212;35.135556;-0.62278
 714;بوخنفيس;Boukhanefis;سيدي علي بن يوب;Sidi Ali Ben Youb;22;سيدي بلعباس;Sidi Bel Abbès;2207;35.066111;-0.723333
 715;حاسي زهانة;Hassi Zahana;بن باديس;Ben Badis;22;سيدي بلعباس;Sidi Bel Abbès;2220;34.9876;-0.89
@@ -728,27 +728,27 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 727;رجم دموش;Redjem Demouche;راس الماء;Ras El Ma;22;سيدي بلعباس;Sidi Bel Abbès;2250;34.427222;-0.8097222
 728;راس الماء;Ras El Ma;راس الماء;Ras El Ma;22;سيدي بلعباس;Sidi Bel Abbès;2223;34.4973612;-0.8055976
 729;وادي السبع;Oued Sebaa;راس الماء;Ras El Ma;22;سيدي بلعباس;Sidi Bel Abbès;2237;34.5866667;-0.824167
-730;مرحوم;Marhoum;مرحوم;Marhoum;22;سيدي بلعباس;Sidi Bel Abbès;2248;34.446751;-0.195025
+730;مرحوم;Marhoum;مرحوم;Marhoum;22;سيدي بلعباس;Sidi Bel Abbès;2210;34.446751;-0.195025
 731;سيدي بلعباس;Sidi Bel-Abbes;سيدي بلعباس;Sidi Bel Abbes;22;سيدي بلعباس;Sidi Bel Abbès;2201;35.2022249;-0.6298922
 732;عين الثريد;Ain Thrid;تسالة;Tessala;22;سيدي بلعباس;Sidi Bel Abbès;2215;35.284722;-0.67583333
-733;السهالة الثورة;Sehala Thaoura;تسالة;Tessala;22;سيدي بلعباس;Sidi Bel Abbès;2213;35.222;-0.8317
-734;تسالة;Tessala;تسالة;Tessala;22;سيدي بلعباس;Sidi Bel Abbès;2245;35.24356;-0.773163
-735;بلعربي;Belarbi;مصطفى بن ابراهيم;Mostefa Ben Brahim;22;سيدي بلعباس;Sidi Bel Abbès;2204;35.15;0.15
+733;السهالة الثورة;Sehala Thaoura;تسالة;Tessala;22;سيدي بلعباس;Sidi Bel Abbès;2239;35.222;-0.8317
+734;تسالة;Tessala;تسالة;Tessala;22;سيدي بلعباس;Sidi Bel Abbès;2202;35.24356;-0.773163
+735;بلعربي;Belarbi;مصطفى بن ابراهيم;Mostefa Ben Brahim;22;سيدي بلعباس;Sidi Bel Abbès;2242;35.15;0.15
 736;مصطفى بن ابراهيم;Mostefa Ben Brahim;مصطفى بن ابراهيم;Mostefa Ben Brahim;22;سيدي بلعباس;Sidi Bel Abbès;2204;35.1925;-0.358
 737;تلموني;Tilmouni;مصطفى بن ابراهيم;Mostefa Ben Brahim;22;سيدي بلعباس;Sidi Bel Abbès;2213;35.083333;-0.5905178
 738;زروالة;Zerouala;مصطفى بن ابراهيم;Mostefa Ben Brahim;22;سيدي بلعباس;Sidi Bel Abbès;2233;35.242222;-0.522
 739;الضاية;Dhaya;تلاغ;Telagh;22;سيدي بلعباس;Sidi Bel Abbès;2232;34.67585;-0.6208
-740;مزاورو;Mezaourou;تلاغ;Telagh;22;سيدي بلعباس;Sidi Bel Abbès;2223;34.8173267;-0.6233189
+740;مزاورو;Mezaourou;تلاغ;Telagh;22;سيدي بلعباس;Sidi Bel Abbès;2206;34.8173267;-0.6233189
 741;تغاليمت;Teghalimet;تلاغ;Telagh;22;سيدي بلعباس;Sidi Bel Abbès;2244;34.882777;-0.55
 742;تلاغ;Telagh;تلاغ;Telagh;22;سيدي بلعباس;Sidi Bel Abbès;2205;34.7949589;-0.5722
 743;عين قادة;Ain Kada;سيدي علي بوسيدي;Sidi Ali Boussidi;22;سيدي بلعباس;Sidi Bel Abbès;2225;35.1369491;-0.8558715
 744;لمطار;Lamtar;سيدي علي بوسيدي;Sidi Ali Boussidi;22;سيدي بلعباس;Sidi Bel Abbès;2234;35.070555;-0.798056
-745;سيدي علي بوسيدي;Sidi Ali Boussidi;سيدي علي بوسيدي;Sidi Ali Boussidi;22;سيدي بلعباس;Sidi Bel Abbès;2213;35.1;-0.833333333
+745;سيدي علي بوسيدي;Sidi Ali Boussidi;سيدي علي بوسيدي;Sidi Ali Boussidi;22;سيدي بلعباس;Sidi Bel Abbès;2208;35.1;-0.833333333
 746;سيدي دحو الزاير;Sidi Dahou Zairs;سيدي علي بوسيدي;Sidi Ali Boussidi;22;سيدي بلعباس;Sidi Bel Abbès;2236;35.11714;-0.91001
 747;بئر الحمام;Bir El Hammam;مرحوم;Marhoum;22;سيدي بلعباس;Sidi Bel Abbès;2248;34.418889;-0.49923
 748;مرين;Merine;مرين;Merine;22;سيدي بلعباس;Sidi Bel Abbès;2222;34.7805884;-0.451
-749;تفسور;Tefessour;مرين;Merine;22;سيدي بلعباس;Sidi Bel Abbès;2245;35.035;-0.1
-750;تاودموت;Taoudmout;مرين;Merine;22;سيدي بلعباس;Sidi Bel Abbès;2218;34.58777778;-0.1103
+749;تفسور;Tefessour;مرين;Merine;22;سيدي بلعباس;Sidi Bel Abbès;2211;35.035;-0.1
+750;تاودموت;Taoudmout;مرين;Merine;22;سيدي بلعباس;Sidi Bel Abbès;2249;34.58777778;-0.1103
 751;عنابة;Annaba;عنابة;Annaba;23;عنابة;Annaba;2301;36.9;7.7667
 752;سرايدي;Seraidi;عنابة;Annaba;23;عنابة;Annaba;2308;36.91129;7.666667
 753;برحال;Berrahal;برحال;Berrahal;23;عنابة;Annaba;2307;36.833333;7.45
