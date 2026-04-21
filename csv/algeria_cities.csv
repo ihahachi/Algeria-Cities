@@ -645,7 +645,7 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 644;ماوكلان;Maouaklane;ماوكلان;Maoklane;19;سطيف;Sétif;1955;36.3968;5.0752
 645;سعيدة;Saida;سعيدة;Saida;20;سعيدة;Saïda;2001;34.833333;0.15
 646;تيرسين;Tircine;أولاد ابراهيم;Ouled Brahim;20;سعيدة;Saïda;2015;34.901388;0.5547
-647;أولاد إبراهيم;Ouled Brahim;أولاد ابراهيم;Ouled Brahim;20;سعيدة;Saïda;2014;34.99;0.4772
+647;أولاد إبراهيم;Ouled Brahim;أولاد ابراهيم;Ouled Brahim;20;سعيدة;Saïda;2612;34.99;0.4772
 648;عين السلطان;Ain Soltane;أولاد ابراهيم;Ouled Brahim;20;سعيدة;Saïda;2016;34.96647;0.3075
 649;المعمورة;Maamora;الحساسنة;El Hassasna;20;سعيدة;Saïda;2011;34.681667;0.15
 650;الحساسنة;El Hassasna;الحساسنة;El Hassasna;20;سعيدة;Saïda;2010;34.824167;0.1
@@ -810,28 +810,28 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 809;أولاد هلال;Ouled Hellal;أولاد عنتر;Ouled Antar;26;المدية;Médéa;2622;35.9370104;2.4980197
 810;العزيزية;El Azizia;العزيزية;El Azizia;26;المدية;Médéa;2636;36.28656;3.49412
 811;مغراوة;Maghraoua;العزيزية;El Azizia;26;المدية;Médéa;2639;36.3512874;3.535277
-812;ميهوب;Mihoub;العزيزية;El Azizia;26;المدية;Médéa;2606;36.3527;3.475833
-813;حناشة;Hannacha;عوامري;Ouamri;26;المدية;Médéa;2607;36.19112;3.52556
+812;ميهوب;Mihoub;العزيزية;El Azizia;26;المدية;Médéa;2650;36.3527;3.475833
+813;حناشة;Hannacha;عوامري;Ouamri;26;المدية;Médéa;2660;36.19112;3.52556
 814;عوامري;Ouamri;عوامري;Ouamri;26;المدية;Médéa;2643;36.2333;2.566667
 815;وادي حربيل;Oued Harbil;عوامري;Ouamri;26;المدية;Médéa;2629;36.233333;2.6333
-816;بني سليمان;Beni Slimane;بني سليمان;Beni Slimane;26;المدية;Médéa;2640;36.22703;3.30596
+816;بني سليمان;Beni Slimane;بني سليمان;Beni Slimane;26;المدية;Médéa;2646;36.22703;3.30596
 817;بوعيشون;Bouaichoune;سي المحجوب;Si Mahdjoub;26;المدية;Médéa;2659;36.1625;2.6487087
-818;أولاد بوعشرة;Ouled Bouachra;سي المحجوب;Si Mahdjoub;26;المدية;Médéa;2623;36.160382;2.722206
-819;سي المحجوب;Si Mahdjoub;سي المحجوب;Si Mahdjoub;26;المدية;Médéa;2608;36.160382;2.722206
+818;أولاد بوعشرة;Ouled Bouachra;سي المحجوب;Si Mahdjoub;26;المدية;Médéa;2627;36.160382;2.722206
+819;سي المحجوب;Si Mahdjoub;سي المحجوب;Si Mahdjoub;26;المدية;Médéa;2644;36.160382;2.722206
 820;بوسكن;Bouskene;بني سليمان;Beni Slimane;26;المدية;Médéa;2619;36.191111;3.2361
 821;سيدي الربيع;Sidi Rabie;بني سليمان;Beni Slimane;26;المدية;Médéa;2655;36.14766;3.75
 822;البرواقية;Berrouaghia;البرواقية;Berrouaghia;26;المدية;Médéa;2647;36.13516;2.911
 823;أولاد دايد;Ouled Deid;البرواقية;Berrouaghia;26;المدية;Médéa;2606;36.112778;3.5167
 824;الربعية;Rebaia;البرواقية;Berrouaghia;26;المدية;Médéa;2620;36.02783;3.138055
-825;مجبر;Medjebar;سغوان;Seghouane;26;المدية;Médéa;2623;35.950556;3.46166
+825;مجبر;Medjebar;سغوان;Seghouane;26;المدية;Médéa;2662;35.950556;3.46166
 826;ثلاث دوائر;Tletat Ed Douair;سغوان;Seghouane;26;المدية;Médéa;2645;35.9154;2.963
 827;الزبيرية;Zoubiria;سغوان;Seghouane;26;المدية;Médéa;2634;36.066667;2.9
 828;العيساوية;Aissaouia;تابلاط;Tablat;26;المدية;Médéa;2605;36.419167;3.216111
-829;الحوضان;El Haoudane;تابلاط;Tablat;26;المدية;Médéa;2614;36.273611;3.49056
-830;مزغنة;Mezerana;تابلاط;Tablat;26;المدية;Médéa;2636;36.3609993;3.3580828
+829;الحوضان;El Haoudane;تابلاط;Tablat;26;المدية;Médéa;2653;36.273611;3.49056
+830;مزغنة;Mezerana;تابلاط;Tablat;26;المدية;Médéa;2611;36.3609993;3.3580828
 831;تابلاط;Tablat;تابلاط;Tablat;26;المدية;Médéa;2652;36.41211257;3.3101
 832;بوغار;Boghar;أولاد عنتر;Ouled Antar;26;المدية;Médéa;2625;35.911389;2.71667
-833;سغوان;Seghouane;سغوان;Seghouane;26;المدية;Médéa;2627;36.19112;2.9
+833;سغوان;Seghouane;سغوان;Seghouane;26;المدية;Médéa;2648;36.19112;2.9
 834;ذراع السمار;Draa Esmar;المدية;Medea;26;المدية;Médéa;2654;36.27354;2.71695
 835;المدية;Medea;المدية;Medea;26;المدية;Médéa;2601;36.2675;2.75
 836;تمسقيدة;Tamesguida;المدية;Medea;26;المدية;Médéa;2615;36.323889;2.6894
@@ -1519,19 +1519,19 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1518;نقرين;Negrine;نقرين;Negrine;67;بئر العاتر;Bir El Ater;1209;34.48593;7.5193093
 1519;العقلة المالحة;El Ogla El Malha;بئر العاتر;Bir El Ater;67;بئر العاتر;Bir El Ater;1215;35.121944;7.9402184
 1520;بئر العاتر;Bir-El-Ater;بئر العاتر;Bir El Ater;67;بئر العاتر;Bir El Ater;1202;34.74488;8.06
-1521;السواقي;Souagui;السواقي;Souaghi;68;قصر البخاري;Ksar El Boukhari;2633;36.1167;3.26446
-1522;قصر البخاري;Ksar El Boukhari;قصر البخاري;Ksar El Boukhari;68;قصر البخاري;Ksar El Boukhari;2602;35.88889;2.74905
-1523;مفاتحة;M'fatha;قصر البخاري;Ksar El Boukhari;68;قصر البخاري;Ksar El Boukhari;2634;35.8889;2.93637
-1524;السانق;Saneg;قصر البخاري;Ksar El Boukhari;68;قصر البخاري;Ksar El Boukhari;2607;35.8514;3.253056
-1525;بوعيش;Bouaiche;الشهبونية;Chahbounia;68;قصر البخاري;Ksar El Boukhari;2631;35.552778;2.1731
-1526;بوغزول;Boughzoul;الشهبونية;Chahbounia;68;قصر البخاري;Ksar El Boukhari;2651;35.7533117;2.7381672
-1527;الشهبونية;Chabounia;الشهبونية;Chahbounia;68;قصر البخاري;Ksar El Boukhari;2603;35.54472221;2.603333
-1528;عزيز;Aziz;عزيز;Aziz;68;قصر البخاري;Ksar El Boukhari;2632;35.816667;2.45
-1529;دراق;Derrag;عزيز;Aziz;68;قصر البخاري;Ksar El Boukhari;2608;35.908611;2.38778
-1530;أم الجليل;Oum El Djellil;عزيز;Aziz;68;قصر البخاري;Ksar El Boukhari;2642;35.8275;2.6239
-1531;جواب;Djouab;السواقي;Souaghi;68;قصر البخاري;Ksar El Boukhari;2637;36.13821;3.42701
-1532;سيدي زهار;Sidi Zahar;السواقي;Souaghi;68;قصر البخاري;Ksar El Boukhari;2628;36.07811;3.3317554
-1533;سيدي زيان;Sidi Ziane;السواقي;Souaghi;68;قصر البخاري;Ksar El Boukhari;2614;36.00933333;3.2556
+1521;السواقي;Souagui;السواقي;Souaghi;26;قصر البخاري;Ksar El Boukhari;2633;36.1167;3.26446
+1522;قصر البخاري;Ksar El Boukhari;قصر البخاري;Ksar El Boukhari;26;قصر البخاري;Ksar El Boukhari;2635;35.88889;2.74905
+1523;مفاتحة;M'fatha;قصر البخاري;Ksar El Boukhari;26;قصر البخاري;Ksar El Boukhari;2649;35.8889;2.93637
+1524;السانق;Saneg;قصر البخاري;Ksar El Boukhari;26;قصر البخاري;Ksar El Boukhari;2664;35.8514;3.253056
+1525;بوعيش;Bouaiche;الشهبونية;Chahbounia;26;قصر البخاري;Ksar El Boukhari;2610;35.552778;2.1731
+1526;بوغزول;Boughzoul;الشهبونية;Chahbounia;26;قصر البخاري;Ksar El Boukhari;2651;35.7533117;2.7381672
+1527;الشهبونية;Chabounia;الشهبونية;Chahbounia;26;قصر البخاري;Ksar El Boukhari;2638;35.54472221;2.603333
+1528;عزيز;Aziz;عزيز;Aziz;26;قصر البخاري;Ksar El Boukhari;2632;35.816667;2.45
+1529;دراق;Derrag;عزيز;Aziz;26;قصر البخاري;Ksar El Boukhari;2608;35.908611;2.38778
+1530;أم الجليل;Oum El Djellil;عزيز;Aziz;26;قصر البخاري;Ksar El Boukhari;2642;35.8275;2.6239
+1531;جواب;Djouab;السواقي;Souaghi;26;قصر البخاري;Ksar El Boukhari;2637;36.13821;3.42701
+1532;سيدي زهار;Sidi Zahar;السواقي;Souaghi;26;قصر البخاري;Ksar El Boukhari;2628;36.07811;3.3317554
+1533;سيدي زيان;Sidi Ziane;السواقي;Souaghi;26;قصر البخاري;Ksar El Boukhari;2614;36.00933333;3.2556
 1534;سيدي الجيلالي;Sidi Djillali;سيدي الجيلالي;Sidi Djillali;69;العريشة;El Aricha;1341;34.4609;-1.5664
 1535;البويهي;Bouihi;سيدي الجيلالي;Sidi Djillali;69;العريشة;El Aricha;1343;34.413889;1.015
 1536;سبدو;Sebdou;سبدو;Sebdou;69;العريشة;El Aricha;1335;34.639444;-1.32694

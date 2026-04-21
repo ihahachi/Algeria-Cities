@@ -13585,7 +13585,7 @@
                 "wilaya_code": 20,
                 "wilaya_name": "سعيدة",
                 "wilaya_name_fr": "Saïda",
-                "code_commune": 2014
+                "code_commune": 2612
             }
         },
         {
@@ -17050,7 +17050,7 @@
                 "wilaya_code": 26,
                 "wilaya_name": "المدية",
                 "wilaya_name_fr": "Médéa",
-                "code_commune": 2606
+                "code_commune": 2650
             }
         },
         {
@@ -17071,7 +17071,7 @@
                 "wilaya_code": 26,
                 "wilaya_name": "المدية",
                 "wilaya_name_fr": "Médéa",
-                "code_commune": 2607
+                "code_commune": 2660
             }
         },
         {
@@ -17134,7 +17134,7 @@
                 "wilaya_code": 26,
                 "wilaya_name": "المدية",
                 "wilaya_name_fr": "Médéa",
-                "code_commune": 2640
+                "code_commune": 2646
             }
         },
         {
@@ -17176,7 +17176,7 @@
                 "wilaya_code": 26,
                 "wilaya_name": "المدية",
                 "wilaya_name_fr": "Médéa",
-                "code_commune": 2623
+                "code_commune": 2627
             }
         },
         {
@@ -17197,7 +17197,7 @@
                 "wilaya_code": 26,
                 "wilaya_name": "المدية",
                 "wilaya_name_fr": "Médéa",
-                "code_commune": 2608
+                "code_commune": 2644
             }
         },
         {
@@ -17323,7 +17323,7 @@
                 "wilaya_code": 26,
                 "wilaya_name": "المدية",
                 "wilaya_name_fr": "Médéa",
-                "code_commune": 2623
+                "code_commune": 2662
             }
         },
         {
@@ -17407,7 +17407,7 @@
                 "wilaya_code": 26,
                 "wilaya_name": "المدية",
                 "wilaya_name_fr": "Médéa",
-                "code_commune": 2614
+                "code_commune": 2653
             }
         },
         {
@@ -17428,7 +17428,7 @@
                 "wilaya_code": 26,
                 "wilaya_name": "المدية",
                 "wilaya_name_fr": "Médéa",
-                "code_commune": 2636
+                "code_commune": 2611
             }
         },
         {
@@ -17491,7 +17491,7 @@
                 "wilaya_code": 26,
                 "wilaya_name": "المدية",
                 "wilaya_name_fr": "Médéa",
-                "code_commune": 2627
+                "code_commune": 2648
             }
         },
         {
@@ -31936,7 +31936,7 @@
                 "commune_name_fr": "Souagui",
                 "daira_name": "السواقي",
                 "daira_name_fr": "Souaghi",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
                 "code_commune": 2633
@@ -31957,10 +31957,10 @@
                 "commune_name_fr": "Ksar El Boukhari",
                 "daira_name": "قصر البخاري",
                 "daira_name_fr": "Ksar El Boukhari",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
-                "code_commune": 2602
+                "code_commune": 2635
             }
         },
         {
@@ -31978,10 +31978,10 @@
                 "commune_name_fr": "M'fatha",
                 "daira_name": "قصر البخاري",
                 "daira_name_fr": "Ksar El Boukhari",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
-                "code_commune": 2634
+                "code_commune": 2649
             }
         },
         {
@@ -31999,10 +31999,10 @@
                 "commune_name_fr": "Saneg",
                 "daira_name": "قصر البخاري",
                 "daira_name_fr": "Ksar El Boukhari",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
-                "code_commune": 2607
+                "code_commune": 2664
             }
         },
         {
@@ -32020,10 +32020,10 @@
                 "commune_name_fr": "Bouaiche",
                 "daira_name": "الشهبونية",
                 "daira_name_fr": "Chahbounia",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
-                "code_commune": 2631
+                "code_commune": 2610
             }
         },
         {
@@ -32041,7 +32041,7 @@
                 "commune_name_fr": "Boughzoul",
                 "daira_name": "الشهبونية",
                 "daira_name_fr": "Chahbounia",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
                 "code_commune": 2651
@@ -32062,10 +32062,10 @@
                 "commune_name_fr": "Chabounia",
                 "daira_name": "الشهبونية",
                 "daira_name_fr": "Chahbounia",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
-                "code_commune": 2603
+                "code_commune": 2638
             }
         },
         {
@@ -32083,7 +32083,7 @@
                 "commune_name_fr": "Aziz",
                 "daira_name": "عزيز",
                 "daira_name_fr": "Aziz",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
                 "code_commune": 2632
@@ -32104,7 +32104,7 @@
                 "commune_name_fr": "Derrag",
                 "daira_name": "عزيز",
                 "daira_name_fr": "Aziz",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
                 "code_commune": 2608
@@ -32125,7 +32125,7 @@
                 "commune_name_fr": "Oum El Djellil",
                 "daira_name": "عزيز",
                 "daira_name_fr": "Aziz",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
                 "code_commune": 2642
@@ -32146,7 +32146,7 @@
                 "commune_name_fr": "Djouab",
                 "daira_name": "السواقي",
                 "daira_name_fr": "Souaghi",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
                 "code_commune": 2637
@@ -32167,7 +32167,7 @@
                 "commune_name_fr": "Sidi Zahar",
                 "daira_name": "السواقي",
                 "daira_name_fr": "Souaghi",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
                 "code_commune": 2628
@@ -32188,7 +32188,7 @@
                 "commune_name_fr": "Sidi Ziane",
                 "daira_name": "السواقي",
                 "daira_name_fr": "Souaghi",
-                "wilaya_code": 68,
+                "wilaya_code": 26,
                 "wilaya_name": "قصر البخاري",
                 "wilaya_name_fr": "Ksar El Boukhari",
                 "code_commune": 2614
