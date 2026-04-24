@@ -864,11 +864,11 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 863;حاسي ماماش;Hassi Mameche;حاسي ماماش;Hassi Mameche;27;مستغانم;Mostaganem;2706;35.8611;0.102718
 864;مزغران;Mazagran;حاسي ماماش;Hassi Mameche;27;مستغانم;Mostaganem;2727;35.901944;0.726944
 865;ستيدية;Stidia;حاسي ماماش;Hassi Mameche;27;مستغانم;Mostaganem;2704;35.8307225;0
-866;عين تادلس;Ain-Tedles;عين تادلس;Ain Tedeles;27;مستغانم;Mostaganem;2720;35.9947;0.2949
+866;عين تادلس;Ain-Tedles;عين تادلس;Ain Tedeles;27;مستغانم;Mostaganem;2707;35.9947;0.2949
 867;سيدي بلعطار;Sidi Belaattar;عين تادلس;Ain Tedeles;27;مستغانم;Mostaganem;2710;36.026698;0.26931
 868;سور;Sour;عين تادلس;Ain Tedeles;27;مستغانم;Mostaganem;2708;35.85;0.34138888
 869;عين بودينار;Ain-Boudinar;خير الدين;Kheir Eddine;27;مستغانم;Mostaganem;2728;36.0089774;0.1881358
-870;خير الدين;Kheir-Eddine;خير الدين;Kheir Eddine;27;مستغانم;Mostaganem;2707;35.9477561;0.17315
+870;خير الدين;Kheir-Eddine;خير الدين;Kheir Eddine;27;مستغانم;Mostaganem;2711;35.9477561;0.17315
 871;صيادة;Sayada;خير الدين;Kheir Eddine;27;مستغانم;Mostaganem;2702;35.9477561;0.12916667
 872;سيدي علي;Sidi Ali;سيدي علي;Sidi Ali;27;مستغانم;Mostaganem;2712;36.0967786;0.4148744
 873;تزقايت;Tazgait;سيدي علي;Sidi Ali;27;مستغانم;Mostaganem;2729;36.083333;0.4675
@@ -879,9 +879,9 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 878;عشعاشة;Achaacha;عشعاشة;Achaacha;27;مستغانم;Mostaganem;2717;36.2463;0.6355803
 879;خضرة;Khadra;عشعاشة;Achaacha;27;مستغانم;Mostaganem;2718;36.2535711;0.5833
 880;نكمارية;Nekmaria;عشعاشة;Achaacha;27;مستغانم;Mostaganem;2715;36.166667;0.616667
-881;أولاد بوغالم;Ouled Boughalem;عشعاشة;Achaacha;27;مستغانم;Mostaganem;2715;36.32027778;0.672778
+881;أولاد بوغالم;Ouled Boughalem;عشعاشة;Achaacha;27;مستغانم;Mostaganem;2725;36.32027778;0.672778
 882;بوقيراط;Bouguirat;بوقيراط;Bouguirat;27;مستغانم;Mostaganem;2719;35.7502319;0.2566146
-883;صفصاف;Safsaf;بوقيراط;Bouguirat;27;مستغانم;Mostaganem;2715;36.075278;0.4283333
+883;صفصاف;Safsaf;بوقيراط;Bouguirat;27;مستغانم;Mostaganem;2730;36.075278;0.4283333
 884;سيرات;Sirat;بوقيراط;Bouguirat;27;مستغانم;Mostaganem;2720;35.7804;0.191667
 885;السوافلية;Souaflia;بوقيراط;Bouguirat;27;مستغانم;Mostaganem;2724;35.85;0.333333
 886;عين سيدي الشريف;Ain-Sidi Cherif;ماسرة;Mesra;27;مستغانم;Mostaganem;2721;35.833056;0.13605
