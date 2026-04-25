@@ -18772,7 +18772,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2808
+                "code_commune": 2832
             }
         },
         {
@@ -18793,7 +18793,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2833
+                "code_commune": 2815
             }
         },
         {
@@ -18856,7 +18856,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2824
+                "code_commune": 2811
             }
         },
         {
@@ -18898,7 +18898,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2837
+                "code_commune": 2831
             }
         },
         {
@@ -18961,7 +18961,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2836
+                "code_commune": 2818
             }
         },
         {
@@ -19024,7 +19024,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2806
+                "code_commune": 2846
             }
         },
         {
@@ -19045,7 +19045,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2802
+                "code_commune": 2841
             }
         },
         {
@@ -19066,7 +19066,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2838
+                "code_commune": 2837
             }
         },
         {
@@ -19129,7 +19129,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2808
+                "code_commune": 2838
             }
         },
         {
@@ -19171,7 +19171,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2807
+                "code_commune": 2839
             }
         },
         {
@@ -19297,7 +19297,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2831
+                "code_commune": 2802
             }
         },
         {
@@ -19318,7 +19318,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2808
+                "code_commune": 2806
             }
         },
         {
@@ -19381,7 +19381,7 @@
                 "wilaya_code": 28,
                 "wilaya_name": "المسيلة",
                 "wilaya_name_fr": "M'Sila",
-                "code_commune": 2815
+                "code_commune": 2840
             }
         },
         {
@@ -31348,10 +31348,10 @@
                 "commune_name_fr": "Sidi Ameur",
                 "daira_name": "سيدي عامر",
                 "daira_name_fr": "Sidi Ameur",
-                "wilaya_code": 64,
+                "wilaya_code": 28,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
-                "code_commune": 2826
+                "code_commune": 2822
             }
         },
         {
@@ -31369,7 +31369,7 @@
                 "commune_name_fr": "Tamsa",
                 "daira_name": "سيدي عامر",
                 "daira_name_fr": "Sidi Ameur",
-                "wilaya_code": 64,
+                "wilaya_code": 28,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
                 "code_commune": 2823
@@ -31390,10 +31390,10 @@
                 "commune_name_fr": "Ben Srour",
                 "daira_name": "بن سرور",
                 "daira_name_fr": "Ben Srour",
-                "wilaya_code": 64,
+                "wilaya_code": 28,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
-                "code_commune": 2815
+                "code_commune": 2824
             }
         },
         {
@@ -31411,10 +31411,10 @@
                 "commune_name_fr": "Mohamed Boudiaf",
                 "daira_name": "بن سرور",
                 "daira_name_fr": "Ben Srour",
-                "wilaya_code": 64,
+                "wilaya_code": 28,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
-                "code_commune": 2838
+                "code_commune": 2834
             }
         },
         {
@@ -31432,7 +31432,7 @@
                 "commune_name_fr": "Ouled Slimane",
                 "daira_name": "بن سرور",
                 "daira_name_fr": "Ben Srour",
-                "wilaya_code": 64,
+                "wilaya_code": 28,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
                 "code_commune": 2825
@@ -31453,7 +31453,7 @@
                 "commune_name_fr": "Zarzour",
                 "daira_name": "بن سرور",
                 "daira_name_fr": "Ben Srour",
-                "wilaya_code": 64,
+                "wilaya_code": 28,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
                 "code_commune": 2833
@@ -31474,10 +31474,10 @@
                 "commune_name_fr": "Djebel Messaad",
                 "daira_name": "جبل مساعد",
                 "daira_name_fr": "Djebel Messaad",
-                "wilaya_code": 64,
+                "wilaya_code": 28,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
-                "code_commune": 2811
+                "code_commune": 2847
             }
         },
         {
@@ -31495,10 +31495,10 @@
                 "commune_name_fr": "Slim",
                 "daira_name": "جبل مساعد",
                 "daira_name_fr": "Djebel Messaad",
-                "wilaya_code": 64,
+                "wilaya_code": 28,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
-                "code_commune": 2837
+                "code_commune": 2843
             }
         },
         {
@@ -31516,7 +31516,7 @@
                 "commune_name_fr": "El Houamed",
                 "daira_name": "خبانة",
                 "daira_name_fr": "Khoubana",
-                "wilaya_code": 64,
+                "wilaya_code": 28,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
                 "code_commune": 2826
@@ -31537,7 +31537,7 @@
                 "commune_name_fr": "Khoubana",
                 "daira_name": "خبانة",
                 "daira_name_fr": "Khoubana",
-                "wilaya_code": 64,
+                "wilaya_code": 28,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
                 "code_commune": 2807
@@ -31558,7 +31558,7 @@
                 "commune_name_fr": "M'cif",
                 "daira_name": "خبانة",
                 "daira_name_fr": "Khoubana",
-                "wilaya_code": 64,
+                "wilaya_code": 28,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
                 "code_commune": 2808
