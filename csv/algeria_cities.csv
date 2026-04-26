@@ -1024,12 +1024,12 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1023;عين أمناس;Ain Amenas;عين أمناس;Ain Amenas;33;إليزي;Illizi;3306;28.040833;9.635
 1024;إيليزي;Illizi;إيليزي;Illizi;33;إليزي;Illizi;3301;26.483333;8.483333333
 1025;الحمادية;Elhammadia;الحمادية;El Hamadia;34;برج بوعريريج;Bordj Bou Arreridj;3411;35.976944;4.7475
-1026;أولاد سيدي ابراهيم;Ouled Sidi-Brahim;المنصورة;Mansourah;34;برج بوعريريج;Bordj Bou Arreridj;3416;36.228056;4.335556
+1026;أولاد سيدي ابراهيم;Ouled Sidi-Brahim;المنصورة;Mansourah;34;برج بوعريريج;Bordj Bou Arreridj;3423;36.228056;4.335556
 1027;عين تاغروت;Ain Taghrout;عين تاغروت;Ain Taghrout;34;برج بوعريريج;Bordj Bou Arreridj;3408;36.128889;5.076667
 1028;تيكستار;Tixter;عين تاغروت;Ain Taghrout;34;برج بوعريريج;Bordj Bou Arreridj;3426;36.0475;4.654722222
 1029;بليمور;Belimour;برج الغدير;Bordj Ghedir;34;برج بوعريريج;Bordj Bou Arreridj;3412;36.027222;4.833333333
 1030;العناصر;El Annasseur;برج الغدير;Bordj Ghedir;34;برج بوعريريج;Bordj Bou Arreridj;3428;36.0642129;4.833333333
-1031;غيلاسة;Ghailasa;برج الغدير;Bordj Ghedir;34;برج بوعريريج;Bordj Bou Arreridj;3422;35.981389;4.9167001
+1031;غيلاسة;Ghailasa;برج الغدير;Bordj Ghedir;34;برج بوعريريج;Bordj Bou Arreridj;3432;35.981389;4.9167001
 1032;تقلعيت;Taglait;برج الغدير;Bordj Ghedir;34;برج بوعريريج;Bordj Bou Arreridj;3421;35.771667;4.999722222
 1033;برج الغدير;Bordj Ghedir;برج الغدير;Bordj Ghedir;34;برج بوعريريج;Bordj Bou Arreridj;3409;35.8991893;4.899182
 1034;العش;El Euch;الحمادية;El Hamadia;34;برج بوعريريج;Bordj Bou Arreridj;3427;35.914444;4.9225704
@@ -1045,14 +1045,14 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1044;القصور;Ksour;الحمادية;El Hamadia;34;برج بوعريريج;Bordj Bou Arreridj;3422;35.98333333;4.597778
 1045;المنصورة;Mansoura;المنصورة;Mansourah;34;برج بوعريريج;Bordj Bou Arreridj;3404;36.08725;4.46
 1046;حرازة;Haraza;المنصورة;Mansourah;34;برج بوعريريج;Bordj Bou Arreridj;3434;36.156389;4.223333
-1047;الرابطة;Rabta;الحمادية;El Hamadia;34;برج بوعريريج;Bordj Bou Arreridj;3406;35.9227778;4.78119
+1047;الرابطة;Rabta;الحمادية;El Hamadia;34;برج بوعريريج;Bordj Bou Arreridj;3433;35.9227778;4.78119
 1048;الياشير;El Achir;مجانة;Medjana;34;برج بوعريريج;Bordj Bou Arreridj;3407;36.06386;4.6167
 1049;حسناوة;Hasnaoua;مجانة;Medjana;34;برج بوعريريج;Bordj Bou Arreridj;3419;36.14083333;4.7957
 1050;مجانة;Medjana;مجانة;Medjana;34;برج بوعريريج;Bordj Bou Arreridj;3413;36.1319;4.669
 1051;عين تسرة;Ain Tesra;رأس الوادي;Ras El Oued;34;برج بوعريريج;Bordj Bou Arreridj;3430;36.0125;5.002222222
 1052;أولاد أبراهم;Ouled Brahem;رأس الوادي;Ras El Oued;34;برج بوعريريج;Bordj Bou Arreridj;3417;35.8733817;5.074722222
-1053;رأس الوادي;Ras El Oued;رأس الوادي;Ras El Oued;34;برج بوعريريج;Bordj Bou Arreridj;3406;35.94972222;5.033333333
-1054;برج زمورة;Bordj Zemmoura;برج زمورة;Bordj Zemmoura;34;برج بوعريريج;Bordj Bou Arreridj;3406;36.2677309;4.855833333
+1053;رأس الوادي;Ras El Oued;رأس الوادي;Ras El Oued;34;برج بوعريريج;Bordj Bou Arreridj;3402;35.94972222;5.033333333
+1054;برج زمورة;Bordj Zemmoura;برج زمورة;Bordj Zemmoura;34;برج بوعريريج;Bordj Bou Arreridj;3403;36.2677309;4.855833333
 1055;أولاد دحمان;Ouled Dahmane;برج زمورة;Bordj Zemmoura;34;برج بوعريريج;Bordj Bou Arreridj;3418;36.3667;4.77
 1056;تسامرت;Tassamert;برج زمورة;Bordj Zemmoura;34;برج بوعريريج;Bordj Bou Arreridj;3429;36.27131;4.82184
 1057;برج بوعريرج;B. B. Arreridj;برج بوعريريج;Bordj Bou Arreridj;34;برج بوعريريج;Bordj Bou Arreridj;3401;36.0704188;4.766667
