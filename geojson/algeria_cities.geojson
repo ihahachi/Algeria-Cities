@@ -20473,7 +20473,7 @@
                 "wilaya_code": 30,
                 "wilaya_name": "ورقلة",
                 "wilaya_name_fr": "Ouargla",
-                "code_commune": 3003
+                "code_commune": 3002
             }
         },
         {
@@ -20578,7 +20578,7 @@
                 "wilaya_code": 30,
                 "wilaya_name": "ورقلة",
                 "wilaya_name_fr": "Ouargla",
-                "code_commune": 3009
+                "code_commune": 3003
             }
         },
         {
@@ -29920,10 +29920,10 @@
                 "commune_name_fr": "Sidi Slimane",
                 "daira_name": "المقارين",
                 "daira_name_fr": "Megarine",
-                "wilaya_code": 55,
+                "wilaya_code": 30,
                 "wilaya_name": "تقرت",
                 "wilaya_name_fr": "Touggourt",
-                "code_commune": 5503
+                "code_commune": 3010
             }
         },
         {
@@ -29941,7 +29941,7 @@
                 "commune_name_fr": "Megarine",
                 "daira_name": "المقارين",
                 "daira_name_fr": "Megarine",
-                "wilaya_code": 55,
+                "wilaya_code": 30,
                 "wilaya_name": "تقرت",
                 "wilaya_name_fr": "Touggourt",
                 "code_commune": 3019
@@ -29962,10 +29962,10 @@
                 "commune_name_fr": "Nezla",
                 "daira_name": "تقرت",
                 "daira_name_fr": "Touggourt",
-                "wilaya_code": 55,
+                "wilaya_code": 30,
                 "wilaya_name": "تقرت",
                 "wilaya_name_fr": "Touggourt",
-                "code_commune": 5509
+                "code_commune": 3008
             }
         },
         {
@@ -30004,7 +30004,7 @@
                 "commune_name_fr": "Tebesbest",
                 "daira_name": "تقرت",
                 "daira_name_fr": "Touggourt",
-                "wilaya_code": 55,
+                "wilaya_code": 30,
                 "wilaya_name": "تقرت",
                 "wilaya_name_fr": "Touggourt",
                 "code_commune": 3007
@@ -30025,7 +30025,7 @@
                 "commune_name_fr": "Touggourt",
                 "daira_name": "تقرت",
                 "daira_name_fr": "Touggourt",
-                "wilaya_code": 55,
+                "wilaya_code": 30,
                 "wilaya_name": "تقرت",
                 "wilaya_name_fr": "Touggourt",
                 "code_commune": 3013
@@ -30046,7 +30046,7 @@
                 "commune_name_fr": "Taibet",
                 "daira_name": "الطيبات",
                 "daira_name_fr": "Taibet",
-                "wilaya_code": 55,
+                "wilaya_code": 30,
                 "wilaya_name": "تقرت",
                 "wilaya_name_fr": "Touggourt",
                 "code_commune": 3015
@@ -30067,10 +30067,10 @@
                 "commune_name_fr": "El Alia",
                 "daira_name": "الحجيرة",
                 "daira_name_fr": "El-Hadjira",
-                "wilaya_code": 55,
+                "wilaya_code": 30,
                 "wilaya_name": "تقرت",
                 "wilaya_name_fr": "Touggourt",
-                "code_commune": 3013
+                "code_commune": 3020
             }
         },
         {
@@ -30088,7 +30088,7 @@
                 "commune_name_fr": "El-Hadjira",
                 "daira_name": "الحجيرة",
                 "daira_name_fr": "El-Hadjira",
-                "wilaya_code": 55,
+                "wilaya_code": 30,
                 "wilaya_name": "تقرت",
                 "wilaya_name_fr": "Touggourt",
                 "code_commune": 3014
@@ -30109,7 +30109,7 @@
                 "commune_name_fr": "Benaceur",
                 "daira_name": "الطيبات",
                 "daira_name_fr": "Taibet",
-                "wilaya_code": 55,
+                "wilaya_code": 30,
                 "wilaya_name": "تقرت",
                 "wilaya_name_fr": "Touggourt",
                 "code_commune": 3017
@@ -30130,7 +30130,7 @@
                 "commune_name_fr": "M'naguer",
                 "daira_name": "الطيبات",
                 "daira_name_fr": "Taibet",
-                "wilaya_code": 55,
+                "wilaya_code": 30,
                 "wilaya_name": "تقرت",
                 "wilaya_name_fr": "Touggourt",
                 "code_commune": 3018
@@ -30151,7 +30151,7 @@
                 "commune_name_fr": "Zaouia El Abidia",
                 "daira_name": "تقرت",
                 "daira_name_fr": "Touggourt",
-                "wilaya_code": 55,
+                "wilaya_code": 30,
                 "wilaya_name": "تقرت",
                 "wilaya_name_fr": "Touggourt",
                 "code_commune": 3009

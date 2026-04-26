@@ -973,12 +973,12 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 972;وادي التاغية;Oued Taria;وادي التاغية;Oued Taria;29;معسكر;Mascara;2922;35.1130905;0.0910316
 973;ورقلة;Ouargla;ورقلة;Ouargla;30;ورقلة;Ouargla;3001;31.95;5.3167
 974;حاسي مسعود;Hassi Messaoud;حاسي مسعود;Hassi Messaoud;30;ورقلة;Ouargla;3004;31.7019;6.073
-975;عين البيضاء;Ain Beida;سيدي خويلد;Sidi Khouiled;30;ورقلة;Ouargla;3003;31.9377;5.39954
+975;عين البيضاء;Ain Beida;سيدي خويلد;Sidi Khouiled;30;ورقلة;Ouargla;3002;31.9377;5.39954
 976;حاسي بن عبد الله;Hassi Ben Abdellah;سيدي خويلد;Sidi Khouiled;30;ورقلة;Ouargla;3012;32.025833;5.468611
 977;سيدي خويلد;Sidi Khouiled;سيدي خويلد;Sidi Khouiled;30;ورقلة;Ouargla;3011;31.979722;5.418333
 978;البرمة;El Borma;البرمة;El Borma;30;ورقلة;Ouargla;3021;31.656389;9.179167
 979;الرويسات;Rouissat;ورقلة;Ouargla;30;ورقلة;Ouargla;3005;31.916667;5.35
-980;انقوسة;N'goussa;انقوسة;N'goussa;30;ورقلة;Ouargla;3009;32.141111;5.3096
+980;انقوسة;N'goussa;انقوسة;N'goussa;30;ورقلة;Ouargla;3003;32.141111;5.3096
 981;سيدي الشحمي;Sidi Chami;السانية;Es Senia;31;وهران;Oran;3113;35.62687;-0.5217
 982;حاسي مفسوخ;Hassi Mefsoukh;قديل;Gdyel;31;وهران;Oran;3121;35.7861;-0.374167
 983;بئر الجير;Bir El Djir;بئر الجير;Bir El Djir;31;وهران;Oran;3103;35.7368;-0.545
@@ -1423,18 +1423,18 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1422;تين زواتين;Tin Zouatine;تين زواتين;Tin Zouatine;54;عين قزام;Ain Guezzam;1107;19.953333;2.966667
 1423;عين قزام;Ain Guezzam;عين قزام;Ain Guezzam;54;عين قزام;Ain Guezzam;1104;19.5696707;5.76806
 1424;تماسين;Temacine;تماسين;Temacine;55;تقرت;Touggourt;3016;33.02194444;6.022778
-1425;سيدي سليمان;Sidi Slimane;المقارين;Megarine;55;تقرت;Touggourt;5503;33.288889;6.094444
-1426;المقارين;Megarine;المقارين;Megarine;55;تقرت;Touggourt;3019;33.183333;6.0833333
-1427;النزلة;Nezla;تقرت;Touggourt;55;تقرت;Touggourt;5509;33.10527;6.050833333
+1425;سيدي سليمان;Sidi Slimane;المقارين;Megarine;30;تقرت;Touggourt;3010;33.288889;6.094444
+1426;المقارين;Megarine;المقارين;Megarine;30;تقرت;Touggourt;3019;33.183333;6.0833333
+1427;النزلة;Nezla;تقرت;Touggourt;30;تقرت;Touggourt;3008;33.10527;6.050833333
 1428;بلدة اعمر;Blidet Amor;تماسين;Temacine;55;تقرت;Touggourt;5507;32.95138889;5.980556
-1429;تبسبست;Tebesbest;تقرت;Touggourt;55;تقرت;Touggourt;3007;33.12;6.08333
-1430;تقرت;Touggourt;تقرت;Touggourt;55;تقرت;Touggourt;3013;33.1;6.05796
-1431;الطيبات;Taibet;الطيبات;Taibet;55;تقرت;Touggourt;3015;33.0829494;6.3997501
-1432;العالية;El Alia;الحجيرة;El-Hadjira;55;تقرت;Touggourt;3013;32.6999655;5.425556
-1433;الحجيرة;El-Hadjira;الحجيرة;El-Hadjira;55;تقرت;Touggourt;3014;32.6130464;5.51259
-1434;بن ناصر;Benaceur;الطيبات;Taibet;55;تقرت;Touggourt;3017;32.84411111;6.441111
-1435;المنقر;M'naguer;الطيبات;Taibet;55;تقرت;Touggourt;3018;33.12638889;6.351944
-1436;الزاوية العابدية;Zaouia El Abidia;تقرت;Touggourt;55;تقرت;Touggourt;3009;33.1375;6.082222
+1429;تبسبست;Tebesbest;تقرت;Touggourt;30;تقرت;Touggourt;3007;33.12;6.08333
+1430;تقرت;Touggourt;تقرت;Touggourt;30;تقرت;Touggourt;3013;33.1;6.05796
+1431;الطيبات;Taibet;الطيبات;Taibet;30;تقرت;Touggourt;3015;33.0829494;6.3997501
+1432;العالية;El Alia;الحجيرة;El-Hadjira;30;تقرت;Touggourt;3020;32.6999655;5.425556
+1433;الحجيرة;El-Hadjira;الحجيرة;El-Hadjira;30;تقرت;Touggourt;3014;32.6130464;5.51259
+1434;بن ناصر;Benaceur;الطيبات;Taibet;30;تقرت;Touggourt;3017;32.84411111;6.441111
+1435;المنقر;M'naguer;الطيبات;Taibet;30;تقرت;Touggourt;3018;33.12638889;6.351944
+1436;الزاوية العابدية;Zaouia El Abidia;تقرت;Touggourt;30;تقرت;Touggourt;3009;33.1375;6.082222
 1437;جانت;Djanet;جانت;Djanet;56;جانت;Djanet;3302;24.55270656;9.4841939
 1438;برج الحواس;Bordj El Haouass;جانت;Djanet;56;جانت;Djanet;5601;24.882778;8.434444
 1439;أم الطيور;Oum Touyour;المغير;El Meghaier;57;المغير;El Meghaier;3929;34.153333;5.833333
