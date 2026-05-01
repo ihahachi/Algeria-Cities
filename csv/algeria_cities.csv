@@ -1115,8 +1115,8 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1114;الذرعـان;Drean;الذرعان;Drean;36;الطارف;El Tarf;3613;36.68333333;7.75
 1115;تندوف;Tindouf;تندوف;Tindouf;37;تندوف;Tindouf;3701;27.670556;-8.12724
 1116;أم العسل;Oum El Assel;تندوف;Tindouf;37;تندوف;Tindouf;3702;28.6125;-6.978889
-1117;خميستي;Khemisti;خميستي;Khemisti;38;تيسمسيلت;Tissemsilt;3804;35.6667;1.95
-1118;ثنية الاحد;Theniet El Had;ثنية الاحد;Theniet El Had;38;تيسمسيلت;Tissemsilt;3801;35.87111;2.01670828
+1117;خميستي;Khemisti;خميستي;Khemisti;38;تيسمسيلت;Tissemsilt;3811;35.6667;1.95
+1118;ثنية الاحد;Theniet El Had;ثنية الاحد;Theniet El Had;38;تيسمسيلت;Tissemsilt;3803;35.87111;2.01670828
 1119;أولاد بسام;Ouled Bessam;تيسمسيلت;Tissemsilt;38;تيسمسيلت;Tissemsilt;3812;35.686389;1.864167
 1120;سيدي بوتوشنت;Sidi Boutouchent;ثنية الاحد;Theniet El Had;38;تيسمسيلت;Tissemsilt;3815;35.825278;1.95138889
 1121;تيسمسيلت;Tissemsilt;تيسمسيلت;Tissemsilt;38;تيسمسيلت;Tissemsilt;3801;35.60722;1.8108
@@ -1124,15 +1124,15 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1123;بني شعيب;Beni Chaib;برج بونعامة;Bordj Bounaama;38;تيسمسيلت;Tissemsilt;3805;35.820278;1.7995306
 1124;بني لحسن;Beni Lahcene;برج بونعامة;Bordj Bounaama;38;تيسمسيلت;Tissemsilt;3822;35.8517;1.624722222
 1125;سيدي عابد;Sidi Abed;عماري;Ammari;38;تيسمسيلت;Tissemsilt;3818;35.745278;1.705
-1126;سيدي سليمان;Sidi Slimane;برج بونعامة;Bordj Bounaama;38;تيسمسيلت;Tissemsilt;3806;35.86;1.833333333
-1127;بوقائد;Boucaid;الأزهرية;Lazharia;38;تيسمسيلت;Tissemsilt;3819;35.890278;1.61978
+1126;سيدي سليمان;Sidi Slimane;برج بونعامة;Bordj Bounaama;38;تيسمسيلت;Tissemsilt;3820;35.86;1.833333333
+1127;بوقائد;Boucaid;الأزهرية;Lazharia;38;تيسمسيلت;Tissemsilt;3821;35.890278;1.61978
 1128;الأربعاء;Larbaa;الأزهرية;Lazharia;38;تيسمسيلت;Tissemsilt;3816;35.937222;1.475277
 1129;الأزهرية;Lazharia;الأزهرية;Lazharia;38;تيسمسيلت;Tissemsilt;3804;35.93722222;1.56
 1130;لرجام;Lardjem;لرجام;Lardjem;38;تيسمسيلت;Tissemsilt;3806;35.7495;1.5485
 1131;الملعب;Melaab;لرجام;Lardjem;38;تيسمسيلت;Tissemsilt;3807;35.7495;1.3325
 1132;العيون;Layoune;خميستي;Khemisti;38;تيسمسيلت;Tissemsilt;3810;35.6967;1.99664
 1133;تملاحت;Tamellahet;لرجام;Lardjem;38;تيسمسيلت;Tissemsilt;3819;35.711111;1.631944444
-1134;اليوسفية;Youssoufia;برج الأمير عبد القادر;Bordj Emir Abdelkader;38;تيسمسيلت;Tissemsilt;3804;35.948056;2.112778
+1134;اليوسفية;Youssoufia;برج الأمير عبد القادر;Bordj Emir Abdelkader;38;تيسمسيلت;Tissemsilt;3814;35.948056;2.112778
 1135;برج الأمير عبد القادر;Bordj El Emir Abdelkader;برج الأمير عبد القادر;Bordj Emir Abdelkader;38;تيسمسيلت;Tissemsilt;3809;35.8652978;2.2674341
 1136;عماري;Ammari;عماري;Ammari;38;تيسمسيلت;Tissemsilt;3813;35.5771;1.6623
 1137;المعاصم;Maacem;عماري;Ammari;38;تيسمسيلت;Tissemsilt;3817;35.659722;1.603611
