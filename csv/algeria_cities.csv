@@ -1352,8 +1352,8 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1351;متليلي;Metlili;متليلي;Metlili;47;غرداية;Ghardaïa;4705;32.26667;3.63333
 1352;بريان;Berriane;بريان;Berriane;47;غرداية;Ghardaïa;4704;32.82648;3.766667
 1353;غرداية;Ghardaia;غرداية;Ghardaia;47;غرداية;Ghardaïa;4701;32.4833;3.6667
-1354;القطار;El-Guettar;مازونة;Mazouna;48;غليزان;Relizane;4816;36.19112;0.8160086
-1355;أولاد يعيش;Ouled Aiche;عمي موسى;Ammi Moussa;48;غليزان;Relizane;4813;35.8266;0.961111
+1354;القطار;El-Guettar;مازونة;Mazouna;48;غليزان;Relizane;4815;36.19112;0.8160086
+1355;أولاد يعيش;Ouled Aiche;عمي موسى;Ammi Moussa;48;غليزان;Relizane;4805;35.8266;0.961111
 1356;بني درقن;Beni Dergoun;زمورة;Zemmoura;48;غليزان;Relizane;4813;35.7933416;0.801239
 1357;دار بن عبد الله;Dar Ben Abdelah;زمورة;Zemmoura;48;غليزان;Relizane;4832;35.701;0.68719
 1358;زمورة;Zemmoura;زمورة;Zemmoura;48;غليزان;Relizane;4812;35.7225;0.75
@@ -1362,9 +1362,9 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1361;بلعسل بوزقزة;Belaassel Bouzagza;المطمر;El Matmar;48;غليزان;Relizane;4803;35.8247;0.577778
 1362;المطمر;El-Matmar;المطمر;El Matmar;48;غليزان;Relizane;4817;35.732361;0.4611475
 1363;سيدي خطاب;Sidi Khettab;المطمر;El Matmar;48;غليزان;Relizane;4810;35.9111;0.51
-1364;سيدي امحمد بن عودة;Sidi M'hamed Benaouda;المطمر;El Matmar;48;غليزان;Relizane;4824;35.60409;0.58874
-1365;عين طارق;Ain-Tarek;عين طارق;Ain Tarek;48;غليزان;Relizane;4815;35.781388;1.1302226
-1366;حد الشكالة;Had Echkalla;عين طارق;Ain Tarek;48;غليزان;Relizane;4808;35.679167;1.147222
+1364;سيدي امحمد بن عودة;Sidi M'hamed Benaouda;المطمر;El Matmar;48;غليزان;Relizane;4818;35.60409;0.58874
+1365;عين طارق;Ain-Tarek;عين طارق;Ain Tarek;48;غليزان;Relizane;4819;35.781388;1.1302226
+1366;حد الشكالة;Had Echkalla;عين طارق;Ain Tarek;48;غليزان;Relizane;4834;35.679167;1.147222
 1367;الولجة;El Ouldja;عمي موسى;Ammi Moussa;48;غليزان;Relizane;4836;35.9108;0.816667
 1368;مازونة;Mazouna;مازونة;Mazouna;48;غليزان;Relizane;4822;36.1262742;0.8801926
 1369;عين الرحمة;Ain Rahma;يلل;Yellel;48;غليزان;Relizane;4824;35.62472222;0.392778
@@ -1381,9 +1381,9 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1380;أولاد سيدي الميهوب;Ouled Sidi Mihoub;جديوية;Djidiouia;48;غليزان;Relizane;4838;35.973889;0.691667
 1381;بن داود;Bendaoud;غليزان;Relizane;48;غليزان;Relizane;4835;35.719167;0.520278
 1382;وادي رهيو;Oued-Rhiou;وادي رهيو;Oued Rhiou;48;غليزان;Relizane;4802;35.96111111;0.9167
-1383;الحاسي;El Hassi;عمي موسى;Ammi Moussa;48;غليزان;Relizane;4804;35.7425;1.11143
+1383;الحاسي;El Hassi;عمي موسى;Ammi Moussa;48;غليزان;Relizane;4833;35.7425;1.11143
 1384;سيدي أمحمد بن علي;Sidi M'hamed Benali;سيدي أمحمد بن علي;Sidi M'hamed Ben Ali;48;غليزان;Relizane;4808;36.14472222;0.843056
-1385;مديونة;Mediouna;سيدي أمحمد بن علي;Sidi M'hamed Ben Ali;48;غليزان;Relizane;4819;36.12445404;0.747250618
+1385;مديونة;Mediouna;سيدي أمحمد بن علي;Sidi M'hamed Ben Ali;48;غليزان;Relizane;4809;36.12445404;0.747250618
 1386;بني زنطيس;Beni Zentis;سيدي أمحمد بن علي;Sidi M'hamed Ben Ali;48;غليزان;Relizane;4830;36.111389;0.663611111
 1387;وادي الجمعة;Oued El Djemaa;الحمادنة;El H'madna;48;غليزان;Relizane;4826;35.797222;0.6167687
 1388;لحلاف;Lahlef;وادي رهيو;Oued Rhiou;48;غليزان;Relizane;4829;35.8928056;0.983333
