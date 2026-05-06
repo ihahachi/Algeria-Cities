@@ -1825,7 +1825,7 @@
                 "wilaya_code": 4,
                 "wilaya_name": "أم البواقي",
                 "wilaya_name_fr": "Oum El Bouaghi",
-                "code_commune": 424
+                "code_commune": 405
             }
         },
         {
@@ -10477,7 +10477,7 @@
                 "wilaya_code": 16,
                 "wilaya_name": "الجزائر",
                 "wilaya_name_fr": "Alger",
-                "code_commune": 1647
+                "code_commune": 1646
             }
         },
         {
@@ -10498,7 +10498,7 @@
                 "wilaya_code": 16,
                 "wilaya_name": "الجزائر",
                 "wilaya_name_fr": "Alger",
-                "code_commune": 1648
+                "code_commune": 1650
             }
         },
         {
@@ -10519,7 +10519,7 @@
                 "wilaya_code": 16,
                 "wilaya_name": "الجزائر",
                 "wilaya_name_fr": "Alger",
-                "code_commune": 1649
+                "code_commune": 1655
             }
         },
         {
@@ -10540,7 +10540,7 @@
                 "wilaya_code": 16,
                 "wilaya_name": "الجزائر",
                 "wilaya_name_fr": "Alger",
-                "code_commune": 1645
+                "code_commune": 1653
             }
         },
         {
@@ -10561,7 +10561,7 @@
                 "wilaya_code": 16,
                 "wilaya_name": "الجزائر",
                 "wilaya_name_fr": "Alger",
-                "code_commune": 1646
+                "code_commune": 1644
             }
         },
         {
@@ -13585,7 +13585,7 @@
                 "wilaya_code": 20,
                 "wilaya_name": "سعيدة",
                 "wilaya_name_fr": "Saïda",
-                "code_commune": 2612
+                "code_commune": 2014
             }
         },
         {
@@ -27676,7 +27676,7 @@
                 "wilaya_code": 46,
                 "wilaya_name": "عين تيموشنت",
                 "wilaya_name_fr": "Aïn Témouchent",
-                "code_commune": 4605
+                "code_commune": 4602
             }
         },
         {
@@ -27697,7 +27697,7 @@
                 "wilaya_code": 46,
                 "wilaya_name": "عين تيموشنت",
                 "wilaya_name_fr": "Aïn Témouchent",
-                "code_commune": 4607
+                "code_commune": 4614
             }
         },
         {
@@ -27718,7 +27718,7 @@
                 "wilaya_code": 46,
                 "wilaya_name": "عين تيموشنت",
                 "wilaya_name_fr": "Aïn Témouchent",
-                "code_commune": 4622
+                "code_commune": 4603
             }
         },
         {
@@ -27802,7 +27802,7 @@
                 "wilaya_code": 46,
                 "wilaya_name": "عين تيموشنت",
                 "wilaya_name_fr": "Aïn Témouchent",
-                "code_commune": 4606
+                "code_commune": 4619
             }
         },
         {
@@ -27991,7 +27991,7 @@
                 "wilaya_code": 46,
                 "wilaya_name": "عين تيموشنت",
                 "wilaya_name_fr": "Aïn Témouchent",
-                "code_commune": 4609
+                "code_commune": 4627
             }
         },
         {
@@ -28054,7 +28054,7 @@
                 "wilaya_code": 46,
                 "wilaya_name": "عين تيموشنت",
                 "wilaya_name_fr": "Aïn Témouchent",
-                "code_commune": 4605
+                "code_commune": 4626
             }
         },
         {
@@ -29476,13 +29476,13 @@
             "properties": {
                 "id": "1404",
                 "commune_name": "رأس الميعاد",
-                "commune_name_fr": "Ras El Miad",
+                "commune_name_fr": "Ras El Miaad",
                 "daira_name": "سيدي خالد",
                 "daira_name_fr": "Sidi Khaled",
                 "wilaya_code": 51,
                 "wilaya_name": "أولاد جلال",
                 "wilaya_name_fr": "Ouled Djellal",
-                "code_commune": 515
+                "code_commune": 5106
             }
         },
         {
@@ -29497,13 +29497,13 @@
             "properties": {
                 "id": "1405",
                 "commune_name": "بسباس",
-                "commune_name_fr": "Besbes",
+                "commune_name_fr": "El Bachir",
                 "daira_name": "سيدي خالد",
                 "daira_name_fr": "Sidi Khaled",
                 "wilaya_code": 51,
                 "wilaya_name": "أولاد جلال",
                 "wilaya_name_fr": "Ouled Djellal",
-                "code_commune": 707
+                "code_commune": 5102
             }
         },
         {
@@ -29524,7 +29524,7 @@
                 "wilaya_code": 51,
                 "wilaya_name": "أولاد جلال",
                 "wilaya_name_fr": "Ouled Djellal",
-                "code_commune": 708
+                "code_commune": 5105
             }
         },
         {
@@ -29545,7 +29545,7 @@
                 "wilaya_code": 51,
                 "wilaya_name": "أولاد جلال",
                 "wilaya_name_fr": "Ouled Djellal",
-                "code_commune": 709
+                "code_commune": 5103
             }
         },
         {
@@ -29560,13 +29560,13 @@
             "properties": {
                 "id": "1408",
                 "commune_name": "الشعيبة",
-                "commune_name_fr": "Chaiba",
+                "commune_name_fr": "Chaïba",
                 "daira_name": "أولاد جلال",
                 "daira_name_fr": "Ouled Djellal",
                 "wilaya_code": 51,
                 "wilaya_name": "أولاد جلال",
                 "wilaya_name_fr": "Ouled Djellal",
-                "code_commune": 515
+                "code_commune": 5104
             }
         },
         {
@@ -29587,7 +29587,7 @@
                 "wilaya_code": 51,
                 "wilaya_name": "أولاد جلال",
                 "wilaya_name_fr": "Ouled Djellal",
-                "code_commune": 705
+                "code_commune": 5101
             }
         },
         {
@@ -30532,7 +30532,7 @@
                 "wilaya_code": 59,
                 "wilaya_name": "أفلو",
                 "wilaya_name_fr": "Aflou",
-                "code_commune": 302
+                "code_commune": 316
             }
         },
         {
@@ -30553,7 +30553,7 @@
                 "wilaya_code": 59,
                 "wilaya_name": "أفلو",
                 "wilaya_name_fr": "Aflou",
-                "code_commune": 308
+                "code_commune": 324
             }
         },
         {
@@ -31330,7 +31330,7 @@
                 "wilaya_code": 64,
                 "wilaya_name": "بوسعادة",
                 "wilaya_name_fr": "Boussaâda",
-                "code_commune": 2823
+                "code_commune": 2821
             }
         },
         {
@@ -31792,7 +31792,7 @@
                 "wilaya_code": 66,
                 "wilaya_name": "القنطرة",
                 "wilaya_name_fr": "El Kantara",
-                "code_commune": 716
+                "code_commune": 719
             }
         },
         {
