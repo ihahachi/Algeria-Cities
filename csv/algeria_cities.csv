@@ -1304,7 +1304,7 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1303;المخاطرية;Mekhatria;العامرة;El Amra;44;عين الدفلة;Aïn Defla;4430;36.3446556;2.146111
 1304;تيوت;Tiout;عين الصفراء;Ain Sefra;45;النعامة;Naâma;4504;32.7667;-0.416667
 1305;مغرار;Moghrar;مغرار;Moghrar;45;النعامة;Naâma;4506;32.51229;-0.58816
-1306;عسلة;Asla;عسلة;Asla;45;النعامة;Naâma;4504;33.016667;-0.083333333
+1306;عسلة;Asla;عسلة;Asla;45;النعامة;Naâma;4507;33.016667;-0.083333333
 1307;القصدير;Kasdir;مكمن بن عمار;Mekmen Ben Amar;45;النعامة;Naâma;4511;33.709722;-1.358333
 1308;مكمن بن عمار;Makmen Ben Amar;مكمن بن عمار;Mekmen Ben Amar;45;النعامة;Naâma;4510;33.7189056;-0.7271479
 1309;عين الصفراء;Ain Sefra;عين الصفراء;Ain Sefra;45;النعامة;Naâma;4503;32.75;-0.5833
@@ -1312,8 +1312,8 @@ id;commune_name;commune_name_fr;daira_name;daira_name_fr;wilaya_code;wilaya_name
 1311;البيوض;El Biodh;المشرية;Mecheria;45;النعامة;Naâma;4512;33.7636135;-0.133333
 1312;عين بن خليل;Ain Ben Khelil;المشرية;Mecheria;45;النعامة;Naâma;4509;33.29027778;-0.763889
 1313;النعامة;Naama;النعامة;Naama;45;النعامة;Naâma;4501;33.2667;-0.3167
-1314;جنين بورزق;Djenienne Bourezg;مغرار;Moghrar;45;النعامة;Naâma;4504;32.3709321;-0.804719988
-1315;سفيسيفة;Sfissifa;سفيسيفة;Sfissifa;45;النعامة;Naâma;4503;32.733333;-0.868889
+1314;جنين بورزق;Djenienne Bourezg;مغرار;Moghrar;45;النعامة;Naâma;4508;32.3709321;-0.804719988
+1315;سفيسيفة;Sfissifa;سفيسيفة;Sfissifa;45;النعامة;Naâma;4505;32.733333;-0.868889
 1316;سيدي بومدين;Sidi Boumediene;عين الأربعاء;Ain Larbaa;46;عين تيموشنت;Aïn Témouchent;4615;35.354167;-0.89305556
 1317;تامزورة;Tamzoura;عين الأربعاء;Ain Larbaa;46;عين تيموشنت;Aïn Témouchent;4610;35.40889;-0.65936
 1318;شعبة اللحم;Chaabat El Ham;المالح;El Maleh;46;عين تيموشنت;Aïn Témouchent;4605;35.33619;-1.1015
